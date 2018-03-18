@@ -1,0 +1,103 @@
+effic-gui-title=EfficienSee
+effic-gui-noallowed=Player of this force cannot use EfficienSee
+effic-gui-title-tt=Enable / disable mod calculations
+effic-gui-prev-tt=History / previous
+effic-gui-next-tt=History / next
+effic-gui-reset=Reset
+effic-gui-reset-tt=Reset the time counter
+effic-gui-refresh=Refresh
+effic-gui-refresh-tt=Manually refresh display and numbers on the map
+effic-gui-map-toggle-tt=Display/hide all machines status on the map
+effic-gui-options=Options
+effic-gui-rec-list=Recipes list
+effic-gui-item-list=Items/fluids list
+
+effic-gui-help=Help
+effic-gui-help0=EfficienSee Help
+effic-gui-help1=- Hover on a machine and press N to open associated recipe or object in window.
+effic-gui-help2=- If no machine selected, press N to open or close main window.
+effic-gui-help3=- Hover on a machine and press B to toggle on-map infos on all machines of the same family.
+effic-gui-help4=- If no machine selected, press B to toggle on-map infos on all machines.
+effic-gui-help5=- Navigate through the production tree, by recipe, ingredients and products, clicking on icons.
+effic-gui-help6=- You can click the main recipe or object buttons to open the list of all recipes or items.
+effic-gui-help7=- You can click the main recipe or object buttons with an object in your hand to browse the corresponding recipe or item.
+effic-gui-help8=- Beware : if you ask a lot of infos on a big base, you can experiment some little lags...
+effic-gui-help9=- Hover on the GUI and trust tooltips !
+effic-gui-help10=- Read the full documentation on the forum : https://forums.factorio.com/viewtopic.php?f=92&t=29179 ...
+
+effic-gui-clean=Clean history
+effic-gui-close=Close
+effic-gui-close-tt=Close window
+effic-gui-auto-close=Auto-close
+effic-gui-auto-close-tt=Auto-close window option
+effic-gui-rec-tt=Open recipes list / Click with an item in your hand to browse its (first) recipe
+effic-gui-obj-tt=Open items list / Click with an item in your hand to browse the item
+
+effic-gui-open-object=Open object
+effic-gui-open-recipe=Open recipe
+effic-gui-map-mach-tt=Display/hide status of this family of machines on the map
+
+effic-gui-auto=Auto
+effic-gui-auto-tt=Auto refresh every 3 sec.
+effic-gui-total=Total/counter (__1__)
+effic-gui-total-tt=Time reference : total or counter
+effic-gui-alerts=Alerts
+effic-gui-unused=Unused recipes
+effic-gui-unused-tt=Show/hide unused recipes
+effic-gui-hidden=Hidden recipes
+effic-gui-hidden-tt=Show/hide hidden recipes
+effic-gui-sel=Selected
+effic-gui-sel-tt=Show only selected/checked items from the list
+
+effic-gui-enabled=Mod enabled
+effic-gui-polling=Polling time (1/60s, >14)
+effic-gui-limits=Thresholds:
+effic-gui-under=Under-production (%)
+effic-gui-over=Over-production (%)
+effic-gui-lazy=Low employement of machine (%)
+effic-gui-busy=High employement of machine (%)
+effic-gui-units=Time units:
+effic-gui-unit-s=/s
+effic-gui-unit-m=/m
+effic-gui-unit-h=/h
+
+effic-gui-recipe=Recipe (/__1__)
+effic-gui-clock-tt=Time needed by this recipe
+effic-gui-res-tt=Recipe research status (click to research technology)
+effic-gui-tec-tt=Technology of the recipe ("base" if none)
+effic-gui-ass=__1__/__2__
+effic-gui-ass-tt=Working machines / total machines
+
+effic-gui-name=Name
+effic-gui-pertime=/time
+effic-gui-prod=Prod.
+effic-gui-dprod=dP
+effic-gui-cons=Cons.
+effic-gui-dcons=dC
+effic-gui-stock=Stock
+effic-gui-dstock=dS
+effic-gui-norm=Norm. dP/dC
+effic-gui-nbrecs=Recipes
+effic-gui-machs=Machs.
+effic-gui-prodof=Prod.
+effic-gui-ingrof=Ingr.
+
+effic-gui-item=Item
+effic-gui-fluid=Fluid
+effic-gui-ingr-tt=Ingredient
+effic-gui-prod-tt=Product
+effic-gui-ingr-of=Ingredient of __1__ recipe(s)
+effic-gui-prod-of=Product of __1__ recipe(s)
+effic-gui-nb=Nb
+
+effic-gui-info-employ=__1__: employement rate=__2__%
+effic-gui-info-employ-crafting=__1__: employement rate=__2__% (recipe=__3__), currently crafing
+effic-gui-info-employ-nocraft=__1__: employement rate=__2__% (recipe=__3__), currently not crafting
+effic-gui-info-employ-output=__1__: employement rate=__2__% (output=__3__), currently working
+effic-gui-info-employ-nooutput=__1__: employement rate=__2__% (output=__3__), currently not working
+effic-gui-recap=__1__ assemblers - __2__ furnaces - __3__ drills
+
+[controls]
+effic_hotkey=EfficienSee GUI
+effic_hotkey_on_map=EfficienSee icons on/off
+effic_hotkey_reset=EfficienSee reset counter

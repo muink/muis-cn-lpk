@@ -5,7 +5,7 @@ Auto Deconstruct								|0.1.11			|0.1.11			|100%				|false
 Auto Research									|4.0.3			|4.0.3			|100%				|false
 Automatic Belt Planner							|0.12.0			|0.12.0			|100%				|false
 Belt Reverser									|0.0.5			|0.0.5			|100%				|false
-Bio Industries									|2.1.9			|2.1.9			|100%				|false
+Bio Industries									|2.2.0			|2.2.0			|100%				|false
 Bottleneck										|0.9.1			|0.9.1			|100%				|false
 Bullet Trails									|0.3.1			|0.3.1			|100%				|false
 Creative World									|0.2.0			|0.2.0			|100%				|false
@@ -20,6 +20,7 @@ Free circuit wires								|1.0.1			|1.0.1			|100%				|false
 Geothermal										|1.0.72			|1.0.72			|100%				|false
 Helmod: assistant for planning your base.		|0.7.7			|0.7.7			|100%				|false
 Mods To File									|0.1.1			|0.1.1			|100%				|false
+Muro automatic wall builder						|1.0.1			|1.0.1			|100%				|false
 Mushroom Cloud									|1.0.3			|1.0.3			|100%				|false
 My Tree Mod										|1.1.1			|1.1.1			|100%				|false
 Natural Tree Expansion Reloaded					|016_0.3.1		|016_0.3.1		|100%				|false
@@ -28,6 +29,7 @@ Orphan Finder									|1.1.0			|1.1.0			|100%				|false
 OutpostPlanner									|1.0.2			|1.0.2			|100%				|false
 PlannerCore										|0.1.1			|0.1.1			|100%				|false
 Realistic Ores									|2.16.0			|2.16.0			|100%				|false
+Recycle Everything								|0.2.6			|0.2.6			|100%				|false
 Research queue									|1.6.4			|1.6.4			|100%				|false
 Reverse Factory									|5.0.1			|5.0.1			|100%				|false
 Stone Water Well								|1.0.8			|1.0.8			|100%				|false
@@ -35,4 +37,4 @@ TimeButtons										|0.3.5			|0.3.5			|100%				|false
 Tree Collision									|0.4.2			|0.4.2			|100%				|false
 Tree Sapling Mod								|0.2.2			|0.2.2			|100%				|false
 Upgrade planner									|1.5.2			|1.5.2			|100%				|false
-Vehicle Wagon									|1.2.2			|1.2.2			|100%				|false
+Vehicle Wagon									|1.2.3			|1.2.3			|100%				|false

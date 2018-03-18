@@ -1,0 +1,376 @@
+[mod-setting-name]
+BI_Bio_Cannon=Enable: Bio Cannon
+BI_Solar_Additions=Enable: Bio Solar Additions
+BI_Alt_Solar_Farm_Image=--Alternative Solar Farm Image
+BI_Accumulator=Enable: Bio Accumulator
+BI_Bio_Fuel=Enable: Bio Fuel Production
+BI_Recipe_Tweaks=Enable: Recipe Tweaks
+BI_Alt_Farm_Image=--OLD Bio Farm Image
+BI_QC=Used during QC
+
+[mod-setting-description]
+BI_Bio_Cannon=The Bio Cannon is very powerful, but will only fire at Spawners
+BI_Bio_Fuel=Enables the production of oil products using Bio Fuels
+BI_Recipe_Tweaks=Small tweaks to some vanilla recipes. See Web for full list
+BI_QC=Used during my testing of the mod
+BI_Solar_Additions=Enables the Solar Farm, Solar Power Pannt, Bio Accumulator and Huge Substation.
+BI_Alt_Solar_Farm_Image=If you don't like the current Solar Farm Image, use this one.
+BI_Accumulator=The Bio Accumulator is 50 condensed vanilla accumulators but costs a little more. You pay for the space saved.
+BI_Alt_Farm_Image=Use the OLD Bio Farm Image
+
+
+[technology-name]
+bi_bio_farming=Bio-Farm
+bi-fertiliser=Fertiliser
+bi-coal-processing=Coal Processing
+bi-coal-processing-2=Coal Processing 2
+bi-coal-processing-3=Coal Processing 3
+bi-organic-plastic=Organic Plastic
+bi-advanced-biotechnology=Advanced Biotechnology
+Bio_Cannon=Prototype Artillery
+
+[technology-description]
+bi_bio_farming=Learn how to grow trees - indoors!
+Bio_Cannon=Prototype Artillery turret Technology. - Not yet capable of manual targeting
+
+
+[entity-name]
+bi_bio_farm=Bio-Farm
+bi_light_for_Bio_Farm=Bio-Farm Heat Lamps
+bi_medium-electric-pole_for_Bio_Farm=Bio-Farm Cabling
+bi_solar-panel_for_Bio_Farm=Bio-Farm Solar
+bio-greenhouse=Bio Nursery
+bi-cokery=Cokery
+bi-cokery-dummy=Cokery
+bi-stone-crusher=Stone Crusher
+bi-bioreactor=Bioreactor
+bi-biolab=Biolab
+bi-Bio_Garden=Bio Garden
+bi_light_for_Bio_Garden=Bio Garden Light
+bi_bio_Solar_Farm=Bio Solar Farm
+bi_bio_Solar_Farm_Image=Bio Solar Farm Image
+Bio_Cannon=Prototype Artillery
+Bio_Cannon_Area=Prototype Artillery
+bi-big-wooden-pole=Big Wooden Pole
+bi-wooden-fence=Wooden Fence
+seedling=Seedling
+seedling-2=Seedling
+seedling-3=Seedling
+bi-curved-rail-wood=Wooden Curved Rail
+bi-straight-rail-wood=Wooden Straight Rail
+bi-curved-rail-wood-bridge=Wooden Curved Rail used for Bridges
+bi-straight-rail-wood-bridge=Wooden Straight Rail used for Bridges
+bi-solar-mat=Musk floor
+bi_accumulator=Huge Storage Accumulator
+bi_solar_pole=Hidden Power Pole for Musk Mat
+bi_solar-panel_for_Solar-Mat=Musk floor
+bio_boiler=Bio Boiler
+bi-wood-pipe=Wood Pipe
+bi-pipe-to-ground-wood=Wood Pipe to Ground
+bi-large-wooden-chest=Large Wooden Chest
+bio-turret=Dart Turret
+basic-dart-magazine=Basic Dart Ammo
+enhanced-dart-magazine=Enhanced Dart Ammo
+bi-large-substation=Huge Substation
+seed-bomb-basic=Basic Seed Bomb
+seed-bomb-standard=Standard Seed Bomb
+seed-bomb-advanced=Advanced Seed Bomb
+bi-solar-boiler=Solar Power Plant & Boiler - Boiler
+bi-Solar-Boiler-panel=Solar Power Plant & Boiler - Panel
+bi-huge-wooden-pole=Huge Electric Pole
+
+[entity-description]
+bi_bio_farm=Bio-Farm, turn seedlings into raw wood. Consumes more electricity at night
+bi_light_for_Bio_Farm=Bio-Farm Heat Lamps, so trees can grow at night (Hidden)
+bi_medium-electric-pole_for_Bio_Farm=Bio-Farm Cabling (Hidden)
+bi_solar-panel_for_Bio_Farm=Bio-Farm Solar (Hidden)
+bio-greenhouse=Use a Nursery to grow seedlings
+bi-Bio_Garden=The Bio Garden scrubs air, removing pollution. (-35 PU)
+bi_light_for_Bio_Garden=The Garden also acts as a lamp at night. (Hidden)
+bi_bio_Solar_Farm=Save space, by condensing your solar panels into a compact unit. Create a lot of power!
+bi-big-wooden-pole=Big Wooden Power Pole. Will auto heal if you play with NE Enemies
+bi-wooden-fence=A defensive wall made from wood
+seedling=A young tree, perfect for planting. You can also plant this in the ground and it will grow into a tree. Remember to first fertilize the ground to improve the chances of it growing.
+seedling-2=A young tree, perfect for planting. You can also plant this in the ground and it will grow into a tree. Remember to first fertilize the ground to improve the chances of it growing.
+seedling-3=A young tree, perfect for planting. You can also plant this in the ground and it will grow into a tree. Remember to first fertilize the ground to improve the chances of it growing.
+bi-curved-rail-wood=Wooden Curved Rail
+bi-straight-rail-wood=Wooden Straight Rail
+bi-curved-rail-wood-bridge=Wooden Curved Rail used for Bridges.  Note you can't walk on this.
+bi-straight-rail-wood-bridge=Wooden Straight Rail used for Bridges. Note you can't walk on this.
+straight-rail=Straight rail, can also conduct electricity
+curved-rail=Curved rail, can also conduct electricity
+bi-solar-mat=A solar panel/floor that can be used as a pavement, generates 10kW electricity and fast movement (Thanks Elon Musk!)
+bi_accumulator=Can store very large amounts of Energy, because size matters...
+bi_solar_pole=Hidden Power Pole for Musk Mat
+bi_solar-panel_for_Solar-Mat=Power from Musk floor
+bio_boiler=High Efficiency Boiler
+bi-wood-pipe=Wooden Pipe
+bi-pipe-to-ground-wood=Wood Pipe to Ground
+bi-large-wooden-chest=Large Wooden Chest
+Bio_Cannon=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+Bio_Cannon_Area=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+bio-turret=Early Turret
+basic-dart-magazine=Basic Dart Ammo
+enhanced-dart-magazine=Enhanced Dart Ammo
+bi-large-substation=Huge Substation
+seed-bomb-basic=Pland trees in a large area via a seed bomb!
+seed-bomb-standard=Pland trees in a large area, with fertiliser via a seed bomb!
+seed-bomb-advanced=Pland trees in a large area, with adv. fertiliser via a seed bomb!
+bi-solar-boiler=a Boiler that uses Solar or Electricity. Also produces Electricity
+bi-Solar-Boiler-panel=a Boiler that uses Solar or Electricity. Also produces Electricity
+bi-huge-wooden-pole=An Electric pole that can span vast distances - 64
+
+[item-name]
+bi-seed=Seed
+seedling=Seedling
+bi_bio_farm=Bio-Farm
+bi-charcoal=Charcoal
+bi-coke-coal=Cokecoal
+bi-ash=Ash
+stone-crushed=Crushed Stone
+fertiliser=Fertiliser
+bi-adv-fertiliser=Advanced Fertiliser
+bi-cellulose=Cellulose
+bi-nutrients=Nutrients
+bi-medicine=Medicine
+bi-cokery=Cokery
+bi-stone-crusher=Stone Crusher
+bi-bioreactor=Bioreactor
+bi-biolab=Biolab
+bi-woodpulp=Wood Pulp
+bi-Purified_Air=Purified Air
+bi_bio_Solar_Farm=Bio Solar Farm
+Bio_Cannon=Prototype Artillery
+Bio_Cannon_Area=Prototype Artillery
+Bio_Cannon_Basic_Ammo=Artillery Basic Ammo
+Bio_Cannon_Poison_Ammo=Artillery Poison Ammo
+Bio_Cannon_Bio_Ammo=Artillery Bio Ammo
+bi-big-wooden-pole=Big Wooden Power Pole. Will auto heal if you play with NE Enemies
+bi-wooden-fence=Wooden Fence
+bi-rail-wood=Wooden Rail
+bi-rail-wood-bridge=Wooden Bridge Rail
+bi-solar-mat=Musk floor
+bi_accumulator=Huge Storage Accumulator
+bi_solar_pole=Hidden Power Pole for Musk Mat
+bi_solar-panel_for_Solar-Mat=Musk floor
+bio_boiler=Bio Boiler
+bi-wood-pipe=Wooden Pipe
+bi-pipe-to-ground-wood=Wooden Pipe to Ground
+bi-large-wooden-chest=Large Wooden Chest
+bio-turret=Dart Turret
+basic-dart-magazine=Basic Dart Ammo
+enhanced-dart-magazine=Enhanced Dart Ammo
+bi-large-substation=Huge Substation
+seed-bomb-basic=Basic Seed Bomb
+seed-bomb-standard=Standard Seed Bomb
+seed-bomb-advanced=Advanced Seed Bomb
+bi-solar-boiler=Solar Power Plant & Boiler - Boiler
+bi-Solar-Boiler-panel=Solar Power Plant & Boiler - Panel
+bi-huge-wooden-pole=Huge Electric Pole
+
+[item-description]
+bi-seed=Seed to grow a seedling from
+seedling=A young tree, perfect for planting. You can also plant this in the ground and it will grow into a tree. Remember to first fertilize the ground to improve the chances of it growing.
+bi_bio_farm=A Greenhouse with powerful artificial lighting for growing Seedlings into trees (Raw-wood)
+bi-Purified_Air=Clean Air, Pollution removed!
+bi-coke-coal=Cokecoal is a great train fuel.
+bi_bio_Solar_Farm=Save space, by condensing your solar panels into a compact unit. Create a lot of power!
+Bio_Cannon=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+Bio_Cannon_Area=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+Bio_Cannon_Basic_Ammo=Low Physical Damage
+Bio_Cannon_Poison_Ammo=Medium Poison Damage
+Bio_Cannon_Bio_Ammo=High Biological Damage
+bi-big-wooden-pole=Big Wooden Power Pole
+bi-wooden-fence=A defensive wall made from wood
+bi-rail-wood=Wooden Rail
+bi-rail-wood-bridge=Wooden Rail Bridge that can cross water. Note you can't walk on this.
+straight-rail=Straight rail, can also conduct electricity
+curved-rail=Curved rail, can also conduct electricity
+rail=Use to build straight rails manually or through the rail planner.\nThe rail planner can build short paths directly using __CONTROL__build__ or long ghost paths using __CONTROL__build-ghost__. Can also conduct electricity.
+bi-solar-mat=A solar panel/floor that can be used as a pavement, generates 10kW electricity and fast movement (Thanks Elon Musk!)
+bi_accumulator=Can store very large amounts of Energy, because size matters...
+bi_solar_pole=Hidden Power Pole for Musk Mat
+bi_solar-panel_for_Solar-Mat=Power from Musk floor
+bio_boiler=High Efficiency Boiler
+bi-wood-pipe=a Pipe made from Wood
+bi-pipe-to-ground-wood=a Wood Pipe to Ground
+bi-large-wooden-chest=Large Wooden Chest
+bio-turret=Early Turret
+basic-dart-magazine=Basic Dart Ammo
+enhanced-dart-magazine=Enhanced Dart Ammo
+bi-large-substation=Huge Substation
+seed-bomb-basic=Pland trees in a large area via a seed bomb!
+seed-bomb-standard=Pland trees in a large area, with fertiliser via a seed bomb!
+seed-bomb-advanced=Pland trees in a large area, with adv. fertiliser via a seed bomb!
+bi-solar-boiler=a Boiler that uses Solar or Electricity. Also produces Electricity
+bi-Solar-Boiler-panel=a Boiler that uses Solar or Electricity. Also produces Electricity
+bi-huge-wooden-pole=An Electric pole that can span vast distances - 64
+
+
+[fluid-name]
+liquid-air=Liquid Air
+nitrogen=Nitrogen
+bi-biomass=Algae-Biomass
+
+
+[recipe-name]
+bi_seed_1=Basic Seed
+bi_seed_2=Tree Seed Production from Ash
+bi_seed_3=Tree Seed Production from Fertiliser
+bi_seed_4=Tree Seed Production from Advanced Fertiliser
+bi-sulfur=Bio-Sulfur
+bi-sulfur_angels=Bio-Sulfur
+bi-acid=Bio-Acid
+bi-battery=Bio Battery
+bi-biomass-1=Algae-Biomass-1
+bi-biomass-2=Algae-Biomass-2
+bi-biomass-3=Algae-Biomass-3
+bi-seedling=Seedling
+bi_bio_farm=Bio-Farm
+bio_greenhouse=Bio Nursery
+bi-Seedling_Mk1=Basic Seedling Production
+bi-Seedling_Mk2=Seedling Production Mk2
+bi-Seedling_Mk3=Advanced Seedling Production
+bi-Seedling_Mk4=Super Seedling Production
+bi-Logs_Mk1=Basic Wood Production
+bi-Logs_Mk2=Wood Production Mk2
+bi-Logs_Mk3=Advanced Wood Production
+bi-Logs_Mk4=Super Wood Production
+bi-resin=Basic Resin Production
+bi-resin_Mk2=Resin Production Mk2
+bi-resins_Mk3=Advanced Resin Production
+bi-sulfur-wood=Basic Sulfur Wood Production
+bi-sulfur-wood_Mk2=Sulfur Wood Production Mk2
+bi-sulfur-wood_Mk3=Advanced Sulfur Wood Production
+bi-fertiliser=Fertiliser
+bi-fertiliser-2=Fertiliser
+bi-adv-fertiliser=Advanced Fertiliser
+bi-charcoal=Charcoal
+bi-charcoal-2=Charcoal
+bi-coal=Basic Coal Production
+bi-coal-2=Advanced Coal Production
+bi-coke-coal=Coke Coal
+bi-woodpulp=Wood pulp
+bi-ash=Ash
+bi-ash-2=Ash
+bi-stone-crushed=Crushed Stone
+bi-liquid-air=Liquid Air
+bi-nitrogen=Nitrogen
+bi-cellulose-1=Cellulose
+bi-cellulose-2=Cellulose
+bi-plastic-1=Bio Plastic 1
+bi-plastic-2=Bio Plastic 2
+bi-Bio_Garden=Bio Garden
+bi-Clean_Air=Clean Air
+bi-Clean_Air2=Clean Air Mk2
+bi_bio_Solar_Farm=Bio Solar Farm
+bi-biomass_conversion-1=Bio Fuel Conversion 1
+bi-biomass_conversion-2=Bio Fuel Conversion 2
+bi-biomass_conversion-3=Bio Fuel Conversion 3
+Bio_Cannon=Prototype Artillery
+Bio_Cannon_Basic_Ammo=Artillery Basic Ammo
+Bio_Cannon_Poison_Ammo=Artillery Poison Ammo
+Bio_Cannon_Bio_Ammo=Artillery Bio Ammo
+bi_burner_mining_drill_disassemble=Disassemble Burner Miner
+bi_stone_furnace_disassemble=Disassemble Stone Furnace
+bi_burner_inserter_disassemble=Disassemble Burner Inserter
+bi_long_handed_inserter_disassemble=Disassemble Long Handed Inserter
+bi_steel_furnace_disassemble=Disassemble Steel Furnace
+bi_solar_mat=Musk floor
+bi_accumulator=Huge Storage Accumulator
+bio_boiler=Bio Boiler
+bi_wood_pipe=Wood Pipe
+bi_pipe_to_ground_wood=Wooden Pipe to Ground
+bi_large_wooden_chest=Large Wooden Chest
+bio_turret=Dart Turret
+basic_dart_magazine=Basic Dart Ammo
+enhanced_dart_magazine=Enhanced Dart Ammo
+bi_wooden_fence=Wooden Fence
+bi_large_substation=Huge Substation
+seed_bomb_basic=Basic Seed Bomb
+seed_bomb_standard=Standard Seed Bomb
+seed_bomb_advanced=Advanced Seed Bomb
+bi_solar_boiler=Solar Power Plant & Boiler
+bi_Solar_Boiler_panel=Solar Power Plant & Boiler
+bi_huge_wooden_pole=Huge Electric Pole
+
+[recipe-description]
+bi_seed_1=Seed to grow a seedling from
+bi_seed_2=Seed to grow a seedling from
+bi_seed_3=Seed to grow a seedling from
+bi_seed_4=Seed to grow a seedling from
+bi-seedling=A young tree, perfect for planting. (You can also plant this in the ground and it will grow into a tree. Remember to first fertilize the ground to improve the chances of it growing.)
+bi-Seedling_Mk1=Produces 40 Seedlings
+bi-Seedling_Mk2=Produces 50 Seedlings
+bi-Seedling_Mk3=Produces 75 Seedlings
+bi-Seedling_Mk4=Produces 150 Seedlings
+bi-Logs_Mk1=Produces 40 Wood
+bi-Logs_Mk2=Produces 50 Wood
+bi-Logs_Mk3=Produces 75 Wood
+bi-Logs_Mk4=Produces 150 Wood
+bi-coal=Produces 8 Coal
+bi-coal-2=Produces 10 Coal
+bi-coke-coal=Cokecoal is a great train fuel.
+bi-fertiliser=Let's stuff grow faster
+bi-fertiliser-2=Let's stuff grow faster (sodium-hydroxide)
+bi-adv-fertiliser=Advanced Fertiliser - Super Food!
+bi-resin=Produces 60 Resin
+bi-resin_Mk2=Produces 90 Resin
+bi-resins_Mk3=Produces 150 Resin
+bi-sulfur-wood=Produces 80 Sulfur Wood
+bi-sulfur-wood_Mk2=Produces 120 Sulfur Wood
+bi-sulfur-wood_Mk3=Produces 200 Sulfur Wood
+bi-Clean_Air=Clean Air 
+bi-Clean_Air2=Clean Air Mk2
+bi-biomass_conversion-1=Algae-Biomass to Light Oil
+bi-biomass_conversion-2=Algae-Biomass to Petroleum Gas
+bi-biomass_conversion-3=Algae-Biomass to Lubricant
+bi_burner_mining_drill_disassemble=At a small loss of materials
+bi_stone_furnace_disassemble=At a small loss of materials
+bi_burner_inserter_disassemble=At a small loss of materials
+bi_long_handed_inserter_disassemble=At a small loss of materials
+bi_steel_furnace_disassemble=At a small loss of materials
+bi-woodpulp=Wood pulp
+bi_solar_mat=A glossy survice that generates electricity 10kW and fast movement.
+bi_accumulator=Huge Storage Accumulator
+bio_boiler=High Efficiency Boiler
+bi-battery=Bio Battery
+bio_greenhouse=Bio Nursery to produce Seeds and Seedlings
+bi_wood_pipe=Wooden Pipe
+bi_pipe_to_ground_wood=Wooden Pipe to Ground
+bi_large_wooden_chest=Large Wooden Chest
+bio_turret=Dart Turret
+basic_dart_magazine=Basic Wooden Projectile
+enhanced_dart_magazine=Enhanced Wooden Projectile
+Bio_Cannon=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+Bio_Cannon_Area=Can ONLY fire at Spawners! - Range 90 - Not yet capable of manual targeting
+bi_wooden_fence=A defensive wall made from wood
+bi_large_substation=Huge Substation
+seed_bomb_basic=Pland trees in a large area via a seed bomb!
+seed_bomb_standard=Pland trees in a large area, with fertiliser via a seed bomb!
+seed_bomb_advanced=Pland trees in a large area, with adv. fertiliser via a seed bomb!
+bi_solar_boiler=a Boiler that uses Solar or Electricity. Also produces Electricity
+bi_Solar_Boiler_panel=Solar Power Plant & Boiler
+bi_huge_wooden_pole=An Electric pole that can span vast distances - 64
+
+
+[tile-name]
+bi-wood-floor=Wood floor
+bi-solar-mat=Solar Mat
+
+[item-group-name]
+Bio_Turret_Ammo=Bio_Turret_Ammo
+
+[damage-type-name]
+Biological=Biological
+bob-pierce=Pierce
+
+
+[modifier-description]
+Bio_Cannon_Ammo-damage-bonus=Bio Cannon Ammo damage bonus: +__1__
+
+bio-turret-attack-bonus=Dart turret damage bonus: +__1__
+
+Bio_Turret_Ammo-shooting-speed-bonus=Dart Turret Ammo shooting speed bonus: +__1__
+Bio_Turret_Ammo-damage-bonus=Dart Turret Ammo damage bonus: +__1__
+

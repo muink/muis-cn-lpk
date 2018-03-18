@@ -1,0 +1,29 @@
+[entity-name]
+reverse-factory=Realistic Reverse Factory
+
+[entity-description]
+reverse-factory=Disassemble any elements.
+
+[item-name]
+reverse-factory=Realistic Reverse Factory
+
+[item-description]
+reverse-factory=Disassemble any elements.
+
+[technology-name]
+reverse-factory=Realistic Reverse Factory
+
+[technology-description]
+reverse-factory=The Realistic Reverse Factory can disassemble the most of items in a realism purpose and get back the ressources you needed to create those items. It's "realistic" mod so you can't get back fluids if you needed fluids for the creation of the item you want to disassemble.
+
+[mod-setting-name]
+rf-dynamic=Allow dynamic uncrafting
+rf-difficulty=Set difficulty level
+rf-compati=Automatic ingredient push
+rf-delays=Auto ingredient push delay
+
+[mod-setting-description]
+rf-dynamic=Due to Factorio recipe changes, recipes with regular and expensive variants show up in the player crafting menu if attempting to create dynamic reverse recipes (eg: play hard mode, get hard mode reverse recipes, not regular)
+rf-difficulty=When dynamic uncrafting is disabled, set difficulty override here (true=vanilla, false=hard). Reverse recipes will be set to either regular or expensive variants, regardless of actual in-game difficulty. Also removes unnecessary group from player crafting menu.
+rf-compati=UNTESTED for multiplayer, please disable if having desyncs. Pushes items to the output slot if input count does not match original crafting count. EX: 1 underground belt can not be recycled; pushed to output after a short delay
+rf-delays=Delay between pushing incomplete recipes to output slots. Minimum of 30 ticks (0.5s). At lower values, items may be pushed to the output; in this case, increase delay accordingly. Default to 300 ticks (5s). NOTE: Ideally 60 ticks per second

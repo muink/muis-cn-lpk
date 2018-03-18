@@ -1,0 +1,19 @@
+[mod-name]
+NaturalTreeExpansionReloaded_016=Natural Tree Expansion
+
+[mod-description]
+NaturalTreeExpansionReloaded_016=Trees spread naturally over time, they'll grow around anywhere the player visits, but only on grass and dirt areas, not concrete or any man-made tiles or sandy deserts etc.
+
+[mod-setting-name]
+enable_debug_window=Debugging window
+tree_expansion_frequency=The interval between tree grow cycle in ticks
+max_trees=Hard limit on number of trees
+tree_decrease_start=Threshold growth
+pollution_threshold=Threshold pollution
+
+[mod-setting-description]
+enable_debug_window=Activates an ad with information
+tree_expansion_frequency=Standard 120 (60-360): lower value results in faster grows, rate of 60 seemed too high after exploring the world a bit.
+max_trees=Standard 800k: Large number of trees takes time to save and load, any other aspect of the game gets slower. If you kill enough trees, they will start growing again.
+tree_decrease_start=Standard 0.8: Threshold rate to start dropping grow speed: if numTrees < max_trees * tree_decrease_start
+pollution_threshold=Standard 1500: If pollution exceeds the threshold, trees will die in the area. There will be no new trees here.

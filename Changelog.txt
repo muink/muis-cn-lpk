@@ -1,6 +1,15 @@
 Update logs
 ===========
 
+### 2018-3-19	0.16.9
+
+* 为大多数模组名添加类型标签
+
+* 添加汉化文本
+
+> Muro automatic wall builder
+Recycle Everything
+
 ### 2018-3-18	0.16.8
 
 * 添加汉化文本
