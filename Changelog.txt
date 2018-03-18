@@ -1,0 +1,104 @@
+Update logs
+===========
+
+### 2018-3-18	0.16.8
+
+* 添加汉化文本
+
+> Factorissimo2  
+Free circuit wires  
+Geothermal  
+Helmod: assistant for planning your base.  
+Orphan Finder  
+OutpostPlanner  
+PlannerCore  
+
+
+### 2018-3-16	0.16.7
+
+* 添加汉化文本
+
+> free_circuit_wires
+Dp77s-Sulfur-Mod
+
+
+### 2018-3-14	0.16.6
+
+* 添加汉化文本
+
+> Bio Industries  
+EfficienSee  
+
+
+### 2018-3-6	0.16.5
+
+* 添加汉化文本
+
+> Bottleneck  
+Auto Deconstruct  
+Vehicle Wagon  
+
+
+### 2018-3-1	0.16.4.1
+
+* 添加汉化文本
+
+> Far Reach  
+
+
+### 2018-2-16	0.16.4
+
+* 添加汉化文本
+
+> Stop That, Silly Robot!  
+Upgrade planner  
+
+
+### 2018-2-13	0.16.3.2
+
+* 添加汉化文本
+
+> TimeButtons  
+Even Distribution  
+
+
+### 2018-2-8	0.16.3.1
+
+* 添加汉化文本
+
+> Research queue  
+
+
+### 2018-2-4	0.16.3
+
+* 添加汉化文本
+
+> Realistic Ores  
+Natural Tree Expansion Reloaded  
+Automatic Belt Planner  
+Auto Research  
+Noxys Swimming  
+Reverse Factory  
+
+
+### 2018-2-3	0.16.2
+
+* 添加汉化文本
+
+> Tree Sapling Mod  
+Belt Reverser  
+Mushroom Cloud  
+
+
+### 2018-2-2	0.16.1
+
+* 添加汉化文本
+
+> Mods To File  
+Bullet Trails  
+Flare Stack  
+Atomic Artillery  
+Creative World  
+Stone Water Well  
+My Tree Mod  
+Tree Collision  
