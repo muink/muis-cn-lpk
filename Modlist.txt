@@ -1,40 +1,87 @@
-Mod name										|EN version		|ZH version		|Completion rate	|Verified
-:-----------------------------------------------|:-------------:|:-------------:|------------------:|-------
-Atomic Artillery								|0.1.5			|0.1.5			|100%				|false
-Auto Deconstruct								|0.1.11			|0.1.11			|100%				|false
-Auto Research									|4.0.3			|4.0.3			|100%				|false
-Automatic Belt Planner							|0.12.0			|0.12.0			|100%				|false
-Belt Reverser									|0.0.5			|0.0.5			|100%				|false
-Bio Industries									|2.2.0			|2.2.0			|100%				|false
-Bottleneck										|0.9.1			|0.9.1			|100%				|false
-Bullet Trails									|0.3.1			|0.3.1			|100%				|false
-Creative World									|0.2.0			|0.2.0			|100%				|false
-Dp77's Sulfur Mod								|2.0.0			|2.0.0			|100%				|false
-EfficienSee										|1.0.54			|1.0.54			|100%				|false
-Even Distribution								|0.2.8			|0.2.8			|100%				|false
-Factorissimo2									|2.2.3			|2.2.3			|100%				|false
-Far Reach										|0.0.7			|0.0.7			|100%				|false
-Flare Stack										|2.1.7			|2.1.7			|100%				|false
-Stop That, Silly Robot!							|0.1.4			|0.1.4			|100%				|false
-Free circuit wires								|1.0.1			|1.0.1			|100%				|false
-Geothermal										|1.0.72			|1.0.72			|100%				|false
-Helmod: assistant for planning your base.		|0.7.7			|0.7.7			|100%				|false
-Mods To File									|0.1.1			|0.1.1			|100%				|false
-Muro automatic wall builder						|1.0.1			|1.0.1			|100%				|false
-Mushroom Cloud									|1.0.3			|1.0.3			|100%				|false
-My Tree Mod										|1.1.1			|1.1.1			|100%				|false
-Natural Tree Expansion Reloaded					|016_0.3.1		|016_0.3.1		|100%				|false
-Noxys Swimming									|0.0.4			|0.0.4			|100%				|false
-Orphan Finder									|1.1.0			|1.1.0			|100%				|false
-OutpostPlanner									|1.0.2			|1.0.2			|100%				|false
-PlannerCore										|0.1.1			|0.1.1			|100%				|false
-Realistic Ores									|2.16.0			|2.16.0			|100%				|false
-Recycle Everything								|0.2.6			|0.2.6			|100%				|false
-Research queue									|1.6.4			|1.6.4			|100%				|false
-Reverse Factory									|5.0.1			|5.0.1			|100%				|false
-Stone Water Well								|1.0.8			|1.0.8			|100%				|false
-TimeButtons										|0.3.5			|0.3.5			|100%				|false
-Tree Collision									|0.4.2			|0.4.2			|100%				|false
-Tree Sapling Mod								|0.2.2			|0.2.2			|100%				|false
-Upgrade planner									|1.5.2			|1.5.2			|100%				|false
-Vehicle Wagon									|1.2.3			|1.2.3			|100%				|false
+Mod name										|ZH version		|Completion rate		|Verified
+:-----------------------------------------------|:-------------:|----------------------:|-------
+[Atomic Artillery][]							|0.1.5			|					100%|false
+[Auto Deconstruct][]							|0.1.11			|					100%|false
+[Auto Research][]								|4.0.3			|					100%|false
+[Automatic Belt Planner][]						|0.12.0			|					100%|false
+[Belt Reverser][]								|0.0.5			|					100%|false
+[Bio Industries][]								|2.2.0			|					100%|false
+[Bottleneck][]									|0.9.1			|					100%|false
+[Bullet Trails][]								|0.3.1			|Description only	100%|false
+[Cannon Turret][]								|1.4.0			|					100%|false
+[Creative World][]								|0.2.0			|Description only	100%|false
+[Dp77's Sulfur Mod][]							|2.0.0			|					100%|false
+[EfficienSee][]									|1.0.54			|					100%|false
+[Even Distribution][]							|0.2.8			|					100%|false
+[Factorissimo2][]								|2.2.3			|					100%|false
+[Far Reach][]									|0.0.7			|					100%|false
+[Flare Stack][]									|2.1.7			|					100%|false
+[Fogged Research][]								|0.3.1			|Description only	100%|false
+[Stop That, Silly Robot!][]						|0.1.4			|					100%|false
+[Free circuit wires][]							|1.0.1			|Description only	100%|false
+[Geothermal][]									|1.0.72			|					100%|false
+[Helmod: assistant for planning your base.][]	|0.7.7			|					100%|false
+[Light Cone][]									|0.0.1			|Description only	100%|false
+[Mods To File][]								|0.1.1			|Description only	100%|false
+[Muro automatic wall builder][]					|1.0.1			|					100%|false
+[Mushroom Cloud][]								|1.0.3			|					100%|false
+[My Tree Mod][]									|1.1.1			|					100%|false
+[Natural Tree Expansion Reloaded][]				|016_0.3.1		|					100%|false
+[Noxys Swimming][]								|0.0.4			|					100%|false
+[Orphan Finder][]								|1.1.0			|					100%|false
+[OutpostPlanner][]								|1.0.2			|					100%|false
+[PlannerCore][]									|0.1.1			|					100%|false
+[Radar Grid Guide][]							|0.16.1			|					100%|false
+[Realistic Ores][]								|2.16.0			|Description only	100%|false
+[Recycle Everything][]							|0.2.6			|					100%|false
+[Research queue][]								|1.6.4			|Description only	100%|false
+[Reverse Factory][]								|5.0.1			|					100%|false
+[Stone Water Well][]							|1.0.8			|					100%|false
+[TimeButtons][]									|0.3.5			|Description only	100%|false
+[Tree Collision][]								|0.4.2			|Description only	100%|false
+[Tree Sapling Mod][]							|0.2.2			|					100%|false
+[Upgrade planner][]								|1.5.2			|					100%|false
+[Vehicle Wagon][]								|1.2.3			|					100%|false
+
+[Atomic Artillery]: https://mods.factorio.com/mod/AtomicArtillery
+[Auto Deconstruct]: https://mods.factorio.com/mod/AutoDeconstruct
+[Auto Research]: https://mods.factorio.com/mod/auto-research
+[Automatic Belt Planner]: https://mods.factorio.com/mod/beltplanner
+[Belt Reverser]: https://mods.factorio.com/mod/belt-reverser
+[Bio Industries]: https://mods.factorio.com/mod/Bio_Industries
+[Bottleneck]: https://mods.factorio.com/mod/Bottleneck
+[Bullet Trails]: https://mods.factorio.com/mod/bullet-trails
+[Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret
+[Creative World]: https://mods.factorio.com/mod/CreativeWorld
+[Dp77's Sulfur Mod]: https://mods.factorio.com/mod/Dp77s-Sulfur-Mod
+[EfficienSee]: https://mods.factorio.com/mod/EfficienSee
+[Even Distribution]: https://mods.factorio.com/mod/even-distribution
+[Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2
+[Far Reach]: https://mods.factorio.com/mod/far-reach
+[Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack
+[Fogged Research]: https://mods.factorio.com/mod/FoggedResearch
+[Stop That, Silly Robot!]: https://mods.factorio.com/mod/folk-stopthat
+[Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires
+[Geothermal]: https://mods.factorio.com/mod/Geothermal
+[Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod
+[Light Cone]: https://mods.factorio.com/mod/LightCone
+[Mods To File]: https://mods.factorio.com/mod/ModsToFile
+[Muro automatic wall builder]: https://mods.factorio.com/mod/muro
+[Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud
+[My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod
+[Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016
+[Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming
+[Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
+[OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
+[PlannerCore]: https://mods.factorio.com/mod/PlannerCore
+[Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide
+[Realistic Ores]: https://mods.factorio.com/mod/RealisticOres
+[Recycle Everything]: https://mods.factorio.com/mod/RecycleEverything
+[Research queue]: https://mods.factorio.com/mod/research-queue
+[Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
+[Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
+[TimeButtons]: https://mods.factorio.com/mod/TimeButtons
+[Tree Collision]: https://mods.factorio.com/mod/tree_collision
+[Tree Sapling Mod]: https://mods.factorio.com/mod/TreeSaplings
+[Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
+[Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon

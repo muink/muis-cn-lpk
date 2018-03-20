@@ -1,10 +1,10 @@
 {
 	"name": "muis-cn-lpk",
-	"version": "0.16.9",
+	"version": "0.16.9.1",
 	"title": "muink's chinese localization lib",
 	"author": "muink",
 	"contact": "",
-	"homepage": "https://github.com/muink/muis-cn-lpk",
+	"homepage": "https://mods.factorio.com/mod/muis-cn-lpk",
 	"description": "muink's chinese localization lib",
 	"factorio_version":"0.16",
 	"dependencies": ["base >= 0.16.0"]

@@ -1,6 +1,19 @@
 Update logs
 ===========
 
+### 2018-3-20	0.16.9.1
+
+* 移除备份档
+
+* 添加链接引用
+
+* 添加汉化文本
+
+> Cannon Turret
+Fogged Research
+Light Cone
+Radar Grid Guide
+
 ### 2018-3-19	0.16.9
 
 * 为大多数模组名添加类型标签

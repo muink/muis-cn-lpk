@@ -1,0 +1,2 @@
+# Newline format in Windows(CR-LF)
+*.txt text eol=crlf
