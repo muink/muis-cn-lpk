@@ -3,33 +3,33 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Atomic Artillery][]							|0.1.5			|					100%|0.1.5
 [Auto Deconstruct][]							|0.1.11			|					100%|0.1.11
 [Auto Research][]								|4.0.3			|					100%|4.0.3
-[Automatic Belt Planner][]						|0.12.0			|					100%|false
+[Automatic Belt Planner][]						|0.12.0			|					100%|0.12.0
 [Belt Reverser][]								|0.0.5			|					100%|0.0.5
-[Bio Industries][]								|2.2.0			|					100%|false
+[Bio Industries][]								|2.2.0			|					100%|2.2.0
 [Bottleneck][]									|0.9.1			|					100%|0.9.1
 [Bullet Trails][]								|0.3.1			|Description only	100%|0.3.1
 [Cannon Turret][]								|1.4.0			|					100%|1.4.0
 [Creative World][]								|0.2.0			|Description only	100%|0.2.0
 [Dp77's Sulfur Mod][]							|2.0.0			|					100%|2.0.0
-[EfficienSee][]									|1.0.54			|					100%|false
-[Even Distribution][]							|0.2.8			|					100%|false
-[Factorissimo2][]								|2.2.3			|					100%|false
+[EfficienSee][]									|1.0.54			|					100%|1.0.54
+[Even Distribution][]							|0.2.8			|					100%|0.2.8
+[Factorissimo2][]								|2.2.3			|					100%|2.2.3
 [Far Reach][]									|0.0.7			|					100%|0.0.7
 [Flare Stack][]									|2.1.7			|					100%|2.1.7
 [Fogged Research][]								|0.3.1			|Description only	100%|0.3.1
 [Stop That, Silly Robot!][]						|0.1.4			|					100%|0.1.4
 [Free circuit wires][]							|1.0.1			|Description only	100%|1.0.1
 [Geothermal][]									|1.0.72			|					100%|1.0.72
-[Helmod: assistant for planning your base.][]	|0.7.7			|					100%|false
+[Helmod: assistant for planning your base.][]	|0.7.7			|					100%|0.7.7
 [Light Cone][]									|0.0.1			|Description only	100%|0.0.1
 [Mods To File][]								|0.1.1			|Description only	100%|0.1.1
 [Muro automatic wall builder][]					|1.0.1			|					100%|1.0.1
 [Mushroom Cloud][]								|1.0.3			|					100%|1.0.3
 [My Tree Mod][]									|1.1.1			|					100%|1.1.1
-[Natural Tree Expansion Reloaded][]				|016_0.3.1		|					100%|false
+[Natural Tree Expansion Reloaded][]				|0.3.1			|					100%|0.3.1
 [Noxys Swimming][]								|0.0.4			|					100%|0.0.4
 [Orphan Finder][]								|1.1.0			|					100%|1.1.0
-[OutpostPlanner][]								|1.0.2			|					100%|false
+[OutpostPlanner][]								|1.0.2			|					100%|1.0.2
 [PlannerCore][]									|0.1.1			|					100%|0.1.1
 [Radar Grid Guide][]							|0.16.1			|					100%|0.16.1
 [Realistic Ores][]								|2.16.0			|					100%|2.16.0
@@ -40,7 +40,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [TimeButtons][]									|0.3.5			|Hard-coded text	100%|0.3.5
 [Tree Collision][]								|0.4.2			|Description only	100%|0.4.2
 [Tree Sapling Mod][]							|0.2.2			|					100%|0.2.2
-[Upgrade planner][]								|1.5.2			|					100%|false
+[Upgrade planner][]								|1.5.2			|					100%|1.5.2
 [Vehicle Wagon][]								|1.2.3			|					100%|1.2.3
 
 [Atomic Artillery]: https://mods.factorio.com/mod/AtomicArtillery
