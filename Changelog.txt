@@ -1,6 +1,18 @@
 Update logs
 ===========
 
+### 2018-3-25	1.0.7
+
+* 修正错误
+
+### 2018-3-25	1.0.6
+
+* 校对与润色
+
+* 添加汉化文本
+
+> Todo List
+
 ### 2018-3-25	1.0.5
 
 * 校对与润色
@@ -21,9 +33,9 @@ Update logs
 
 * 添加汉化文本
 
-> Cannon Turret
-Fogged Research
-Light Cone
+> Cannon Turret  
+Fogged Research  
+Light Cone  
 Radar Grid Guide
 
 ### 2018-3-19	0.16.9
@@ -32,7 +44,7 @@ Radar Grid Guide
 
 * 添加汉化文本
 
-> Muro automatic wall builder
+> Muro automatic wall builder  
 Recycle Everything
 
 ### 2018-3-18	0.16.8
