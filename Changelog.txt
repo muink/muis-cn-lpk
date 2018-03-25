@@ -1,6 +1,14 @@
 Update logs
 ===========
 
+### 2018-3-25	1.0.8
+
+* 更新汉化文本
+
+> Auto Deconstruct  
+Bio Industries  
+Recycle Everything
+
 ### 2018-3-25	1.0.7
 
 * 修正错误
