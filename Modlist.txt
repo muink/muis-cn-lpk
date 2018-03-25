@@ -38,6 +38,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Reverse Factory][]								|5.0.1			|					100%|5.0.1
 [Stone Water Well][]							|1.0.8			|					100%|1.0.8
 [TimeButtons][]									|0.3.5			|Hard-coded text	100%|0.3.5
+[Todo List][]									|16.0.4			|Description only	100%|16.0.4
 [Tree Collision][]								|0.4.2			|Description only	100%|0.4.2
 [Tree Sapling Mod][]							|0.2.2			|					100%|0.2.2
 [Upgrade planner][]								|1.5.2			|					100%|1.5.2
@@ -81,6 +82,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
 [TimeButtons]: https://mods.factorio.com/mod/TimeButtons
+[Todo List]: https://mods.factorio.com/mod/Todo-List
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
 [Tree Sapling Mod]: https://mods.factorio.com/mod/TreeSaplings
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
