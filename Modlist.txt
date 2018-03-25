@@ -32,7 +32,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [OutpostPlanner][]								|1.0.2			|					100%|1.0.2
 [PlannerCore][]									|0.1.1			|					100%|0.1.1
 [Radar Grid Guide][]							|0.16.1			|					100%|0.16.1
-[Realistic Ores][]								|2.16.0			|					100%|2.16.0
+[Realistic Ores][]								|2.16.0			|Hard-coded text	100%|2.16.0
 [Recycle Everything][]							|0.3.1			|					100%|0.3.1
 [Research queue][]								|1.6.4			|Hard-coded text	100%|1.6.4
 [Reverse Factory][]								|5.0.1			|					100%|5.0.1
