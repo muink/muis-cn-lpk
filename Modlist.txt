@@ -9,8 +9,8 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Bottleneck][]									|0.9.1			|					100%|0.9.1
 [Bullet Trails][]								|0.3.1			|Description only	100%|0.3.1
 [Cannon Turret][]								|1.4.0			|					100%|1.4.0
+[Cnc's Sulfur Mod][]							|1.0.4			|					100%|1.0.4
 [Creative World][]								|0.2.0			|Description only	100%|0.2.0
-[Dp77's Sulfur Mod][]							|2.0.0			|					100%|2.0.0
 [EfficienSee][]									|1.0.54			|					100%|1.0.54
 [Even Distribution][]							|0.2.8			|					100%|0.2.8
 [Factorissimo2][]								|2.2.3			|					100%|2.2.3
@@ -37,6 +37,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Research queue][]								|1.6.4			|Hard-coded text	100%|1.6.4
 [Reverse Factory][]								|5.0.1			|					100%|5.0.1
 [Stone Water Well][]							|1.0.8			|					100%|1.0.8
+[Test Site][]									|0.0.1			|					100%|0.0.1
 [TimeButtons][]									|0.3.5			|Hard-coded text	100%|0.3.5
 [Todo List][]									|16.0.4			|Description only	100%|16.0.4
 [Tree Collision][]								|0.4.2			|Description only	100%|0.4.2
@@ -53,8 +54,8 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret
+[Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld
-[Dp77's Sulfur Mod]: https://mods.factorio.com/mod/Dp77s-Sulfur-Mod
 [EfficienSee]: https://mods.factorio.com/mod/EfficienSee
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2
@@ -81,6 +82,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Research queue]: https://mods.factorio.com/mod/research-queue
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
+[Test Site]: https://mods.factorio.com/mod/TestSite
 [TimeButtons]: https://mods.factorio.com/mod/TimeButtons
 [Todo List]: https://mods.factorio.com/mod/Todo-List
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision

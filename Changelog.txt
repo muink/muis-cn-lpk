@@ -1,6 +1,17 @@
 Update logs
 ===========
 
+### 2018-3-27	1.0.10
+
+* 添加汉化文本
+
+> Cnc's Sulfur Mod  
+Test Site
+
+* 移除汉化文本
+
+> Dp77's Sulfur Mod
+
 ### 2018-3-25	1.0.9
 
 * 修正汉化文本
