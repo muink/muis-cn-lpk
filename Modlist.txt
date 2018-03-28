@@ -5,7 +5,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Auto Research][]								|4.0.3			|					100%|4.0.3
 [Automatic Belt Planner][]						|0.12.0			|					100%|0.12.0
 [Belt Reverser][]								|0.0.5			|					100%|0.0.5
-[Bio Industries][]								|2.2.0			|					100%|2.2.0
+[Bio Industries][]								|2.2.3			|					100%|2.2.3
 [Bottleneck][]									|0.9.1			|					100%|0.9.1
 [Bullet Trails][]								|0.3.1			|Description only	100%|0.3.1
 [Cannon Turret][]								|1.4.0			|					100%|1.4.0
@@ -38,6 +38,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Reverse Factory][]								|5.0.1			|					100%|5.0.1
 [Stone Water Well][]							|1.0.8			|					100%|1.0.8
 [Test Site][]									|0.0.1			|					100%|0.0.1
+[The Fat Controller][]							|3.0.3			|Hard-coded text	100%|false
 [TimeButtons][]									|0.3.5			|Hard-coded text	100%|0.3.5
 [Todo List][]									|16.0.4			|Description only	100%|16.0.4
 [Tree Collision][]								|0.4.2			|Description only	100%|0.4.2
@@ -83,6 +84,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
 [Test Site]: https://mods.factorio.com/mod/TestSite
+[The Fat Controller]: https://mods.factorio.com/mod/TheFatController
 [TimeButtons]: https://mods.factorio.com/mod/TimeButtons
 [Todo List]: https://mods.factorio.com/mod/Todo-List
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
