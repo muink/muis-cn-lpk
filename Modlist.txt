@@ -13,6 +13,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Creative World][]								|0.2.0			|Description only	100%|0.2.0
 [EfficienSee][]									|1.0.54			|					100%|1.0.54
 [Even Distribution][]							|0.2.8			|					100%|0.2.8
+[FactorioLogo][]								|0.1.0			|					100%|0.1.0
 [Factorissimo2][]								|2.2.3			|					100%|2.2.3
 [Far Reach][]									|0.0.7			|					100%|0.0.7
 [Flare Stack][]									|2.1.7			|					100%|2.1.7
@@ -21,7 +22,9 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Free circuit wires][]							|1.0.1			|Description only	100%|1.0.1
 [Geothermal][]									|1.0.72			|					100%|1.0.72
 [Helmod: assistant for planning your base.][]	|0.7.7			|					100%|0.7.7
+[Laser beam turrets][]							|0.2.0			|Description only	100%|0.2.0
 [Light Cone][]									|0.0.1			|Description only	100%|0.0.1
+[Macerator][]									|0.16.36		|					100%|0.16.36
 [Mods To File][]								|0.1.1			|Description only	100%|0.1.1
 [Muro automatic wall builder][]					|1.0.1			|					100%|1.0.1
 [Mushroom Cloud][]								|1.0.3			|					100%|1.0.3
@@ -43,7 +46,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Todo List][]									|16.0.4			|Description only	100%|16.0.4
 [Tree Collision][]								|0.4.2			|Description only	100%|0.4.2
 [Tree Sapling Mod][]							|0.2.2			|					100%|0.2.2
-[Upgrade planner][]								|1.5.2			|					100%|1.5.2
+[Upgrade planner][]								|1.5.3			|					100%|1.5.3
 [Vehicle Wagon][]								|1.2.3			|					100%|1.2.3
 
 [Atomic Artillery]: https://mods.factorio.com/mod/AtomicArtillery
@@ -59,6 +62,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld
 [EfficienSee]: https://mods.factorio.com/mod/EfficienSee
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution
+[FactorioLogo]: https://mods.factorio.com/mod/FactorioLogo
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2
 [Far Reach]: https://mods.factorio.com/mod/far-reach
 [Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack
@@ -67,7 +71,9 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires
 [Geothermal]: https://mods.factorio.com/mod/Geothermal
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod
+[Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets
 [Light Cone]: https://mods.factorio.com/mod/LightCone
+[Macerator]: https://mods.factorio.com/mod/Macerator
 [Mods To File]: https://mods.factorio.com/mod/ModsToFile
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud

@@ -1,6 +1,14 @@
 Update logs
 ===========
 
+### 2018-4-1	1.0.12
+
+* 添加汉化文本
+
+> FactorioLogo  
+Laser beam turrets  
+Macerator
+
 ### 2018-3-28	1.0.11
 
 * 添加汉化文本
