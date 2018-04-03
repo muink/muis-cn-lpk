@@ -1,6 +1,17 @@
 Update logs
 ===========
 
+### 2018-4-4	1.0.14
+
+* 更新汉化文本
+
+> Auto Research  
+Bio Industries  
+Cannon Turret  
+FARL  
+Fish and Wildlife  
+YARM
+
 ### 2018-4-3	1.0.13
 
 * 添加汉化文本
