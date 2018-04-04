@@ -1,6 +1,18 @@
 Update logs
 ===========
 
+### 2018-4-5	1.0.15
+
+* 更新汉化文本
+
+> FARL  
+Light Cone  
+Orphan Finder
+
+* 添加汉化文本
+
+> Orbital Ion Cannon
+
 ### 2018-4-4	1.0.14
 
 * 更新汉化文本

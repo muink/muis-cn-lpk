@@ -33,6 +33,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [My Tree Mod][]									|1.1.1			|					100%|1.1.1
 [Natural Tree Expansion Reloaded][]				|0.3.1			|					100%|0.3.1
 [Noxys Swimming][]								|0.0.4			|					100%|0.0.4
+[Orbital Ion Cannon][]							|1.6.3			|					100%|1.6.3
 [Orphan Finder][]								|1.1.0			|					100%|1.1.0
 [OutpostPlanner][]								|1.0.2			|					100%|1.0.2
 [PlannerCore][]									|0.1.1			|					100%|0.1.1
@@ -86,6 +87,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod
 [Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming
+[Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore
