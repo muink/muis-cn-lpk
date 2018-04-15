@@ -1,6 +1,25 @@
 Update logs
 ===========
 
+### 2018-4-16	1.0.18
+
+* 更新汉化文本
+
+> Auto Research  
+Automatic Belt Planner  
+EfficienSee  
+Even Distribution  
+Factorissimo2  
+Orbital Ion Cannon  
+OutpostPlanner  
+The Fat Controller  
+YARM
+
+* 添加汉化文本
+
+> Alien Biomes High-Res Terrain  
+Cliff Deconstruct
+
 ### 2018-4-13	1.0.17
 
 * 更新汉化文本
