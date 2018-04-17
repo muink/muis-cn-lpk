@@ -40,6 +40,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Orbital Ion Cannon][]							|1.6.3			|					100%|1.6.3
 [Orphan Finder][]								|1.1.0			|					100%|1.1.0
 [OutpostPlanner][]								|1.0.2			|					100%|1.0.2
+[Picker Extended Version][]						|3.0.3			|					100%|false
 [PlannerCore][]									|0.1.1			|					100%|0.1.1
 [Pollution Control][]							|1.0.4			|Hard-coded text	100%|1.0.4
 [Radar Grid Guide][]							|0.16.1			|					100%|0.16.1
@@ -98,6 +99,7 @@ Mod name										|ZH version		|Completion rate		|Verified
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
+[Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore
 [Pollution Control]: https://mods.factorio.com/mod/Pollution_Control
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide

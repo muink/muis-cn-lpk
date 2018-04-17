@@ -1,6 +1,29 @@
 Update logs
 ===========
 
+### 2018-4-17	1.0.19
+
+* 更新汉化文本
+
+> Automatic Belt Planner  
+Bio Industries  
+EfficienSee  
+Even Distribution  
+Far Reach  
+Geothermal  
+Helmod  
+Macerator  
+Noxys Swimming  
+Orbital Ion Cannon  
+OutpostPlanner  
+Recycle Everything  
+Reverse Factory  
+The Fat Controller
+
+* 添加汉化文本
+
+> Picker Extended Version
+
 ### 2018-4-16	1.0.18
 
 * 更新汉化文本
