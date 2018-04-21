@@ -1,0 +1,265 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 20. 04. 2018
+  fixes:
+    - 修正 Changlog.txt 错误的版本号和制表符和小写文件名
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 20. 04. 2018
+  Othes:
+    - 重构 Changlog.txt
+    - 添加标准化文档
+---------------------------------------------------------------------------------------------------
+Version: 1.0.20
+Date: 20. 04. 2018
+  Changes:
+    - 标准化 Cnc's Sulfur Mod 的矿物名称
+    - 优化 YARM
+---------------------------------------------------------------------------------------------------
+Version: 1.0.19
+Date: 17. 04. 2018
+  Locale:
+    - 添加 Picker Extended Version
+  Changes:
+    - 标准化 Automatic Belt Planner 的动态描述间隔
+    - 标准化 Bio Industries、Far Reach、Geothermal、Macerator、Reverse Factory 的模组名称与空格标准
+    - 标准化 Bio Industries、EfficienSee、Even Distribution、Helmod、Noxys Swimming、Orbital Ion Cannon 的动态描述符空格标准
+    - 标准化 The Fat Controller 的引号使用标准
+    - 标准化 OutpostPlanner 的Planner标准
+    - 优化 Automatic Belt Planner
+    - 优化 Recycle Everything
+  fixes:
+    - 修正 Recycle Everything 中 shredding-machine 的翻译
+---------------------------------------------------------------------------------------------------
+Version: 1.0.18
+Date: 16. 04. 2018
+  Locale:
+    - 添加 Alien Biomes High-Res Terrain
+    - 添加 Cliff Deconstruct
+  Changes:
+    - 添加 Auto Research、EfficienSee、Even Distribution、Factorissimo2 控制按键的动态描述
+    - 标准化 Automatic Belt Planner、Orbital Ion Cannon、OutpostPlanner、The Fat Controller、YARM 的动态描述间隔
+---------------------------------------------------------------------------------------------------
+Version: 1.0.17
+Date: 13. 04. 2018
+  Locale:
+    - 升级 Geothermal 到 1.0.80
+    - 升级 Reverse Factory 到 5.1.2
+    - 升级 Helmod 到 0.7.8
+  Changes:
+    - 优化 Geothermal
+    - 优化 Orbital Ion Cannon
+---------------------------------------------------------------------------------------------------
+Version: 1.0.16
+Date: 10. 04. 2018
+  Locale:
+    - 添加 Advanced Belt Laying
+    - 添加 Logistic Status
+    - 升级 Bio Industries 到 2.2.9
+  Changes:
+    - 标准化 FARL 中的电杆
+    - 优化 Fish and Wildlife
+    - 优化 Orbital Ion Cannon
+    - 更改 Pollution Control 的类型标签
+    - 优化 The Fat Controller
+  fixes:
+    - 修正 Orbital Ion Cannon 中部分描述
+---------------------------------------------------------------------------------------------------
+Version: 1.0.15
+Date: 05. 04. 2018
+  Locale:
+    - 添加 Orbital Ion Cannon
+  Changes:
+    - 更新 FARL
+    - 优化 Light Cone
+    - 优化 Orphan Finder
+---------------------------------------------------------------------------------------------------
+Version: 1.0.14
+Date: 04. 04. 2018
+  Locale:
+    - 升级 Auto Research 到 4.1.0
+    - 升级 Bio Industries 到 2.2.6
+    - 升级 Cannon Turret 到 1.4.1
+  Changes:
+    - 优化 YARM
+    - 添加 Fish and Wildlife、FARL 的类型标签
+---------------------------------------------------------------------------------------------------
+Version: 1.0.13
+Date: 03. 04. 2018
+  Locale:
+    - 添加 FARL
+    - 添加 Fish and Wildlife 
+    - 添加 Pollution Control
+    - 添加 YARM
+---------------------------------------------------------------------------------------------------
+Version: 1.0.12
+Date: 01. 04. 2018
+  Locale:
+    - 添加 FactorioLogo
+    - 添加 Laser beam turrets
+    - 添加 Macerator
+---------------------------------------------------------------------------------------------------
+Version: 1.0.11
+Date: 28. 03. 2018
+  Locale:
+    - 添加 The Fat Controller
+    - 升级 Bio Industries 到 2.2.3
+---------------------------------------------------------------------------------------------------
+Version: 1.0.10
+Date: 27. 03. 2018
+  Locale:
+    - 添加 Cnc's Sulfur Mod
+    - 添加 Test Site
+    - 移除 Dp77's Sulfur Mod
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 25. 03. 2018
+  Changes:
+    - 更新 Bio Industries
+    - 优化 Recycle Everything
+    - 优化 Cannon Turret
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 25. 03. 2018
+  Locale:
+    - 升级 RecycleEverything 到 0.3.1
+  Changes:
+    - 优化 Auto Deconstruct
+    - 优化 Bio Industries
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 25. 03. 2018
+  Changes:
+    - 修正 Even Distribution 中疏忽的错误
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 25. 03. 2018
+  Locale:
+    - 添加 Todo List
+  Changes:
+    - 添加 Radar Grid Guide 的类型标签
+    - 添加 Natural Tree Expansion Reloaded 的类型标签
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 25. 03. 2018
+  Changes:
+    - 标准化 Helmod、Natural Tree Expansion Reloaded 中对于 'mods' 的翻译
+    - 优化 Automatic Belt Planner
+    - 更新 Bio Industries
+    - 优化 EfficienSee
+    - 优化 Even Distribution
+    - 优化 Factorissimo2
+    - 更新 Helmod
+    - 优化 OutpostPlanner
+    - 优化 Upgrade planner
+  Fixes:
+    - 修正 Factorissimo2 中的部分翻译不当部分
+---------------------------------------------------------------------------------------------------
+Version: 0.16.9
+Date: 23. 03. 2018
+  Locale:
+    - 添加 Cannon Turret
+    - 添加 Fogged Research
+    - 添加 Light Cone
+    - 添加 Radar Grid Guide
+    - 添加 Muro automatic wall builder
+    - 添加 Recycle Everything
+  Changes:
+    - 标准化 Stop That, Silly Robot! 中对于 'mods' 的翻译
+    - 优化 Geothermal
+    - 优化 Orphan Finder
+    - 优化 Radar Grid Guide
+    - 优化 Reverse Factory
+    - 优化 Vehicle Wagon
+    - 优化 Atomic Artillery 的模组描述
+    - 优化 Auto Research
+    - 优化 Auto Deconstruct
+    - 优化 Bottleneck
+    - 优化 Bullet Trails
+    - 优化 Creative World
+    - 优化 Dp77s Sulfur Mod
+    - 优化 Far Reach
+    - 优化 Flare Stack
+    - 优化 Free Circuit Wires
+    - 优化 Light Cone
+    - 标准化 Mods To File、Mushroom Cloud、Noxys Swimming、TreeSaplings 中对于 'mods' 的翻译
+    - 优化 Muro Wall Builder
+    - 优化 My Tree Mod
+    - 优化 PlannerCore
+    - 优化 Realistic Ores
+    - 更新 Realistic Ores 中的未完成内容
+    - 优化 Research Queue
+    - 优化 TreeSaplings
+    - 优化 Cannon Turret
+    - 为大多数模组名称添加类型标签
+  Others:
+    - 添加 Modlist.txt
+    - 移除用于比对的因为语言文件副本
+---------------------------------------------------------------------------------------------------
+Version: 0.16.8
+Date: 18. 03. 2018
+  Locale:
+    - 添加 Factorissimo2
+    - 添加 Free circuit wires
+    - 添加 Geothermal
+    - 添加 Helmod: assistant for planning your base.
+    - 添加 Orphan Finder
+    - 添加 OutpostPlanner
+    - 添加 PlannerCore
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+Date: 16. 03. 2018
+  Locale:
+    - 添加 free_circuit_wires
+    - 添加 Dp77s-Sulfur-Mod
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+Date: 14. 03. 2018
+  Locale:
+    - 添加 Bio Industries
+    - 添加 EfficienSee
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 06. 03. 2018
+  Locale:
+    - 添加 Bottleneck
+    - 添加 Auto Deconstruct
+    - 添加 Vehicle Wagon
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+Date: 01. 03. 2018
+  Locale:
+    - 添加 Stop That, Silly Robot!
+    - 添加 Upgrade planner
+---------------------------------------------------------------------------------------------------
+Version: 0.16.3
+Date: 13. 02. 2018
+  Locale:
+    - 添加 TimeButtons
+    - 添加 Even Distribution
+    - 添加 Research queue
+    - 添加 Realistic Ores
+    - 添加 Natural Tree Expansion Reloaded
+    - 添加 Automatic Belt Planner
+    - 添加 Auto Research
+    - 添加 Noxys Swimming
+    - 添加 Reverse Factory
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 03. 02. 2018
+  Locale:
+    - 添加 Tree Sapling Mod
+    - 添加 Belt Reverser
+    - 添加 Mushroom Cloud
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 02. 02. 2018
+  Locale:
+    - 添加 Mods To File
+    - 添加 Bullet Trails
+    - 添加 Flare Stack
+    - 添加 Atomic Artillery
+    - 添加 Creative World
+    - 添加 Stone Water Well
+    - 添加 My Tree Mod
+    - 添加 Tree Collision
