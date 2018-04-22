@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 22. 04. 2018
+  Locale:
+    - 推送 语言文件到 YARM 的项目仓库，并且已部署到 0.7.304版本
+    - 添加 Side Inserters
+  Changes:
+    - 更新 Far Reach、Free circuit wires、Fish and Wildlife、Natural Tree Expansion Reloaded、TimeButtons 的类型标签
+---------------------------------------------------------------------------------------------------
 Version: 1.1.1
 Date: 20. 04. 2018
   fixes:
