@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 26. 04. 2018
+  Locale:
+    - 添加 Entity Symmetry
+    - 添加 steinios toolbox
+  Changes:
+    - 更改 Fogged Research、Fish and Wildlife、Natural Tree Expansion Reloaded、Tree Collision 的类型标签
+    - 更新 Picker Extended Version 部分设置内容
+---------------------------------------------------------------------------------------------------
 Version: 1.1.3
 Date: 23. 04. 2018
   Locale:
