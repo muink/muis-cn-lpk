@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: 06. 05. 2018
+  Locale:
+    - 添加 Picker Tweaks
+    - 添加 Power Grid Comb
+  Changes:
+    - 升级 Bio Industries 到 2.5.2
+    - 更改 Entity Symmetry、Muro automatic wall builder、OutpostPlanner、Recursive Blueprints、Upgrade planner 的类型标签
+    - 优化 Bio Industries
+---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 03. 05. 2018
   Locale:
