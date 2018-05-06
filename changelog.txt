@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 10. 05. 2018
+  Locale:
+    - 添加 Better Inserters
+    - 添加 Four toolbelts
+    - 添加 Hand Crank
+    - 更新 Turret Shields 到 0.16.23
+  Changes:
+    - 更改 Bio Industries
+    - 优化 Picker Tweaks
+    - 优化 Power Grid Comb
+---------------------------------------------------------------------------------------------------
 Version: 1.1.7
 Date: 06. 05. 2018
   Locale:
