@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.9
+Date: 12. 05. 2018
+  Locale:
+    - 添加 Alien Biomes
+    - 添加 Beautiful Bridge Railway
+    - 添加 Bot Landfill
+    - 添加 Cheaper Landfill
+    - 添加 Enhanced Flashlight
+    - 添加 NiceFill
+    - 添加 Noxys Waterfill
+    - 添加 Platforms
+    - 添加 Pollution detector
+    - 更新 Turret Shields 到 0.16.25
+---------------------------------------------------------------------------------------------------
 Version: 1.1.8
 Date: 10. 05. 2018
   Locale:
