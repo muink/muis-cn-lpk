@@ -11,6 +11,9 @@ Date: 20. 05. 2018
     - 添加 Recipe Explorer
     - 添加 Text Plates
     - 移除 EfficienSee
+  Changes:
+    - 优化 Pollution Control
+    - 更改 Bottleneck、Hovercraft 的类型标签
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.10
 Date: 14. 05. 2018
