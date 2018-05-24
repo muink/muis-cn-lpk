@@ -31,7 +31,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Fully Automated Rail Layer][]					|2.1.1		|					100%|2.1.1		|none
 [Far Reach][]									|0.0.7		|					100%|0.0.7		|none
 [Flare Stack][]									|2.1.7		|					100%|2.1.7		|none
-[Fogged Research][]								|0.3.1		|Description only	100%|0.3.1		|none
 [Four toolbelts][]								|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]						|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]							|1.0.1		|Description only	100%|1.0.1		|none
@@ -82,7 +81,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [TimeButtons][]									|0.3.5		|Hard-coded text	100%|0.3.5		|none
 [Tree Collision][]								|0.4.2		|Description only	100%|0.4.2		|none
 [Tree Sapling Mod][]							|0.2.2		|					100%|0.2.2		|none
-[Turret Shields][]								|0.16.25	|					100%|0.16.25	|invalid
 [Upgrade planner][]								|1.5.3		|					100%|1.5.3		|none
 [Vehicle Wagon][]								|1.2.4		|					100%|1.2.4		|none
 [YARM - Resource Monitor][]						|0.7.306	|					100%|0.7.306	|0.7.306
@@ -119,7 +117,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Fully Automated Rail Layer]: https://mods.factorio.com/mod/FARL
 [Far Reach]: https://mods.factorio.com/mod/far-reach
 [Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack
-[Fogged Research]: https://mods.factorio.com/mod/FoggedResearch
 [Four toolbelts]: https://mods.factorio.com/mod/four-toolbelts
 [Stop That, Silly Robot!]: https://mods.factorio.com/mod/folk-stopthat
 [Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires
@@ -170,7 +167,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [TimeButtons]: https://mods.factorio.com/mod/TimeButtons
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
 [Tree Sapling Mod]: https://mods.factorio.com/mod/TreeSaplings
-[Turret Shields]: https://mods.factorio.com/mod/Turret-Shields
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM
