@@ -1,13 +1,13 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:---------:|----------------------:|-----------|------
 [Advanced Belt Laying][]						|0.16.0		|Description only	100%|0.16.0		|none
-[Alien Biomes][]								|0.3.8		|Hard-coded text	100%|false		|none
+[Alien Biomes][]								|0.3.8		|Hard-coded text	100%|0.3.8		|none
 [Alien Biomes High-Res Terrain][]				|0.3.1		|Description only	100%|0.3.1		|none
-[Armor Pockets][]								|1.0.4		|					100%|false		|none
+[Armor Pockets][]								|1.0.4		|					100%|1.0.4		|none
 [Atomic Artillery][]							|0.1.5		|					100%|0.1.5		|none
 [Auto Deconstruct][]							|0.1.11		|					100%|0.1.11		|none
 [Auto Research][]								|4.1.0		|					100%|4.1.0		|none
-[Beautiful Bridge Railway][]					|0.1.3		|					100%|false		|none
+[Beautiful Bridge Railway][]					|0.1.3		|					100%|0.1.3		|none
 [Automatic Belt Planner][]						|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
@@ -15,13 +15,13 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.1		|					100%|0.9.1		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
-[Cement Shoes][]								|0.1.1		|					100%|false		|none
+[Cement Shoes][]								|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]								|1.4.1		|					100%|1.4.1		|none
-[Cheaper Landfill][]							|1.6.0		|					100%|false		|none
+[Cheaper Landfill][]							|1.6.0		|					100%|1.6.0		|none
 [Cliff Deconstruct][]							|0.0.5		|					100%|0.0.5		|none
 [Cnc's Sulfur Mod][]							|1.0.4		|					100%|1.0.4		|none
 [Creative World][]								|0.2.0		|Description only	100%|0.2.0		|none
-[Delorean][]									|2.0.1		|					100%|false		|none
+[Delorean][]									|2.0.1		|					100%|2.0.1		|none
 [Enhanced Flashlight][]							|0.1.1		|Description only	100%|0.1.1		|none
 [Entity Symmetry][]								|0.16.2		|					100%|0.16.2		|none
 [Even Distribution][]							|0.2.8		|					100%|0.2.8		|none
@@ -39,13 +39,13 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Geothermal][]									|1.0.80		|					100%|1.0.80		|none
 [Hand Crank][]									|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]	|0.7.8		|					100%|0.7.8		|none
-[Hovercraft][]									|0.0.3		|					100%|false		|none
+[Hovercraft][]									|0.0.3		|					100%|0.0.3		|none
 [More Inserters + Menu Cleaner][]				|1.0.3		|					100%|1.0.3		|none
 [Laser beam turrets][]							|0.2.0		|Description only	100%|0.2.0		|none
 [Light Cone][]									|0.0.1		|Description only	100%|0.0.1		|none
 [Logistic Status][]								|0.1.1		|Description only	100%|0.1.1		|none
 [Macerator][]									|0.16.36	|					100%|0.16.36	|none
-[M.I.R.V][]										|0.1.2		|					100%|false		|none
+[M.I.R.V][]										|0.1.2		|					100%|0.1.2		|none
 [Mods To File][]								|0.1.1		|Description only	100%|0.1.1		|none
 [Muro automatic wall builder][]					|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|1.0.3		|					100%|1.0.3		|none
@@ -53,21 +53,21 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Natural Tree Expansion Reloaded][]				|0.3.1		|					100%|0.3.1		|none
 [NiceFill][]									|0.1.5		|Description only	100%|0.1.5		|none
 [Noxys Swimming][]								|0.0.4		|					100%|0.0.4		|none
-[Noxys Waterfill][]								|0.0.13		|					100%|false		|none
+[Noxys Waterfill][]								|0.0.13		|					100%|0.0.13		|none
 [Orbital Ion Cannon][]							|1.6.3		|					100%|1.6.3		|none
 [Orphan Finder][]								|1.1.0		|					100%|1.1.0		|none
 [OutpostPlanner][]								|1.0.2		|					100%|1.0.2		|none
 [Picker Extended Version][]						|3.0.3		|					100%|3.0.3		|none
-[Picker Tweaks][]								|1.0.2		|					100%|false		|none
+[Picker Tweaks][]								|1.0.2		|					100%|1.0.2		|none
 [PlannerCore][]									|0.1.1		|					100%|0.1.1		|none
-[Platforms][]									|18.5.2		|					100%|false		|none
+[Platforms][]									|18.5.2		|					100%|18.5.2		|none
 [Pollution Control][]							|1.0.4		|Hard-coded text	100%|1.0.4		|none
-[Pollution detector][]							|0.4.0		|					100%|false		|none
+[Pollution detector][]							|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|0.16.3		|					100%|0.16.3		|none
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
-[RealisticReactors][]							|1.0.3		|					100%|false		|none
-[Recipe Explorer][]								|0.16.5		|					100%|false		|none
+[RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
+[Recipe Explorer][]								|0.16.5		|					100%|0.16.5		|none
 [Recursive Blueprints][]						|0.16.1		|					100%|0.16.1		|none
 [Recycle Everything][]							|0.3.1		|					100%|0.3.1		|none
 [Research queue][]								|1.6.4		|Hard-coded text	100%|1.6.4		|none
@@ -77,7 +77,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [steinios toolbox][]							|0.16.3		|					100%|0.16.3		|none
 [Stone Water Well][]							|1.0.8		|					100%|1.0.8		|none
 [Test Site][]									|0.0.1		|					100%|0.0.1		|none
-[Text Plates][]									|0.3.3		|					100%|false		|none
+[Text Plates][]									|0.3.3		|					100%|0.3.3		|none
 [The Fat Controller][]							|3.0.4		|					100%|3.0.4		|none
 [TimeButtons][]									|0.3.5		|Hard-coded text	100%|0.3.5		|none
 [Tree Collision][]								|0.4.2		|Description only	100%|0.4.2		|none
