@@ -71,7 +71,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Recycle Everything][]							|0.3.1		|					100%|0.3.1		|none
 [Research queue][]								|1.6.4		|Hard-coded text	100%|1.6.4		|none
 [Reverse Factory][]								|5.1.5		|					100%|5.1.5		|none
-[ShinyIcons][]									|0.16.18	|Description only	100%|0.16.18	|none
+[ShinyIcons][]									|0.16.19	|Description only	100%|0.16.19	|none
 [Side Inserters][]								|2.3.4		|					100%|2.3.4		|none
 [steinios toolbox][]							|0.16.3		|					100%|0.16.3		|none
 [Stone Water Well][]							|1.0.8		|					100%|1.0.8		|none
