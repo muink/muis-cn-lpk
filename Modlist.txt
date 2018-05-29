@@ -1,5 +1,7 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:---------:|----------------------:|-----------|------
+[A Better Start (Quick Start)][]				|0.3.0		|					100%|false		|none
+[Adequate Bot Start][]							|0.16.1		|Description only	100%|false		|none
 [Advanced Belt Laying][]						|0.16.0		|Description only	100%|0.16.0		|none
 [Alien Biomes][]								|0.3.8		|Hard-coded text	100%|0.3.8		|none
 [Alien Biomes High-Res Terrain][]				|0.3.1		|Description only	100%|0.3.1		|none
@@ -47,6 +49,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Macerator][]									|0.16.36	|					100%|0.16.36	|none
 [M.I.R.V][]										|0.1.2		|					100%|0.1.2		|none
 [Mods To File][]								|0.1.1		|Description only	100%|0.1.1		|none
+[More Minimap Autohide][]						|1.0.0		|					100%|false		|none
 [Muro automatic wall builder][]					|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|1.0.3		|					100%|1.0.3		|none
 [My Tree Mod][]									|1.1.1		|					100%|1.1.1		|none
@@ -66,6 +69,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pollution Control][]							|1.0.4		|Hard-coded text	100%|1.0.4		|none
 [Pollution detector][]							|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|0.16.3		|					100%|0.16.3		|none
+[Progressive Running (smooth acceleration)][]	|1.0.16		|					100%|false		|none
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
@@ -90,6 +94,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [YARM - Resource Monitor][]						|0.7.306	|					100%|0.7.306	|0.7.306
 
 
+[A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start
+[Adequate Bot Start]: https://mods.factorio.com/mod/AdequateBotStart
 [Advanced Belt Laying]: https://mods.factorio.com/mod/Advanced-Belt-Laying
 [Alien Biomes]: https://mods.factorio.com/mod/alien-biomes
 [Alien Biomes High-Res Terrain]: https://mods.factorio.com/mod/alien-biomes-hr-terrain
@@ -140,6 +146,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud
 [My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod
+[More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide
 [NapalmArtillery]: https://mods.factorio.com/mod/NapalmArtillery
 [Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016
 [NiceFill]: https://mods.factorio.com/mod/nicefill
@@ -156,6 +163,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pollution Control]: https://mods.factorio.com/mod/Pollution_Control
 [Pollution detector]: https://mods.factorio.com/mod/pollution-detector
 [Power Grid Comb]: https://mods.factorio.com/mod/power-grid-comb
+[Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres
 [RealisticReactors]: https://mods.factorio.com/mod/RealisticReactors
