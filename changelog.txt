@@ -1,4 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.13
+Date: 29. 05. 2018
+  Locale:
+    - 更新 Bio Industries 到 2.5.8
+    - 更新 Hovercraft 到 0.0.6
+    - 添加 A Better Start (Quick Start)
+    - 添加 Adequate Bot Start
+    - 添加 More Minimap Autohide
+    - 添加 Progressive Running (smooth acceleration)
+    - 添加 Deep core mining
+    - 添加 NapalmArtillery
+    - 添加 Noxys Deep Core Mining Tweak
+    - 添加 Underground Indicators
+  Changes:
+    - 更改 Radar Grid Guide 的类型标签
+  Othes:
+    - 调整 模组分类标准
+    - 更新 README
+---------------------------------------------------------------------------------------------------
 Version: 1.1.12
 Date: 24. 05. 2018
   Locale:
