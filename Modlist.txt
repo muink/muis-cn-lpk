@@ -1,5 +1,5 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
-:-----------------------------------------------|:---------:|----------------------:|-----------|------
+:-----------------------------------------------|:---------:|----------------------:|:---------:|------
 [A Better Start (Quick Start)][]				|0.3.0		|					100%|false		|none
 [Adequate Bot Start][]							|0.16.1		|Description only	100%|false		|none
 [Advanced Belt Laying][]						|0.16.0		|Description only	100%|0.16.0		|none
@@ -149,10 +149,10 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Macerator]: https://mods.factorio.com/mod/Macerator
 [M.I.R.V]: https://mods.factorio.com/mod/MIRV
 [Mods To File]: https://mods.factorio.com/mod/ModsToFile
+[More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud
 [My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod
-[More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide
 [NapalmArtillery]: https://mods.factorio.com/mod/NapalmArtillery
 [Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016
 [NiceFill]: https://mods.factorio.com/mod/nicefill
