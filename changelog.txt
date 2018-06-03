@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.14
+Date: 03. 06. 2018
+  Locale:
+    - 更新 Bio Industries 到 2.6.0
+    - 添加 Deadlock's Compact Loaders
+    - 添加 Deadlock's Stacking Beltboxes
+    - 添加 Iron Man
+  Changes:
+    - 优化 Cnc's Sulfur Mod
+    - 优化 More Minimap Autohide
+    - 优化 Progressive Running (smooth acceleration)
+  Othes:
+    - 调整 Modlist.txt 格式
+---------------------------------------------------------------------------------------------------
 Version: 1.1.13
 Date: 29. 05. 2018
   Locale:
