@@ -33,7 +33,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Fire extinguisher][]							|0.16.0		|					100%|0.16.0		|none
 [FactorioLogo][]								|0.1.0		|					100%|0.1.0		|none
 [Factorissimo2][]								|2.2.3		|					100%|2.2.3		|none
-[Fully Automated Rail Layer][]					|2.1.1		|					100%|2.1.1		|none
+[Fully Automated Rail Layer][]					|2.1.2		|					100%|2.1.2		|none
 [Far Reach][]									|0.0.7		|					100%|0.0.7		|none
 [Flare Stack][]									|2.1.7		|					100%|2.1.7		|none
 [Four toolbelts][]								|0.16.1		|Description only	100%|0.16.1		|none
