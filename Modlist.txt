@@ -83,6 +83,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Reverse Factory][]								|5.1.5		|					100%|5.1.5		|none
 [ShinyIcons][]									|0.16.19	|Description only	100%|0.16.19	|none
 [Side Inserters][]								|2.3.4		|					100%|2.3.4		|none
+[Simple Saplings][]								|1.1.0		|					100%|false		|none
 [steinios toolbox][]							|0.16.3		|					100%|0.16.3		|none
 [Stone Water Well][]							|1.0.8		|					100%|1.0.8		|none
 [Test Site][]									|0.0.1		|					100%|0.0.1		|none
@@ -179,6 +180,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters
+[Simple Saplings]: https://mods.factorio.com/mod/SimpleSaplings
 [steinios toolbox]: https://mods.factorio.com/mod/steinios_toolbox
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
 [Test Site]: https://mods.factorio.com/mod/TestSite
