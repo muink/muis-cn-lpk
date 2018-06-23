@@ -90,7 +90,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [The Fat Controller][]							|3.0.4		|					100%|3.0.4		|none
 [TimeButtons][]									|0.3.5		|Hard-coded text	100%|0.3.5		|none
 [Tree Collision][]								|0.4.2		|Description only	100%|0.4.2		|none
-[Tree Sapling Mod][]							|0.2.2		|					100%|0.2.2		|none
 [Underground Indicators][]						|1.1.0		|					100%|false		|none
 [Upgrade planner][]								|1.5.3		|					100%|1.5.3		|none
 [Vehicle Wagon][]								|1.2.4		|					100%|1.2.4		|none
@@ -187,7 +186,6 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [The Fat Controller]: https://mods.factorio.com/mod/TheFatController
 [TimeButtons]: https://mods.factorio.com/mod/TimeButtons
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
-[Tree Sapling Mod]: https://mods.factorio.com/mod/TreeSaplings
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
