@@ -78,7 +78,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
-[Recipe Explorer][]								|0.16.5		|					100%|0.16.5		|none
+[Recipe Explorer][]								|0.16.10	|					100%|0.16.5		|none
 [Recursive Blueprints][]						|0.16.1		|					100%|0.16.1		|none
 [Recycle Everything][]							|0.3.1		|					100%|0.3.1		|none
 [Research queue][]								|1.6.4		|Hard-coded text	100%|1.6.4		|none
