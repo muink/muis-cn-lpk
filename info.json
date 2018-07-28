@@ -7,5 +7,12 @@
 	"homepage": "https://mods.factorio.com/mod/muis-cn-lpk",
 	"description": "muink's chinese localization lib",
 	"factorio_version":"0.16",
-	"dependencies": ["base >= 0.16.0"]
+	"dependencies": [
+		"base >= 0.16.0",
+		"? boblocale",
+		"? angelsaddons-newlocales",
+		"? muis-cn-lpk-py",
+		"? aai-locales",
+		"? yi_locales"
+	]
 }
