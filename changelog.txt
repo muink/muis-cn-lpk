@@ -1,4 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.16
+Date: 29. 07. 2018
+  Locale:
+    - 添加 Little Fluffy Clouds
+    - 添加 Pushbutton
+    - 添加 Show Me Ores
+    - 添加 Utilization Monitor
+    - 更新 Research queue 到 1.6.7
+    - 更新 Recipe Explorer 到 0.16.10
+  Changes:
+    - 更改 Pollution Detector 的类型标签
+  Othes:
+    - 添加 模组列表(详细)
+    - 调整 模组分类标准
+    - 添加 其他推荐的语言模组
+---------------------------------------------------------------------------------------------------
 Version: 1.1.15
 Date: 04. 07. 2018
   Locale:
