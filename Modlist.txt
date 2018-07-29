@@ -1,6 +1,7 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:---------:|----------------------:|:---------:|------
 [A Better Start (Quick Start)][]				|0.3.0		|					100%|false		|none
+[Actual Craft Time][]							|0.2.2		|Hard-coded text	100%|false		|none
 [Adequate Bot Start][]							|0.16.1		|Description only	100%|false		|none
 [Advanced Belt Laying][]						|0.16.0		|Description only	100%|0.16.0		|none
 [Alien Biomes][]								|0.3.8		|Hard-coded text	100%|0.3.8		|none
@@ -23,6 +24,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Cliff Deconstruct][]							|0.0.5		|					100%|0.0.5		|none
 [Little Fluffy Clouds][]						|1.0.0		|Description only	100%|false		|none
 [Cnc's Sulfur Mod][]							|1.0.4		|					100%|1.0.4		|none
+[Controllinator][]								|0.3.1		|Hard-coded text	100%|false		|none
+[Copy & Paste Modules][]						|1.0.0		|Included CN		100%|false		|none
 [Creative World][]								|0.2.0		|Description only	100%|0.2.0		|none
 [Deadlock's Compact Loaders][]					|1.6.0		|					100%|false		|none
 [Deadlock's Stacking Beltboxes][]				|1.6.3		|					100%|false		|none
@@ -33,6 +36,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Even Distribution][]							|0.2.8		|					100%|0.2.8		|none
 [Fire extinguisher][]							|0.16.0		|					100%|0.16.0		|none
 [FactorioLogo][]								|0.1.0		|					100%|0.1.0		|none
+[Unconnected Pipe Finder][]						|1.0.0		|					100%|false		|none
 [Factorissimo2][]								|2.2.3		|					100%|2.2.3		|none
 [Fully Automated Rail Layer][]					|2.1.2		|					100%|2.1.2		|none
 [Far Reach][]									|0.0.7		|					100%|0.0.7		|none
@@ -49,6 +53,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [More Inserters + Menu Cleaner][]				|1.0.3		|					100%|1.0.3		|none
 [Laser beam turrets][]							|0.2.0		|Description only	100%|0.2.0		|none
 [Light Cone][]									|0.0.1		|Description only	100%|0.0.1		|none
+[Lightorio][]									|0.16.3		|					099%|false		|none
 [Logistic Status][]								|0.1.1		|Description only	100%|0.1.1		|none
 [Macerator][]									|0.16.36	|					100%|0.16.36	|none
 [M.I.R.V][]										|0.1.2		|					100%|0.1.2		|none
@@ -74,7 +79,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pollution detector][]							|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|0.16.4		|					100%|0.16.4		|none
 [Progressive Running (smooth acceleration)][]	|1.0.16		|					100%|false		|none
-[Pushbutton][]									|0.16.0		|					100%|false		|none
+[Pushbutton][]									|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
@@ -92,7 +97,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Test Site][]									|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]									|0.3.3		|					100%|0.3.3		|none
 [The Fat Controller][]							|3.0.4		|					100%|3.0.4		|none
-[TimeButtons][]									|0.3.5		|Hard-coded text	100%|0.3.5		|none
+[Time Tools (+game speed +clock combinators)][]	|1.0.31		|					100%|false		|none
 [Tree Collision][]								|0.4.2		|Description only	100%|0.4.2		|none
 [Underground Indicators][]						|1.1.0		|					100%|false		|none
 [Upgrade planner][]								|1.5.3		|					100%|1.5.3		|none
@@ -102,6 +107,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 
 
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start
+[Actual Craft Time]: https://mods.factorio.com/mod/Actual_Craft_Time
 [Adequate Bot Start]: https://mods.factorio.com/mod/AdequateBotStart
 [Advanced Belt Laying]: https://mods.factorio.com/mod/Advanced-Belt-Laying
 [Alien Biomes]: https://mods.factorio.com/mod/alien-biomes
@@ -124,6 +130,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod
+[Controllinator]: https://mods.factorio.com/mod/controllinator
+[Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking
@@ -134,6 +142,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution
 [Fire extinguisher]: https://mods.factorio.com/mod/extinguisher
 [FactorioLogo]: https://mods.factorio.com/mod/FactorioLogo
+[Unconnected Pipe Finder]: https://mods.factorio.com/mod/factorio-unconnected-pipe-finder
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2
 [Fully Automated Rail Layer]: https://mods.factorio.com/mod/FARL
 [Far Reach]: https://mods.factorio.com/mod/far-reach
@@ -150,6 +159,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets
 [Light Cone]: https://mods.factorio.com/mod/LightCone
+[Lightorio]: https://mods.factorio.com/mod/lightorio
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus
 [Macerator]: https://mods.factorio.com/mod/Macerator
 [M.I.R.V]: https://mods.factorio.com/mod/MIRV
@@ -193,7 +203,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Test Site]: https://mods.factorio.com/mod/TestSite
 [Text Plates]: https://mods.factorio.com/mod/textplates
 [The Fat Controller]: https://mods.factorio.com/mod/TheFatController
-[TimeButtons]: https://mods.factorio.com/mod/TimeButtons
+[Time Tools (+game speed +clock combinators)]: https://mods.factorio.com/mod/TimeTools
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner

@@ -1,6 +1,7 @@
 Mod name										|License		|Source code											|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:-------------:|:------------------------------------------------------|:---------:|----------------------:|:---------:|------
 [A Better Start (Quick Start)][]				|MIT			|[Github][]												|0.3.0		|					100%|false		|none
+[Actual Craft Time][]							|MIT			|[Github][]												|0.2.2		|Hard-coded text	100%|false		|none
 [Adequate Bot Start][]							|MIT			|[Github][dtandersen/AdequateBotStart]					|0.16.1		|Description only	100%|false		|none
 [Advanced Belt Laying][]						|MIT			|[Github][]												|0.16.0		|Description only	100%|0.16.0		|none
 [Alien Biomes][]								|N/A			|[Github][]												|0.3.8		|Hard-coded text	100%|0.3.8		|none
@@ -23,6 +24,8 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Cliff Deconstruct][]							|MIT			|[Github][]												|0.0.5		|					100%|0.0.5		|none
 [Little Fluffy Clouds][]						|MIT			|[Github][]												|1.0.0		|Description only	100%|false		|none
 [Cnc's Sulfur Mod][]							|MPL-2.0		|[Github][]												|1.0.4		|					100%|1.0.4		|none
+[Controllinator][]								|ISC			|[Github][Aidiakapi/controllinator]						|0.3.1		|Hard-coded text	100%|false		|none
+[Copy & Paste Modules][]						|GPLv3			|[Github][]												|1.0.0		|Included CN		100%|false		|none
 [Creative World][]								|MIT			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none
 [Deadlock's Compact Loaders][]					|GPLv3			|[Github][]												|1.6.0		|					100%|false		|none
 [Deadlock's Stacking Beltboxes][]				|GPLv3			|[Github][]												|1.6.3		|					100%|false		|none
@@ -33,6 +36,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Even Distribution][]							|LGPLv3			|[Github][321freddy/even-distribution]					|0.2.8		|					100%|0.2.8		|none
 [Fire extinguisher][]							|Unlicense		|[Github][jfmmm/Factorio-fire-extinguisher-mod]			|0.16.0		|					100%|0.16.0		|none
 [FactorioLogo][]								|MIT			|[Github][]												|0.1.0		|					100%|0.1.0		|none
+[Unconnected Pipe Finder][]						|MIT			|[Github][terite/factorio-unconnected-pipe-finder]		|1.0.0		|					100%|false		|none
 [Factorissimo2][]								|MIT			|[Github][MagmaMcFry/Factorissimo2]						|2.2.3		|					100%|2.2.3		|none
 [Fully Automated Rail Layer][]					|MIT			|[Github][Choumiko/FARL]								|2.1.2		|					100%|2.1.2		|none
 [Far Reach][]									|MIT			|[Github][]												|0.0.7		|					100%|0.0.7		|none
@@ -49,6 +53,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Inserters + Menu Cleaner][]				|BY-NC 4.0		|[Github][]												|1.0.3		|					100%|1.0.3		|none
 [Laser beam turrets][]							|GPLv3			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none
 [Light Cone][]									|MIT			|[Github][]												|0.0.1		|Description only	100%|0.0.1		|none
+[Lightorio][]									|MIT			|[Github][]												|0.16.3		|					099%|false		|none
 [Logistic Status][]								|MIT			|[Github][]												|0.1.1		|Description only	100%|0.1.1		|none
 [Macerator][]									|MIT			|[Github][]												|0.16.36	|					100%|0.16.36	|none
 [M.I.R.V][]										|MIT			|[Github][]												|0.1.2		|					100%|0.1.2		|none
@@ -74,7 +79,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pollution detector][]							|Beer-Ware		|[Github][]												|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.4		|					100%|0.16.4		|none
 [Progressive Running (smooth acceleration)][]	|N/A			|[Github][]												|1.0.16		|					100%|false		|none
-[Pushbutton][]									|MIT			|[Github][]												|0.16.0		|					100%|false		|none
+[Pushbutton][]									|MIT			|[Github][]												|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|1.0.3		|					100%|1.0.3		|none
@@ -92,7 +97,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Test Site][]									|LGPLv3			|[Github][]												|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]									|MIT			|[Github][]												|0.3.3		|					100%|0.3.3		|none
 [The Fat Controller][]							|MIT			|[Github][Choumiko/TheFatController]					|3.0.4		|					100%|3.0.4		|none
-[TimeButtons][]									|GPLv3			|[Github][]												|0.3.5		|Hard-coded text	100%|0.3.5		|none
+[Time Tools (+game speed +clock combinators)][]	|MIT			|[Github][]												|1.0.31		|					100%|false		|none
 [Tree Collision][]								|MIT			|[Github][]												|0.4.2		|Description only	100%|0.4.2		|none
 [Underground Indicators][]						|MIT			|[Github][]												|1.1.0		|					100%|false		|none
 [Upgrade planner][]								|MIT			|[Github][Klonan/upgrade-planner]						|1.5.3		|					100%|1.5.3		|none
@@ -102,6 +107,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 
 
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start "koolwalky"
+[Actual Craft Time]: https://mods.factorio.com/mod/Actual_Craft_Time "osldgoth"
 [Adequate Bot Start]: https://mods.factorio.com/mod/AdequateBotStart "onebit"
 [Advanced Belt Laying]: https://mods.factorio.com/mod/Advanced-Belt-Laying "Schmendrick, Neomore, Frozz"
 [Alien Biomes]: https://mods.factorio.com/mod/alien-biomes "Earendel"
@@ -124,6 +130,8 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct "bob809"
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod "Ruuttu"
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod "cncr04s"
+[Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
+[Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules "Mooncat, Relik"
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld "can00336"
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders "Deadlock989, shanemadden"
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking "Deadlock989"
@@ -134,6 +142,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution "321freddy"
 [Fire extinguisher]: https://mods.factorio.com/mod/extinguisher "Devilwarriors"
 [FactorioLogo]: https://mods.factorio.com/mod/FactorioLogo "Wube Software"
+[Unconnected Pipe Finder]: https://mods.factorio.com/mod/factorio-unconnected-pipe-finder "terite"
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2 "MagmaMcFry"
 [Fully Automated Rail Layer]: https://mods.factorio.com/mod/FARL "Choumiko"
 [Far Reach]: https://mods.factorio.com/mod/far-reach "Fexx"
@@ -150,6 +159,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets "Klonan"
 [Light Cone]: https://mods.factorio.com/mod/LightCone "darkfrei"
+[Lightorio]: https://mods.factorio.com/mod/lightorio "warped_jack"
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus "bytearray and LsHallo"
 [Macerator]: https://mods.factorio.com/mod/Macerator "Pospes"
 [M.I.R.V]: https://mods.factorio.com/mod/MIRV "Klonan"
@@ -193,7 +203,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Test Site]: https://mods.factorio.com/mod/TestSite "DellAquila"
 [Text Plates]: https://mods.factorio.com/mod/textplates "Earendel, gheift"
 [The Fat Controller]: https://mods.factorio.com/mod/TheFatController "Choumiko, JamesOFarrell"
-[TimeButtons]: https://mods.factorio.com/mod/TimeButtons "Darius456"
+[Time Tools (+game speed +clock combinators)]: https://mods.factorio.com/mod/TimeTools "BinbinHfr"
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision "skomick"
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators "Raeon"
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner "Klonan"
@@ -209,11 +219,13 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
+[Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
 [VortiK/vtk-deep-core-mining]: https://github.com/VortiK/vtk-deep-core-mining "VortiK/vtk-deep-core-mining"
 [Danielv123/factorioDelorean]: https://github.com/Danielv123/factorioDelorean "Danielv123/factorioDelorean"
 [sparr/factorio-mod-entity-symmetry]: https://github.com/sparr/factorio-mod-entity-symmetry "sparr/factorio-mod-entity-symmetry"
 [321freddy/even-distribution]: https://github.com/321freddy/even-distribution "321freddy/even-distribution"
 [jfmmm/Factorio-fire-extinguisher-mod]: https://github.com/jfmmm/Factorio-fire-extinguisher-mod "jfmmm/Factorio-fire-extinguisher-mod"
+[terite/factorio-unconnected-pipe-finder]: https://github.com/terite/factorio-unconnected-pipe-finder "terite/factorio-unconnected-pipe-finder"
 [MagmaMcFry/Factorissimo2]: https://github.com/MagmaMcFry/Factorissimo2 "MagmaMcFry/Factorissimo2"
 [Choumiko/FARL]: https://github.com/Choumiko/FARL "Choumiko/FARL"
 [folknor/factorio-stopthat]: https://github.com/folknor/factorio-stopthat "folknor/factorio-stopthat"
