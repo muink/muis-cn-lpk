@@ -1,4 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.17
+Date: 29. 07. 2018
+  Locale:
+    - 添加 Actual Craft Time
+    - 添加 Controllinator
+    - 添加 Copy & Paste Modules
+    - 添加 Lightorio
+    - 添加 Time Tools (+game speed +clock combinators)
+    - 添加 Unconnected Pipe Finder
+    - 移除 Time Buttons
+  Changes:
+    - 补完 Bio Industries 在 2.6.3 中未完成的翻译工作
+    - 调整 Orphan Finder 中部分翻译 以配对 Unconnected Pipe Finder
+  Othes:
+    - 进度标识 添加新类型 "Included CN"
+---------------------------------------------------------------------------------------------------
 Version: 1.1.16
 Date: 29. 07. 2018
   Locale:
