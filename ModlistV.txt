@@ -79,7 +79,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pollution detector][]							|Beer-Ware		|[Github][]												|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.4		|					100%|0.16.4		|none
 [Progressive Running (smooth acceleration)][]	|N/A			|[Github][]												|1.0.16		|					100%|false		|none
-[Pushbutton][]									|MIT			|[Github][]												|0.16.0		|					100%|false		|none
+[Pushbutton][]									|MIT			|[Github][]												|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|1.0.3		|					100%|1.0.3		|none
