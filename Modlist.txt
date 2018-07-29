@@ -79,7 +79,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pollution detector][]							|0.4.0		|					100%|0.4.0		|none
 [Power Grid Comb][]								|0.16.4		|					100%|0.16.4		|none
 [Progressive Running (smooth acceleration)][]	|1.0.16		|					100%|false		|none
-[Pushbutton][]									|0.16.0		|					100%|false		|none
+[Pushbutton][]									|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
