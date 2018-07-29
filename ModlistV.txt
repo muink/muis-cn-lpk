@@ -92,7 +92,6 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Test Site][]									|LGPLv3			|[Github][]												|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]									|MIT			|[Github][]												|0.3.3		|					100%|0.3.3		|none
 [The Fat Controller][]							|MIT			|[Github][Choumiko/TheFatController]					|3.0.4		|					100%|3.0.4		|none
-[TimeButtons][]									|GPLv3			|[Github][]												|0.3.5		|Hard-coded text	100%|0.3.5		|none
 [Tree Collision][]								|MIT			|[Github][]												|0.4.2		|Description only	100%|0.4.2		|none
 [Underground Indicators][]						|MIT			|[Github][]												|1.1.0		|					100%|false		|none
 [Upgrade planner][]								|MIT			|[Github][Klonan/upgrade-planner]						|1.5.3		|					100%|1.5.3		|none
@@ -193,7 +192,6 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Test Site]: https://mods.factorio.com/mod/TestSite "DellAquila"
 [Text Plates]: https://mods.factorio.com/mod/textplates "Earendel, gheift"
 [The Fat Controller]: https://mods.factorio.com/mod/TheFatController "Choumiko, JamesOFarrell"
-[TimeButtons]: https://mods.factorio.com/mod/TimeButtons "Darius456"
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision "skomick"
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators "Raeon"
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner "Klonan"
