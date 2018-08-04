@@ -14,6 +14,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Belt Planner][]						|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
+[Blueprintable Trains][]						|0.16.4		|					100%|false		|none
 [Bio Industries][]								|2.6.11		|					100%|2.5.2		|none
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.1		|					100%|0.9.1		|none
@@ -82,6 +83,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pushbutton][]									|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
+[Realistic Reactor Glow][]						|1.16.0		|Description only	100%|false		|none
 [RealisticReactors][]							|1.0.3		|					100%|1.0.3		|none
 [Recipe Explorer][]								|0.16.10	|					100%|0.16.5		|none
 [Recursive Blueprints][]						|0.16.1		|					100%|0.16.1		|none
@@ -120,6 +122,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Belt Planner]: https://mods.factorio.com/mod/beltplanner
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters
+[Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck
@@ -188,6 +191,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres
+[Realistic Reactor Glow]: https://mods.factorio.com/mod/RealisticReactorGlow
 [RealisticReactors]: https://mods.factorio.com/mod/RealisticReactors
 [Recipe Explorer]: https://mods.factorio.com/mod/RecExplo
 [Recursive Blueprints]: https://mods.factorio.com/mod/recursive-blueprints
