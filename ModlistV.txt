@@ -9,7 +9,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Armor Pockets][]								|MIT			|[Github][]												|1.0.4		|					100%|1.0.4		|none
 [Atomic Artillery][]							|MIT			|[Github][sirdoombox/AtomicArtillery]					|0.1.5		|					100%|0.1.5		|none
 [Auto Deconstruct][]							|MIT			|[Github][]												|0.1.11		|					100%|0.1.11		|none
-[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.1.0		|					100%|4.1.0		|none
+[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.2.0		|					100%|4.1.0		|none
 [Beautiful Bridge Railway][]					|MIT			|[Github][]												|0.1.3		|					100%|0.1.3		|none
 [Automatic Belt Planner][]						|MIT			|[Github][]												|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none
