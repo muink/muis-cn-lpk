@@ -14,7 +14,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Belt Planner][]						|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
-[Bio Industries][]								|2.6.7		|					100%|2.5.2		|none
+[Bio Industries][]								|2.6.11		|					100%|2.5.2		|none
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.1		|					100%|0.9.1		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
