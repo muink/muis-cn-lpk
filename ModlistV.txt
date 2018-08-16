@@ -9,12 +9,13 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Armor Pockets][]								|MIT			|[Github][]												|1.0.4		|					100%|1.0.4		|none
 [Atomic Artillery][]							|MIT			|[Github][sirdoombox/AtomicArtillery]					|0.1.5		|					100%|0.1.5		|none
 [Auto Deconstruct][]							|MIT			|[Github][]												|0.1.11		|					100%|0.1.11		|none
-[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.1.0		|					100%|4.1.0		|none
+[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.2.0		|					100%|4.1.0		|none
 [Beautiful Bridge Railway][]					|MIT			|[Github][]												|0.1.3		|					100%|0.1.3		|none
 [Automatic Belt Planner][]						|MIT			|[Github][]												|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none
-[Bio Industries][]								|MIT			|[Github][]												|2.6.1		|					100%|2.5.2		|none
+[Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.4		|					100%|false		|none
+[Bio Industries][]								|MIT			|[Github][]												|2.6.11		|					100%|2.5.2		|none
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.1		|					100%|0.9.1		|none
 [Bullet Trails][]								|Non-standard	|[Github][]												|0.3.1		|Description only	100%|0.3.1		|none
@@ -82,6 +83,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pushbutton][]									|MIT			|[Github][]												|0.16.0		|Included CN		100%|false		|none
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none
+[Realistic Reactor Glow][]						|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]		|1.16.0		|Description only	100%|false		|none
 [RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|1.0.3		|					100%|1.0.3		|none
 [Recipe Explorer][]								|MIT			|[Github][ElmarWueest/Recexplo]							|0.16.10	|					100%|0.16.5		|none
 [Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.1		|					100%|0.16.1		|none
@@ -120,6 +122,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Automatic Belt Planner]: https://mods.factorio.com/mod/beltplanner "prg"
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser "Cogito"
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters "DiegoPro77"
+[Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
@@ -188,6 +191,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton "justarandomgeek"
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide "jonatkins"
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres "<NO_NAME> & DeTNTonator"
+[Realistic Reactor Glow]: https://mods.factorio.com/mod/RealisticReactorGlow "ouk_ouk"
 [RealisticReactors]: https://mods.factorio.com/mod/RealisticReactors "IngoKnieto"
 [Recipe Explorer]: https://mods.factorio.com/mod/RecExplo "Helvetios"
 [Recursive Blueprints]: https://mods.factorio.com/mod/recursive-blueprints "Doc, justarandomgeek, DaveMcW"
@@ -216,6 +220,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [sirdoombox/AtomicArtillery]: https://github.com/sirdoombox/AtomicArtillery "sirdoombox/AtomicArtillery"
 [canidae/factorio]: https://github.com/canidae/factorio "canidae/factorio"
 [Cogito/belt-reverser]: https://github.com/Cogito/belt-reverser "Cogito/belt-reverser"
+[DaveMcW/blueprint-train]: https://github.com/DaveMcW/blueprint-train "DaveMcW/blueprint-train"
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
@@ -245,6 +250,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [shanemadden/factorio-power-grid-comb]: https://github.com/shanemadden/factorio-power-grid-comb "shanemadden/factorio-power-grid-comb"
 [jonatkins/RadarGridGuide]: https://github.com/jonatkins/RadarGridGuide "jonatkins/RadarGridGuide"
 [ouk-ouk/Factorio-RealisticOres]: https://github.com/ouk-ouk/Factorio-RealisticOres "ouk-ouk/Factorio-RealisticOres"
+[ouk-ouk/Factorio-RealisticReactorGlow]: https://github.com/ouk-ouk/Factorio-RealisticReactorGlow "ouk-ouk/Factorio-RealisticReactorGlow"
 [IngoKnieto/factorio-realistic-reactors]: https://github.com/IngoKnieto/factorio-realistic-reactors "IngoKnieto/factorio-realistic-reactors"
 [ElmarWueest/Recexplo]: https://github.com/ElmarWueest/Recexplo "ElmarWueest/Recexplo"
 [DaveMcW/factorio-bad-chest]: https://github.com/DaveMcW/factorio-bad-chest "DaveMcW/factorio-bad-chest"
