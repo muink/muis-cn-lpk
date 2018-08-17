@@ -14,7 +14,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Automatic Belt Planner][]						|MIT			|[Github][]												|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none
-[Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.12	|					100%|false		|none
+[Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.14	|					100%|false		|none
 [Bio Industries][]								|MIT			|[Github][]												|2.6.11		|					100%|2.5.2		|none
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.1		|					100%|0.9.1		|none
