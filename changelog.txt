@@ -1,4 +1,37 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.19
+Date: 22. 08. 2018
+  fixes:
+    - 修复 模组列表merge不完全问题
+  Changes:
+    - 更新 Auto Research 的模组描述
+    - 校对 A Better Start (Quick Start)
+    - 校对 Actual Craft Time
+    - 校对 Adequate Bot Start
+    - 校对 Auto Research
+    - 校对 Blueprintable Trains
+    - 校对 Bio Industries
+    - 校对 Little Fluffy Clouds
+    - 校对 Controllinator
+    - 校对 Copy & Paste Modules
+    - 校对 Deadlock's Compact Loaders
+    - 校对 Deadlock's Stacking Beltboxes
+    - 校对 Deep core mining
+    - 校对 Unconnected Pipe Finder
+    - 校对 Iron Man
+    - 校对 More Minimap Autohide
+    - 校对 NapalmArtillery
+    - 校对 Noxys Deep Core Mining Tweak
+    - 校对 Progressive Running (smooth acceleration)
+    - 校对 Pushbutton
+    - 校对 Realistic Reactor Glow
+    - 校对 Recipe Explorer
+    - 校对 Show Me Ores
+    - 校对 Simple Saplings
+    - 校对 Time Tools (+game speed +clock combinators)
+    - 校对 Underground Indicators
+    - 校对 Utilization Monitor
+---------------------------------------------------------------------------------------------------
 Version: 1.1.18
 Date: 16. 08. 2018
   Locale:
