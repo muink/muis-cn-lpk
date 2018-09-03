@@ -69,6 +69,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Noxys Deep Core Mining Tweak][]				|Unlicense		|[Github][CyaNox/Noxys_Deep_Core_Mining_Tweak]			|0.0.1		|					100%|0.0.1		|none
 [Noxys Swimming][]								|Unlicense		|[Github][CyaNox/Noxys_Swimming]						|0.0.4		|					100%|0.0.4		|none
 [Noxys Waterfill][]								|Unlicense		|[Github][CyaNox/Noxys_Waterfill]						|0.0.13		|					100%|0.0.13		|none
+[Nuclear Fuel Cycle][]							|MIT			|[Github][muink/nuclear-fuel-cycle]						|0.1.0		|Included CN		100%|0.1.0		|none
 [Orbital Ion Cannon][]							|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]				|1.6.3		|					100%|1.6.3		|none
 [Orphan Finder][]								|MIT			|[Github][]												|1.1.0		|					100%|1.1.0		|none
 [OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.2		|					100%|1.0.2		|none
@@ -177,6 +178,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Noxys Deep Core Mining Tweak]: https://mods.factorio.com/mod/Noxys_Deep_Core_Mining_Tweak "Noxy"
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming "Noxy"
 [Noxys Waterfill]: https://mods.factorio.com/mod/Noxys_Waterfill "Noxy"
+[Nuclear Fuel Cycle]: https://mods.factorio.com/mod/nuclear-fuel-cycle "muink"
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon "Supercheese"
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder "GotLag"
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner "bob809"
@@ -241,6 +243,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [CyaNox/Noxys_Deep_Core_Mining_Tweak]: https://github.com/CyaNox/Noxys_Deep_Core_Mining_Tweak "CyaNox/Noxys_Deep_Core_Mining_Tweak"
 [CyaNox/Noxys_Swimming]: https://github.com/CyaNox/Noxys_Swimming "CyaNox/Noxys_Swimming"
 [CyaNox/Noxys_Waterfill]: https://github.com/CyaNox/Noxys_Waterfill "CyaNox/Noxys_Waterfill"
+[muink/nuclear-fuel-cycle]: https://github.com/muink/nuclear-fuel-cycle "muink/nuclear-fuel-cycle"
 [Suprcheese/Orbital-Ion-Cannon]: https://github.com/Suprcheese/Orbital-Ion-Cannon "Suprcheese/Orbital-Ion-Cannon"
 [Ben-Ramchandani/OutpostPlanner]: https://github.com/Ben-Ramchandani/OutpostPlanner "Ben-Ramchandani/OutpostPlanner"
 [Ben-Ramchandani/PlannerCore]: https://github.com/Ben-Ramchandani/PlannerCore "Ben-Ramchandani/PlannerCore"
