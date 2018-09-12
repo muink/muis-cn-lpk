@@ -69,6 +69,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Deep Core Mining Tweak][]				|0.0.1		|					100%|0.0.1		|none
 [Noxys Swimming][]								|0.0.4		|					100%|0.0.4		|none
 [Noxys Waterfill][]								|0.0.13		|					100%|0.0.13		|none
+[Nuclear Fuel Cycle][]							|0.1.0		|Included CN		100%|0.1.0		|none
 [Orbital Ion Cannon][]							|1.6.3		|					100%|1.6.3		|none
 [Orphan Finder][]								|1.1.0		|					100%|1.1.0		|none
 [OutpostPlanner][]								|1.0.2		|					100%|1.0.2		|none
@@ -177,6 +178,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Deep Core Mining Tweak]: https://mods.factorio.com/mod/Noxys_Deep_Core_Mining_Tweak
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming
 [Noxys Waterfill]: https://mods.factorio.com/mod/Noxys_Waterfill
+[Nuclear Fuel Cycle]: https://mods.factorio.com/mod/nuclear-fuel-cycle
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
