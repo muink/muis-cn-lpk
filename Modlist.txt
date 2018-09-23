@@ -45,7 +45,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Four toolbelts][]								|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]						|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]							|1.0.1		|Description only	100%|1.0.1		|none
-[Fish and Wildlife][]							|0.1.7		|					100%|0.1.7		|none
+[Fish and Wildlife][]							|0.1.8		|					100%|0.1.8		|none
 [Geothermal][]									|1.0.96		|					100%|1.0.96		|none
 [Hand Crank][]									|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]	|0.7.11		|					100%|0.7.11		|none
