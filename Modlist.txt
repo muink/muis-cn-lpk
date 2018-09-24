@@ -62,6 +62,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [More Minimap Autohide][]						|1.0.0		|					100%|1.0.0		|none
 [Muro automatic wall builder][]					|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|1.0.3		|					100%|1.0.3		|none
+[Mustard Artillery Shells][]					|1.0.3		|					100%|false		|none
 [My Tree Mod][]									|1.1.2		|					100%|1.1.2		|none
 [NapalmArtillery][]								|0.16.4		|					100%|0.16.4		|none
 [Natural Tree Expansion Reloaded][]				|0.3.1		|					100%|0.3.1		|none
@@ -171,6 +172,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud
+[Mustard Artillery Shells]: https://mods.factorio.com/mod/MustardArtilleryShell
 [My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod
 [NapalmArtillery]: https://mods.factorio.com/mod/NapalmArtillery
 [Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016
