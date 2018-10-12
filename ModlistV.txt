@@ -15,7 +15,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none
 [Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.15	|					100%|0.16.15	|none
-[Bio Industries][]								|MIT			|[Github][]												|2.6.11		|					100%|2.6.11		|none
+[Bio Industries][]								|MIT			|[Github][]												|2.6.12		|					100%|2.6.12		|none
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.1		|					100%|0.9.1		|none
 [Bullet Trails][]								|Non-standard	|[Github][]												|0.3.1		|Description only	100%|0.3.1		|none
@@ -34,7 +34,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Delorean][]									|MIT			|[Github][Danielv123/factorioDelorean]					|2.0.1		|					100%|2.0.1		|none
 [Enhanced Flashlight][]							|MIT			|[Github][]												|0.1.2		|Description only	100%|0.1.2		|none
 [Entity Symmetry][]								|MIT			|[Github][sparr/factorio-mod-entity-symmetry]			|0.16.2		|					100%|0.16.2		|none
-[Even Distribution][]							|LGPLv3			|[Github][321freddy/even-distribution]					|0.2.9		|					100%|0.2.9		|none
+[Even Distribution][]							|LGPLv3			|[Github][321freddy/even-distribution]					|0.2.10		|					100%|0.2.10		|none
 [Fire extinguisher][]							|Unlicense		|[Github][jfmmm/Factorio-fire-extinguisher-mod]			|0.16.0		|					100%|0.16.0		|none
 [FactorioLogo][]								|MIT			|[Github][]												|0.1.0		|					100%|0.1.0		|none
 [Unconnected Pipe Finder][]						|MIT			|[Github][terite/factorio-unconnected-pipe-finder]		|1.0.0		|					100%|1.0.0		|none
@@ -63,7 +63,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Muro automatic wall builder][]					|MIT			|[Github][lingo/factorio-mod-muro]						|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|MIT			|[Github][]												|1.0.3		|					100%|1.0.3		|none
 [My Tree Mod][]									|MIT			|[Github][]												|1.1.2		|					100%|1.1.2		|none
-[NapalmArtillery][]								|MIT			|[Github][]												|0.16.3		|					100%|0.16.3		|none
+[NapalmArtillery][]								|MIT			|[Github][]												|0.16.4		|					100%|0.16.4		|none
 [Natural Tree Expansion Reloaded][]				|MIT			|[Github][]												|0.3.1		|					100%|0.3.1		|none
 [NiceFill][]									|MIT			|[Github][]												|0.1.5		|Description only	100%|0.1.5		|none
 [Noxys Deep Core Mining Tweak][]				|Unlicense		|[Github][CyaNox/Noxys_Deep_Core_Mining_Tweak]			|0.0.1		|					100%|0.0.1		|none
