@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.21
+Date: 12. 10. 2018
+  Local:
+    - 添加 Mustard Artillery Shells
+    - 移除 Realistic Reactors
+  Changes:
+    - 更新 Fish and Wildlife 到 0.1.8
+    - 更新 Geothermal 到 1.0.148
+    - 更新 Alien Biomes 到 0.3.10
+    - 更新 YARM 到 0.7.306
+    - 更新 NiceFill 到 0.1.7
+    - 更新 Deep core mining 到 1.12.2
+    - 优化 Automatic Belt Planner
+    - 优化 RecExplo
+    - 调整 Napalm Artillery Shell
+  Othes:
+    - 在 ModlistV.txt 中标注那些可能影响性能的模组
+---------------------------------------------------------------------------------------------------
 Version: 1.1.20
 Date: 13. 09. 2018
   Local:
