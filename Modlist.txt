@@ -66,7 +66,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [My Tree Mod][]									|1.1.2		|					100%|1.1.2		|none
 [NapalmArtillery][]								|0.16.4		|					100%|0.16.4		|none
 [Natural Tree Expansion Reloaded][]				|0.3.1		|					100%|0.3.1		|none
-[NiceFill][]									|0.1.5		|Description only	100%|0.1.5		|none
+[NiceFill][]									|0.1.7		|					100%|0.1.5		|none
 [Noxys Deep Core Mining Tweak][]				|0.0.1		|					100%|0.0.1		|none
 [Noxys Swimming][]								|0.0.4		|					100%|0.0.4		|none
 [Noxys Waterfill][]								|0.0.13		|					100%|0.0.13		|none
