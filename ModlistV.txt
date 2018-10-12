@@ -4,7 +4,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Actual Craft Time][]							|MIT			|[Github][]												|0.2.2		|Hard-coded text	100%|0.2.2		|none
 [Adequate Bot Start][]							|MIT			|[Github][dtandersen/AdequateBotStart]					|0.16.1		|Description only	100%|0.16.1		|none
 [Advanced Belt Laying][]						|MIT			|[Github][]												|0.16.0		|Description only	100%|0.16.0		|none
-[Alien Biomes][]								|N/A			|[Github][]												|0.3.8		|Hard-coded text	100%|0.3.8		|none
+[Alien Biomes][]								|N/A			|[Github][]												|0.3.10		|Hard-coded text	100%|0.3.8		|none
 [Alien Biomes High-Res Terrain][]				|N/A			|[Github][]												|0.3.1		|Description only	100%|0.3.1		|none
 [Armor Pockets][]								|MIT			|[Github][]												|1.0.5		|					100%|1.0.5		|none
 [Atomic Artillery][]							|MIT			|[Github][sirdoombox/AtomicArtillery]					|0.1.5		|					100%|0.1.5		|none
@@ -30,7 +30,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Creative World][]								|MIT			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none
 [Deadlock's Compact Loaders][]					|GPLv3			|[Github][]												|1.6.0		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]				|GPLv3			|[Github][]												|1.6.3		|					100%|1.6.3		|none
-[Deep core mining][]							|MIT			|[Github][VortiK/vtk-deep-core-mining]					|1.11.4		|Hard-coded text	100%|1.11.4		|none
+[Deep core mining][]							|MIT			|[Github][VortiK/vtk-deep-core-mining]					|1.12.2		|Hard-coded text	100%|1.11.4		|none
 [Delorean][]									|MIT			|[Github][Danielv123/factorioDelorean]					|2.0.1		|					100%|2.0.1		|none
 [Enhanced Flashlight][]							|MIT			|[Github][]												|0.1.2		|Description only	100%|0.1.2		|none
 [Entity Symmetry][]								|MIT			|[Github][sparr/factorio-mod-entity-symmetry]			|0.16.2		|					100%|0.16.2		|none
@@ -45,8 +45,8 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Four toolbelts][]								|MIT			|[Github][]												|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]						|CC-BY-NC 4.0	|[Github][folknor/factorio-stopthat]					|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]							|Unlicense		|[Github][]												|1.0.1		|Description only	100%|1.0.1		|none
-[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.7		|					100%|0.1.7		|none
-[Geothermal][]									|Non-standard	|[Github][ReikaKalseki/Geothermal]						|1.0.96		|					100%|1.0.96		|none
+[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.8		|					100%|0.1.8		|none
+[Geothermal][]									|Non-standard	|[Github][ReikaKalseki/Geothermal]						|1.0.148	|					100%|1.0.148	|none
 [Hand Crank][]									|MIT			|[Github][qix-/factorio-hand-crank]						|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]	|MIT			|[Github][Helfima/helmod]								|0.7.11		|					100%|0.7.11		|none
 [Hovercraft][]									|CC-BY-SA 4.0	|[Github][]												|0.0.8		|					100%|0.0.8		|none
@@ -62,10 +62,11 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Minimap Autohide][]						|MIT			|[Github][]												|1.0.0		|					100%|1.0.0		|none
 [Muro automatic wall builder][]					|MIT			|[Github][lingo/factorio-mod-muro]						|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|MIT			|[Github][]												|1.0.3		|					100%|1.0.3		|none
+[Mustard Artillery Shells][]					|MIT			|[Github][]												|1.0.3		|					100%|false		|none
 [My Tree Mod][]									|MIT			|[Github][]												|1.1.2		|					100%|1.1.2		|none
 [NapalmArtillery][]								|MIT			|[Github][]												|0.16.4		|					100%|0.16.4		|none
 [Natural Tree Expansion Reloaded][]				|MIT			|[Github][]												|0.3.1		|					100%|0.3.1		|none
-[NiceFill][]									|MIT			|[Github][]												|0.1.5		|Description only	100%|0.1.5		|none
+[NiceFill][]									|MIT			|[Github][]												|0.1.7		|					100%|0.1.5		|none
 [Noxys Deep Core Mining Tweak][]				|Unlicense		|[Github][CyaNox/Noxys_Deep_Core_Mining_Tweak]			|0.0.1		|					100%|0.0.1		|none
 [Noxys Swimming][]								|Unlicense		|[Github][CyaNox/Noxys_Swimming]						|0.0.4		|					100%|0.0.4		|none
 [Noxys Waterfill][]								|Unlicense		|[Github][CyaNox/Noxys_Waterfill]						|0.0.13		|					100%|0.0.13		|none
@@ -85,7 +86,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [Realistic Reactor Glow][]						|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]		|1.16.0		|Description only	100%|1.16.0		|none
-[RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|1.0.5		|					100%|1.0.5		|none
+[RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|2.0.2		|					100%|1.0.5		|none
 [Recipe Explorer][]								|MIT			|[Github][ElmarWueest/Recexplo]							|0.16.11	|					100%|0.16.11	|none
 [Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.2		|					100%|0.16.2		|none
 [Recycle Everything][]							|MIT			|[Github][BJNick/factorio-recycling]					|0.3.1		|					100%|0.3.1		|none
@@ -106,7 +107,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Upgrade planner][]								|MIT			|[Github][Klonan/upgrade-planner]						|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]							|MIT			|[Github][sullerandras/UtilizationMonitor]				|0.4.1		|Hard-coded text	100%|0.4.1		|none
 [Vehicle Wagon][]								|MIT			|[Github][Suprcheese/Vehicle-Wagon]						|1.2.5		|					100%|1.2.5		|none
-[YARM - Resource Monitor][]						|MIT			|[Github][narc0tiq/YARM]								|0.7.306	|					100%|0.7.306	|0.7.306
+[YARM - Resource Monitor][]						|MIT			|[Github][narc0tiq/YARM]								|0.7.307	|					100%|0.7.306	|0.7.306
 
 
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start "koolwalky"
@@ -171,6 +172,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide "ReubenAaron"
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro "lingo"
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud "Arcitos"
+[Mustard Artillery Shells]: https://mods.factorio.com/mod/MustardArtilleryShell "IngoKnieto"
 [My Tree Mod]: https://mods.factorio.com/mod/My_Tree_Mod "SamuelCombrinck"
 [NapalmArtillery]: https://mods.factorio.com/mod/NapalmArtillery "MFerrari"
 [Natural Tree Expansion Reloaded]: https://mods.factorio.com/mod/NaturalTreeExpansionReloaded_016 "msakuta/satscape/8ZN"
