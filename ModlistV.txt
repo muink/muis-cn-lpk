@@ -86,7 +86,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [Realistic Reactor Glow][]						|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]		|1.16.0		|Description only	100%|1.16.0		|none
-[RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|1.0.5		|					100%|1.0.5		|none
+[RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|2.0.2		|					100%|1.0.5		|none
 [Recipe Explorer][]								|MIT			|[Github][ElmarWueest/Recexplo]							|0.16.11	|					100%|0.16.11	|none
 [Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.2		|					100%|0.16.2		|none
 [Recycle Everything][]							|MIT			|[Github][BJNick/factorio-recycling]					|0.3.1		|					100%|0.3.1		|none
