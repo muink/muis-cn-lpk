@@ -47,7 +47,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Four toolbelts][]								|MIT			|[Github][]												|0.16.1		|Description only	100%|0.16.1		|none		|
 [Stop That, Silly Robot!][]						|CC-BY-NC 4.0	|[Github][folknor/factorio-stopthat]					|0.1.4		|					100%|0.1.4		|none		|
 [Free circuit wires][]							|Unlicense		|[Github][]												|1.0.1		|Description only	100%|1.0.1		|none		|
-[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.8		|					100%|0.1.8		|none		|
+[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.9		|					100%|0.1.8		|none		|
 [Geothermal][]									|Non-standard	|[Github][ReikaKalseki/Geothermal]						|1.0.148	|					100%|1.0.148	|none		|
 [Hand Crank][]									|MIT			|[Github][qix-/factorio-hand-crank]						|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]	|MIT			|[Github][Helfima/helmod]								|0.7.11		|					100%|0.7.11		|none		|
