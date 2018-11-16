@@ -16,7 +16,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
 [Blueprintable Trains][]						|0.16.15	|					100%|0.16.15	|none
 [Better Ore Icons][]							|0.16.0		|Description only	100%|0.16.0		|none
-[Bio Industries][]								|2.6.12		|					100%|2.6.12		|none
+[Bio Industries][]								|2.6.13		|					100%|2.6.12		|none
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.1		|					100%|0.9.1		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
