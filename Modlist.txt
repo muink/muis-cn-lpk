@@ -14,11 +14,11 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Belt Planner][]						|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]								|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
-[Blueprintable Trains][]						|0.16.15	|					100%|0.16.15	|none
 [Better Ore Icons][]							|0.16.0		|Description only	100%|0.16.0		|none
+[Blueprintable Trains][]						|0.16.17	|					100%|0.16.17	|none
 [Bio Industries][]								|2.6.13		|					100%|2.6.12		|none
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
-[Bottleneck][]									|0.9.1		|					100%|0.9.1		|none
+[Bottleneck][]									|0.9.3		|					100%|0.9.3		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
 [Cement Shoes][]								|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]								|1.4.1		|					100%|1.4.1		|none
@@ -47,8 +47,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Four toolbelts][]								|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]						|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]							|1.0.1		|Description only	100%|1.0.1		|none
-[Fish and Wildlife][]							|0.1.9		|					100%|0.1.8		|none
-[Geothermal][]									|1.0.148	|					100%|1.0.148	|none
+[Fish and Wildlife][]							|0.1.11		|					100%|0.1.8		|none
+[Geothermal][]									|1.0.164	|					100%|1.0.164	|none
 [Hand Crank][]									|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]	|0.7.11		|					100%|0.7.11		|none
 [Hovercraft][]									|0.0.8		|					100%|0.0.8		|none
@@ -69,7 +69,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [My Tree Mod][]									|1.1.2		|					100%|1.1.2		|none
 [NapalmArtillery][]								|0.16.4		|					100%|0.16.4		|none
 [Natural Tree Expansion Reloaded][]				|0.3.1		|					100%|0.3.1		|none
-[NiceFill][]									|0.1.7		|					100%|0.1.5		|none
+[NiceFill][]									|0.1.8		|					100%|0.1.5		|none
 [Noxys Deep Core Mining Tweak][]				|0.0.1		|					100%|0.0.1		|none
 [Noxys Swimming][]								|0.0.4		|					100%|0.0.4		|none
 [Noxys Waterfill][]								|0.0.13		|					100%|0.0.13		|none
@@ -90,7 +90,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [Realistic Reactor Glow][]						|1.16.0		|Description only	100%|1.16.0		|none
 [RealisticReactors][]							|2.0.2		|					100%|1.0.5		|none
-[Recipe Explorer][]								|0.16.11	|					100%|0.16.11	|none
+[Recipe Explorer][]								|0.16.12	|					100%|0.16.12	|none
 [Recursive Blueprints][]						|0.16.2		|					100%|0.16.2		|none
 [Recycle Everything][]							|0.3.1		|					100%|0.3.1		|none
 [Research queue][]								|1.6.7		|Hard-coded text	100%|1.6.7		|none
@@ -112,7 +112,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Upgrade planner][]								|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]							|0.4.1		|Hard-coded text	100%|0.4.1		|none
 [Vehicle Wagon][]								|1.2.5		|					100%|1.2.5		|none
-[YARM - Resource Monitor][]						|0.7.307	|					100%|0.7.306	|0.7.306
+[YARM - Resource Monitor][]						|0.7.309	|					100%|0.7.309	|0.7.309
 
 
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start
