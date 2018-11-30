@@ -1,7 +1,7 @@
 Mod name										|License		|Source code											|ZH version	|Completion rate		|Verified	|Pushed		|on_tick
 :-----------------------------------------------|:-------------:|:------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
 [A Better Start (Quick Start)][]				|MIT			|[Github][]												|0.3.0		|					100%|0.3.0		|none		|
-[Actual Craft Time][]							|MIT			|[Github][]												|0.2.2		|Hard-coded text	100%|0.2.2		|none		|
+[Actual Craft Time][]							|MIT			|[Github][]												|0.2.8		|Hard-coded text	100%|0.2.2		|none		|
 [Adequate Bot Start][]							|MIT			|[Github][dtandersen/AdequateBotStart]					|0.16.1		|Description only	100%|0.16.1		|none		|
 [Advanced Belt Laying][]						|MIT			|[Github][]												|0.16.0		|Description only	100%|0.16.0		|none		|
 [Alien Biomes][]								|N/A			|[Github][]												|0.3.10		|Hard-coded text	100%|0.3.8		|none		|
@@ -9,13 +9,14 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Armor Pockets][]								|MIT			|[Github][]												|1.0.5		|					100%|1.0.5		|none		|
 [Atomic Artillery][]							|MIT			|[Github][sirdoombox/AtomicArtillery]					|0.1.5		|					100%|0.1.5		|none		|
 [Auto Deconstruct][]							|MIT			|[Github][]												|0.1.11		|					100%|0.1.11		|none		|
-[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.2.0		|					100%|4.2.0		|none		|
+[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.3.0		|					100%|4.3.0		|none		|
 [Beautiful Bridge Railway][]					|MIT			|[Github][]												|0.1.3		|					100%|0.1.3		|none		|
 [Automatic Belt Planner][]						|MIT			|[Github][]												|0.12.0		|					100%|0.12.0		|none		|
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none		|
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none		|
+[Better Ore Icons][]							|MIT			|[Github][GeekinaCave/better_ore_icons]					|0.16.0		|Description only	100%|0.16.0		|none		|
 [Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.15	|					100%|0.16.15	|none		|
-[Bio Industries][]								|MIT			|[Github][]												|2.6.12		|					100%|2.6.12		|none		|
+[Bio Industries][]								|MIT			|[Github][]												|2.6.13		|					100%|2.6.12		|none		|
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.1		|					100%|0.9.1		|none		|
 [Bullet Trails][]								|Non-standard	|[Github][]												|0.3.1		|Description only	100%|0.3.1		|none		|
@@ -33,6 +34,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Deep core mining][]							|MIT			|[Github][VortiK/vtk-deep-core-mining]					|1.12.2		|Hard-coded text	100%|1.11.4		|none		|
 [Delorean][]									|MIT			|[Github][Danielv123/factorioDelorean]					|2.0.1		|					100%|2.0.1		|none		|
 [Enhanced Flashlight][]							|MIT			|[Github][]												|0.1.2		|Description only	100%|0.1.2		|none		|
+[Enhanced Map Colors][]							|MIT			|[Github][osldgoth/Enhanced_Map_Colors]					|1.4.6		|					100%|false		|none		|
 [Entity Symmetry][]								|MIT			|[Github][sparr/factorio-mod-entity-symmetry]			|0.16.2		|					100%|0.16.2		|none		|
 [Even Distribution][]							|LGPLv3			|[Github][321freddy/even-distribution]					|0.2.10		|					100%|0.2.10		|none		|
 [Fire extinguisher][]							|Unlicense		|[Github][jfmmm/Factorio-fire-extinguisher-mod]			|0.16.0		|					100%|0.16.0		|none		|
@@ -45,11 +47,12 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Four toolbelts][]								|MIT			|[Github][]												|0.16.1		|Description only	100%|0.16.1		|none		|
 [Stop That, Silly Robot!][]						|CC-BY-NC 4.0	|[Github][folknor/factorio-stopthat]					|0.1.4		|					100%|0.1.4		|none		|
 [Free circuit wires][]							|Unlicense		|[Github][]												|1.0.1		|Description only	100%|1.0.1		|none		|
-[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.8		|					100%|0.1.8		|none		|
+[Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.9		|					100%|0.1.8		|none		|
 [Geothermal][]									|Non-standard	|[Github][ReikaKalseki/Geothermal]						|1.0.148	|					100%|1.0.148	|none		|
 [Hand Crank][]									|MIT			|[Github][qix-/factorio-hand-crank]						|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]	|MIT			|[Github][Helfima/helmod]								|0.7.11		|					100%|0.7.11		|none		|
 [Hovercraft][]									|CC-BY-SA 4.0	|[Github][]												|0.0.8		|					100%|0.0.8		|none		|
+[Inlaid Lamps][]								|MIT			|[Github][]												|0.1.1		|					100%|false		|none		| 
 [Iron Man][]									|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [More Inserters + Menu Cleaner][]				|BY-NC 4.0		|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
 [Laser beam turrets][]							|GPLv3			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none		|
@@ -91,8 +94,10 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.2		|					100%|0.16.2		|none		|
 [Recycle Everything][]							|MIT			|[Github][BJNick/factorio-recycling]					|0.3.1		|					100%|0.3.1		|none		|
 [Research queue][]								|MIT			|[Github][]												|1.6.7		|Hard-coded text	100%|1.6.7		|none		|
+[Resource Labels][]								|MIT			|[Github][Pandemoneus/Resource-Labels]					|0.16.10	|					100%|false		|none		|
 [Reverse Factory][]								|MIT			|[Github][]												|5.1.5		|					100%|5.1.5		|none		|
 [ShinyIcons][]									|MIT			|[Github][]												|0.16.20	|Description only	100%|0.16.20	|none		|
+[Show Bots On Map][]							|MIT			|[Github][]												|0.0.1		|Description only	100%|0.0.1		|none		|false
 [Show Me Ores][]								|MIT			|[Github][]												|0.0.1		|Description only	100%|0.0.1		|none		|
 [Side Inserters][]								|Unlicense		|[Github][]												|2.3.4		|					100%|2.3.4		|none		|
 [Simple Saplings][]								|MIT			|[Github][will-janz/factorio-simple-saplings]			|1.1.0		|					100%|1.1.0		|none		|
@@ -124,6 +129,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Automatic Belt Planner]: https://mods.factorio.com/mod/beltplanner "prg"
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser "Cogito"
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters "DiegoPro77"
+[Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons "GeekinaCave"
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
@@ -143,6 +149,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining "VortiK"
 [Delorean]: https://mods.factorio.com/mod/delorean "Danielv123"
 [Enhanced Flashlight]: https://mods.factorio.com/mod/EnhancedFlashlight "grfwoot"
+[Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors "osldgoth"
 [Entity Symmetry]: https://mods.factorio.com/mod/entity-symmetry "Sparr"
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution "321freddy"
 [Fire extinguisher]: https://mods.factorio.com/mod/extinguisher "Devilwarriors"
@@ -160,6 +167,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank "Josh Junon"
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod "Helfima"
 [Hovercraft]: https://mods.factorio.com/mod/Hovercraft "MostlyNumbers"
+[Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps "Kitsunekaze93"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets "Klonan"
@@ -201,8 +209,10 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Recursive Blueprints]: https://mods.factorio.com/mod/recursive-blueprints "Doc, justarandomgeek, DaveMcW"
 [Recycle Everything]: https://mods.factorio.com/mod/RecycleEverything "BJNick"
 [Research queue]: https://mods.factorio.com/mod/research-queue "Mr Doomah updated by Doomquill and Chrisgbk"
+[Resource Labels]: https://mods.factorio.com/mod/ResourceLabels "Pandemoneus"
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory "Victor Ros, Kryzeth"
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons "Zombiee"
+[Show Bots On Map]: https://mods.factorio.com/mod/ShowBotsOnMap "darkfrei"
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres "darkfrei"
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters "GotLag"
 [Simple Saplings]: https://mods.factorio.com/mod/SimpleSaplings "Hypermark"
@@ -224,6 +234,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [sirdoombox/AtomicArtillery]: https://github.com/sirdoombox/AtomicArtillery "sirdoombox/AtomicArtillery"
 [canidae/factorio]: https://github.com/canidae/factorio "canidae/factorio"
 [Cogito/belt-reverser]: https://github.com/Cogito/belt-reverser "Cogito/belt-reverser"
+[GeekinaCave/better_ore_icons]: https://github.com/GeekinaCave/better_ore_icons "GeekinaCave/better_ore_icons"
 [DaveMcW/blueprint-train]: https://github.com/DaveMcW/blueprint-train "DaveMcW/blueprint-train"
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
@@ -231,6 +242,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
 [VortiK/vtk-deep-core-mining]: https://github.com/VortiK/vtk-deep-core-mining "VortiK/vtk-deep-core-mining"
 [Danielv123/factorioDelorean]: https://github.com/Danielv123/factorioDelorean "Danielv123/factorioDelorean"
+[osldgoth/Enhanced_Map_Colors]: https://github.com/osldgoth/Enhanced_Map_Colors "osldgoth/Enhanced_Map_Colors"
 [sparr/factorio-mod-entity-symmetry]: https://github.com/sparr/factorio-mod-entity-symmetry "sparr/factorio-mod-entity-symmetry"
 [321freddy/even-distribution]: https://github.com/321freddy/even-distribution "321freddy/even-distribution"
 [jfmmm/Factorio-fire-extinguisher-mod]: https://github.com/jfmmm/Factorio-fire-extinguisher-mod "jfmmm/Factorio-fire-extinguisher-mod"
@@ -260,6 +272,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [ElmarWueest/Recexplo]: https://github.com/ElmarWueest/Recexplo "ElmarWueest/Recexplo"
 [DaveMcW/factorio-bad-chest]: https://github.com/DaveMcW/factorio-bad-chest "DaveMcW/factorio-bad-chest"
 [BJNick/factorio-recycling]: https://github.com/BJNick/factorio-recycling "BJNick/factorio-recycling"
+[Pandemoneus/Resource-Labels]: https://github.com/Pandemoneus/Resource-Labels "Pandemoneus/Resource-Labels"
 [will-janz/factorio-simple-saplings]: https://github.com/will-janz/factorio-simple-saplings "will-janz/factorio-simple-saplings"
 [Choumiko/TheFatController]: https://github.com/Choumiko/TheFatController "Choumiko/TheFatController"
 [Klonan/upgrade-planner]: https://github.com/Klonan/upgrade-planner "Klonan/upgrade-planner"
