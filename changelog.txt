@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.22
+Date: 30. 11. 2018
+  Local:
+    - 添加 Better Ore Icons
+    - 添加 Enhanced Map Colors
+    - 添加 Inlaid Lamps
+    - 添加 Resource Labels
+    - 添加 Show Bots On Map
+    - 更新 Auto Research 到 4.3.0
+    - 更新 Actual Craft Time 到 0.2.8
+    - 更新 Fish and Wildlife 到 0.1.9
+    - 更新 Bio Industries 到 2.6.13
+---------------------------------------------------------------------------------------------------
 Version: 1.1.21
 Date: 12. 10. 2018
   Local:
