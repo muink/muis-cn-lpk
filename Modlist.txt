@@ -15,8 +15,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Belt Reverser][]								|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]							|1.0.0		|					100%|1.0.0		|none
 [Better Ore Icons][]							|0.16.0		|Description only	100%|0.16.0		|none
-[Blueprintable Trains][]						|0.16.17	|					100%|0.16.17	|none
-[Bio Industries][]								|2.6.13		|					100%|2.6.12		|none
+[Blueprintable Trains][]						|0.16.18	|					100%|0.16.18	|none
+[Bio Industries][]								|2.6.14		|					100%|2.6.12		|none
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.3		|					100%|0.9.3		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
@@ -76,10 +76,10 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Nuclear Fuel Cycle][]							|0.1.0		|Included CN		100%|0.1.0		|none
 [Orbital Ion Cannon][]							|1.6.3		|					100%|1.6.3		|none
 [Orphan Finder][]								|1.1.0		|					100%|1.1.0		|none
-[OutpostPlanner][]								|1.0.2		|					100%|1.0.2		|none
+[OutpostPlanner][]								|1.0.4		|					100%|1.0.4		|none
 [Picker Extended Version][]						|3.0.3		|					100%|3.0.3		|none
 [Picker Tweaks][]								|1.0.2		|					100%|1.0.2		|none
-[PlannerCore][]									|0.1.1		|					100%|0.1.1		|none
+[PlannerCore][]									|0.1.2		|					100%|0.1.2		|none
 [Platforms][]									|18.5.2		|					100%|18.5.2		|none
 [Pollution Control][]							|1.0.4		|Hard-coded text	100%|1.0.4		|none
 [Pollution detector][]							|0.4.0		|					100%|0.4.0		|none
@@ -90,8 +90,8 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Realistic Ores][]								|2.16.0		|Hard-coded text	100%|2.16.0		|none
 [Realistic Reactor Glow][]						|1.16.0		|Description only	100%|1.16.0		|none
 [RealisticReactors][]							|2.0.2		|					100%|1.0.5		|none
-[Recipe Explorer][]								|0.16.12	|					100%|0.16.12	|none
-[Recursive Blueprints][]						|0.16.2		|					100%|0.16.2		|none
+[Recipe Explorer][]								|0.16.13	|					100%|0.16.13	|none
+[Recursive Blueprints][]						|0.16.5		|					100%|0.16.5		|none
 [Recycle Everything][]							|0.3.1		|					100%|0.3.1		|none
 [Research queue][]								|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]								|0.16.10	|					100%|false		|none
