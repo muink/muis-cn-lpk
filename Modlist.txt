@@ -23,7 +23,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Cement Shoes][]								|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]								|1.4.1		|					100%|1.4.1		|none
 [Cheaper Landfill][]							|1.6.0		|					100%|1.6.0		|none
-[Cliff Deconstruct][]							|0.0.5		|					100%|0.0.5		|none
+[Cliff Deconstruct][]							|0.1.0		|					100%|0.0.5		|none
 [Little Fluffy Clouds][]						|1.0.0		|Description only	100%|1.0.0		|none
 [Cnc's Sulfur Mod][]							|1.0.4		|					100%|1.0.4		|none
 [Controllinator][]								|0.3.1		|Hard-coded text	100%|0.3.1		|none
