@@ -20,6 +20,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Bot Landfill][]								|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]									|0.9.3		|					100%|0.9.3		|none
 [Bullet Trails][]								|0.3.1		|Description only	100%|0.3.1		|none
+[Crafting Combinator][]							|0.9.12		|					100%|false		|none
 [Cement Shoes][]								|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]								|1.4.1		|					100%|1.4.1		|none
 [Cheaper Landfill][]							|1.6.0		|					100%|1.6.0		|none
@@ -49,6 +50,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Free circuit wires][]							|1.0.1		|Description only	100%|1.0.1		|none
 [Fish and Wildlife][]							|0.1.11		|					100%|0.1.8		|none
 [Geothermal][]									|1.0.164	|					100%|1.0.164	|none
+[Ghost Scanner][]								|1.2.0		|					100%|false		|none
 [Hand Crank][]									|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]	|0.7.11		|					100%|0.7.11		|none
 [Hovercraft][]									|0.0.8		|					100%|0.0.8		|none
@@ -61,7 +63,9 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Logistic Status][]								|0.1.1		|Description only	100%|0.1.1		|none
 [Macerator][]									|0.16.36	|					100%|0.16.36	|none
 [M.I.R.V][]										|0.1.2		|					100%|0.1.2		|none
+[Mod Developer Tools][]							|0.1.2		|					100%|false		|none
 [Mods To File][]								|0.1.1		|Description only	100%|0.1.1		|none
+[Modular Buildings][]							|0.16.5		|Hard-coded text	100%|false		|none
 [More Minimap Autohide][]						|1.0.0		|					100%|1.0.0		|none
 [Muro automatic wall builder][]					|1.0.2		|					100%|1.0.2		|none
 [Mushroom Cloud][]								|1.0.3		|					100%|1.0.3		|none
@@ -101,6 +105,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Show Me Ores][]								|0.0.1		|Description only	100%|0.0.1		|none
 [Side Inserters][]								|2.3.4		|					100%|2.3.4		|none
 [Simple Saplings][]								|1.1.0		|					100%|1.1.0		|none
+[Smarter Bot Recharge][]						|1.1.0		|					100%|false		|none
 [steinios toolbox][]							|0.16.3		|					100%|0.16.3		|none
 [Stone Water Well][]							|1.0.8		|					100%|1.0.8		|none
 [Test Site][]									|0.0.1		|					100%|0.0.1		|none
@@ -135,6 +140,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails
+[Crafting Combinator]: https://mods.factorio.com/mod/crafting_combinator
 [Cement Shoes]: https://mods.factorio.com/mod/Cement%20Shoes
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret
 [Cheaper Landfill]: https://mods.factorio.com/mod/cheaper_landfill
@@ -164,6 +170,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires
 [Fish and Wildlife]: https://mods.factorio.com/mod/fws
 [Geothermal]: https://mods.factorio.com/mod/Geothermal
+[Ghost Scanner]: https://mods.factorio.com/mod/GhostScanner
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod
 [Hovercraft]: https://mods.factorio.com/mod/Hovercraft
@@ -176,7 +183,9 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus
 [Macerator]: https://mods.factorio.com/mod/Macerator
 [M.I.R.V]: https://mods.factorio.com/mod/MIRV
+[Mod Developer Tools]: https://mods.factorio.com/mod/ModDeveloperTools
 [Mods To File]: https://mods.factorio.com/mod/ModsToFile
+[Modular Buildings]: https://mods.factorio.com/mod/modular-buildings
 [More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud
@@ -216,6 +225,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters
 [Simple Saplings]: https://mods.factorio.com/mod/SimpleSaplings
+[Smarter Bot Recharge]: https://mods.factorio.com/mod/SmarterBotRecharge
 [steinios toolbox]: https://mods.factorio.com/mod/steinios_toolbox
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell
 [Test Site]: https://mods.factorio.com/mod/TestSite
