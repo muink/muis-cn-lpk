@@ -83,7 +83,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Orbital Ion Cannon][]							|1.6.3		|					100%|1.6.3		|none
 [Orphan Finder][]								|1.1.0		|					100%|1.1.0		|none
 [OutpostPlanner][]								|1.0.4		|					100%|1.0.4		|none
-[Picker Extended Version][]						|3.0.3		|					100%|3.0.3		|none
+[Picker Extended Version][]						|3.0.5		|					100%|3.0.3		|none
 [Picker Tweaks][]								|1.0.2		|					100%|1.0.2		|none
 [PlannerCore][]									|0.1.2		|					100%|0.1.2		|none
 [Platforms][]									|18.5.2		|					100%|18.5.2		|none

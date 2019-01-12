@@ -83,7 +83,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Orbital Ion Cannon][]							|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]				|1.6.3		|					100%|1.6.3		|none		|
 [Orphan Finder][]								|MIT			|[Github][]												|1.1.0		|					100%|1.1.0		|none		|
 [OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.4		|					100%|1.0.4		|none		|
-[Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.3		|					100%|3.0.3		|none		|
+[Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.5		|					100%|3.0.3		|none		|
 [Picker Tweaks][]								|MIT			|[Github][Nexela/PickerTweaks]							|1.0.2		|					100%|1.0.2		|none		|
 [PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.2		|					100%|0.1.2		|none		|
 [Platforms][]									|MIT			|[Github][]												|18.5.2		|					100%|18.5.2		|none		|
