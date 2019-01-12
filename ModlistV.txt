@@ -16,6 +16,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none		|
 [Better Ore Icons][]							|MIT			|[Github][GeekinaCave/better_ore_icons]					|0.16.0		|Description only	100%|0.16.0		|none		|
 [Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.18	|					100%|0.16.18	|none		|
+[Blueprint Alignment][]							|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]	|0.0.4		|Hard-coded text	100%|false		|none		|
 [Bio Industries][]								|MIT			|[Github][]												|2.6.14		|					100%|2.6.12		|none		|
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.3		|					100%|0.9.3		|none		|
@@ -54,7 +55,8 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Hand Crank][]									|MIT			|[Github][qix-/factorio-hand-crank]						|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]	|MIT			|[Github][Helfima/helmod]								|0.7.11		|					100%|0.7.11		|none		|
 [Hovercraft][]									|CC-BY-SA 4.0	|[Github][]												|0.0.8		|					100%|0.0.8		|none		|
-[Inlaid Lamps][]								|MIT			|[Github][]												|0.1.1		|					100%|false		|none		| 
+[Inlaid Lamps][]								|MIT			|[Github][]												|0.1.1		|					100%|false		|none		|
+[Inventory Sensor][]							|Non-standard	|[Github][Yousei9/Inventory-Sensor]						|1.6.7		|					100%|false		|none		|
 [Iron Man][]									|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [More Inserters + Menu Cleaner][]				|BY-NC 4.0		|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
 [Laser beam turrets][]							|GPLv3			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none		|
@@ -88,6 +90,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pollution Control][]							|MIT			|[Github][pavel-krush/pollution-control]				|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
 [Pollution detector][]							|Beer-Ware		|[Github][]												|0.4.0		|					100%|0.4.0		|none		|
 [Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.5		|					100%|0.16.5		|none		|
+[Power Isolate][]								|MIT			|[Github][]												|2.0.0		|Hard-coded text	100%|false		|none		|
 [Progressive Running (smooth acceleration)][]	|N/A			|[Github][]												|1.0.16		|					100%|1.0.16		|none		|
 [Pushbutton][]									|MIT			|[Github][]												|0.16.0		|Included CN		100%|0.16.0		|none		|
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none		|
@@ -136,6 +139,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters "DiegoPro77"
 [Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons "GeekinaCave"
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
+[Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment "steffenk"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
@@ -175,6 +179,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod "Helfima"
 [Hovercraft]: https://mods.factorio.com/mod/Hovercraft "MostlyNumbers"
 [Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps "Kitsunekaze93"
+[Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor "Optera"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets "Klonan"
@@ -208,6 +213,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Pollution Control]: https://mods.factorio.com/mod/Pollution_Control "Pavel Krush"
 [Pollution detector]: https://mods.factorio.com/mod/pollution-detector "Schorty, Optera"
 [Power Grid Comb]: https://mods.factorio.com/mod/power-grid-comb "Shane Madden"
+[Power Isolate]: https://mods.factorio.com/mod/PowerIsolate "thelordodin"
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning "BinbinHfr"
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton "justarandomgeek"
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide "jonatkins"
@@ -246,6 +252,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Cogito/belt-reverser]: https://github.com/Cogito/belt-reverser "Cogito/belt-reverser"
 [GeekinaCave/better_ore_icons]: https://github.com/GeekinaCave/better_ore_icons "GeekinaCave/better_ore_icons"
 [DaveMcW/blueprint-train]: https://github.com/DaveMcW/blueprint-train "DaveMcW/blueprint-train"
+[steffen-kiess/factorio-BlueprintAlignment]: https://github.com/steffen-kiess/factorio-BlueprintAlignment "steffen-kiess/factorio-BlueprintAlignment"
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
 [theRustyKnife/CraftingCombinator]: https://github.com/theRustyKnife/CraftingCombinator "theRustyKnife/CraftingCombinator"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
@@ -265,6 +272,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Yousei9/GhostScanner]: https://github.com/Yousei9/GhostScanner "Yousei9/GhostScanner"
 [qix-/factorio-hand-crank]: https://github.com/qix-/factorio-hand-crank "qix-/factorio-hand-crank"
 [Helfima/helmod]: https://github.com/Helfima/helmod "Helfima/helmod"
+[Yousei9/Inventory-Sensor]: https://github.com/Yousei9/Inventory-Sensor "Yousei9/Inventory-Sensor"
 [dewiniaid/FactorioModDeveloperTools]: https://github.com/dewiniaid/FactorioModDeveloperTools "dewiniaid/FactorioModDeveloperTools"
 [lingo/factorio-mod-muro]: https://github.com/lingo/factorio-mod-muro "lingo/factorio-mod-muro"
 [CyaNox/Noxys_Deep_Core_Mining_Tweak]: https://github.com/CyaNox/Noxys_Deep_Core_Mining_Tweak "CyaNox/Noxys_Deep_Core_Mining_Tweak"
