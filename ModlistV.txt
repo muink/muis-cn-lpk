@@ -9,21 +9,23 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Armor Pockets][]								|MIT			|[Github][]												|1.0.5		|					100%|1.0.5		|none		|
 [Atomic Artillery][]							|MIT			|[Github][sirdoombox/AtomicArtillery]					|0.1.5		|					100%|0.1.5		|none		|
 [Auto Deconstruct][]							|MIT			|[Github][]												|0.1.11		|					100%|0.1.11		|none		|
-[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.3.0		|					100%|4.3.0		|none		|
+[Auto Research][]								|MIT			|[Github][canidae/factorio]								|4.3.1		|					100%|4.3.1		|none		|
 [Beautiful Bridge Railway][]					|MIT			|[Github][]												|0.1.3		|					100%|0.1.3		|none		|
 [Automatic Belt Planner][]						|MIT			|[Github][]												|0.12.0		|					100%|0.12.0		|none		|
 [Belt Reverser][]								|MIT			|[Github][Cogito/belt-reverser]							|0.0.5		|					100%|0.0.5		|none		|
 [Better Inserters][]							|Non-standard	|[Github][]												|1.0.0		|					100%|1.0.0		|none		|
 [Better Ore Icons][]							|MIT			|[Github][GeekinaCave/better_ore_icons]					|0.16.0		|Description only	100%|0.16.0		|none		|
-[Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.17	|					100%|0.16.17	|none		|
-[Bio Industries][]								|MIT			|[Github][]												|2.6.13		|					100%|2.6.12		|none		|
+[Blueprintable Trains][]						|MIT			|[Github][DaveMcW/blueprint-train]						|0.16.18	|					100%|0.16.18	|none		|
+[Blueprint Alignment][]							|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]	|0.0.4		|Hard-coded text	100%|false		|none		|
+[Bio Industries][]								|MIT			|[Github][]												|2.6.14		|					100%|2.6.12		|none		|
 [Bot Landfill][]								|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [Bottleneck][]									|MIT			|[Github][troelsbjerre/Bottleneck]						|0.9.3		|					100%|0.9.3		|none		|
 [Bullet Trails][]								|Non-standard	|[Github][]												|0.3.1		|Description only	100%|0.3.1		|none		|
+[Crafting Combinator][]							|MIT			|[Github][theRustyKnife/CraftingCombinator]				|0.9.12		|					100%|false		|none		|
 [Cement Shoes][]								|MIT			|[Github][derektom14/factorio_cement_shoes]				|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]								|MIT			|[Github][]												|1.4.1		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]							|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]	|1.6.0		|					100%|1.6.0		|none		|
-[Cliff Deconstruct][]							|MIT			|[Github][]												|0.0.5		|					100%|0.0.5		|none		|
+[Cliff Deconstruct][]							|MIT			|[Github][]												|0.1.0		|					100%|0.0.5		|none		|
 [Little Fluffy Clouds][]						|MIT			|[Github][]												|1.0.0		|Description only	100%|1.0.0		|none		|
 [Cnc's Sulfur Mod][]							|MPL-2.0		|[Github][]												|1.0.4		|					100%|1.0.4		|none		|
 [Controllinator][]								|ISC			|[Github][Aidiakapi/controllinator]						|0.3.1		|Hard-coded text	100%|0.3.1		|none		|
@@ -49,10 +51,12 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Free circuit wires][]							|Unlicense		|[Github][]												|1.0.1		|Description only	100%|1.0.1		|none		|
 [Fish and Wildlife][]							|GPLv3			|[Github][]												|0.1.11		|					100%|0.1.8		|none		|
 [Geothermal][]									|Non-standard	|[Github][ReikaKalseki/Geothermal]						|1.0.164	|					100%|1.0.164	|none		|
+[Ghost Scanner][]								|MIT			|[Github][Yousei9/GhostScanner]							|1.2.0		|					100%|false		|none		|
 [Hand Crank][]									|MIT			|[Github][qix-/factorio-hand-crank]						|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]	|MIT			|[Github][Helfima/helmod]								|0.7.11		|					100%|0.7.11		|none		|
 [Hovercraft][]									|CC-BY-SA 4.0	|[Github][]												|0.0.8		|					100%|0.0.8		|none		|
-[Inlaid Lamps][]								|MIT			|[Github][]												|0.1.1		|					100%|false		|none		| 
+[Inlaid Lamps][]								|MIT			|[Github][]												|0.1.1		|					100%|false		|none		|
+[Inventory Sensor][]							|Non-standard	|[Github][Yousei9/Inventory-Sensor]						|1.6.7		|					100%|false		|none		|
 [Iron Man][]									|MIT			|[Github][]												|1.0.2		|					100%|1.0.2		|none		|
 [More Inserters + Menu Cleaner][]				|BY-NC 4.0		|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
 [Laser beam turrets][]							|GPLv3			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none		|
@@ -61,7 +65,9 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Logistic Status][]								|MIT			|[Github][]												|0.1.1		|Description only	100%|0.1.1		|none		|
 [Macerator][]									|MIT			|[Github][]												|0.16.36	|					100%|0.16.36	|none		|
 [M.I.R.V][]										|MIT			|[Github][]												|0.1.2		|					100%|0.1.2		|none		|
+[Mod Developer Tools][]							|MIT			|[Github][dewiniaid/FactorioModDeveloperTools]			|0.1.2		|					100%|false		|none		|
 [Mods To File][]								|MIT			|[Github][]												|0.1.1		|Description only	100%|0.1.1		|none		|
+[Modular Buildings][]							|GPLv3			|[Github][]												|0.16.5		|Hard-coded text	100%|false		|none		|
 [More Minimap Autohide][]						|MIT			|[Github][]												|1.0.0		|					100%|1.0.0		|none		|
 [Muro automatic wall builder][]					|MIT			|[Github][lingo/factorio-mod-muro]						|1.0.2		|					100%|1.0.2		|none		|
 [Mushroom Cloud][]								|MIT			|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
@@ -76,31 +82,34 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Nuclear Fuel Cycle][]							|MIT			|[Github][muink/nuclear-fuel-cycle]						|0.1.0		|Included CN		100%|0.1.0		|none		|
 [Orbital Ion Cannon][]							|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]				|1.6.3		|					100%|1.6.3		|none		|
 [Orphan Finder][]								|MIT			|[Github][]												|1.1.0		|					100%|1.1.0		|none		|
-[OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.2		|					100%|1.0.2		|none		|
-[Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.3		|					100%|3.0.3		|none		|
+[OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.4		|					100%|1.0.4		|none		|
+[Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.5		|					100%|3.0.3		|none		|
+[Picker Pipe Tools][]							|MIT			|[Github][Nexela/PickerPipeTools]						|0.1.5		|Hard-coded text	100%|false		|none		|
 [Picker Tweaks][]								|MIT			|[Github][Nexela/PickerTweaks]							|1.0.2		|					100%|1.0.2		|none		|
-[PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.1		|					100%|0.1.1		|none		|
+[PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.2		|					100%|0.1.2		|none		|
 [Platforms][]									|MIT			|[Github][]												|18.5.2		|					100%|18.5.2		|none		|
 [Pollution Control][]							|MIT			|[Github][pavel-krush/pollution-control]				|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
 [Pollution detector][]							|Beer-Ware		|[Github][]												|0.4.0		|					100%|0.4.0		|none		|
-[Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.4		|					100%|0.16.4		|none		|
+[Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.5		|					100%|0.16.5		|none		|
+[Power Isolate][]								|MIT			|[Github][]												|2.0.0		|Hard-coded text	100%|false		|none		|
 [Progressive Running (smooth acceleration)][]	|N/A			|[Github][]												|1.0.16		|					100%|1.0.16		|none		|
 [Pushbutton][]									|MIT			|[Github][]												|0.16.0		|Included CN		100%|0.16.0		|none		|
 [Radar Grid Guide][]							|MIT			|[Github][jonatkins/RadarGridGuide]						|0.16.1		|Hard-coded text	100%|0.16.1		|none		|
 [Realistic Ores][]								|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]				|2.16.0		|Hard-coded text	100%|2.16.0		|none		|
 [Realistic Reactor Glow][]						|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]		|1.16.0		|Description only	100%|1.16.0		|none		|
 [RealisticReactors][]							|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]		|2.0.2		|					100%|1.0.5		|none		|
-[Recipe Explorer][]								|MIT			|[Github][ElmarWueest/Recexplo]							|0.16.12	|					100%|0.16.12	|none		|
-[Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.2		|					100%|0.16.2		|none		|
+[Recipe Explorer][]								|MIT			|[Github][ElmarWueest/Recexplo]							|0.16.13	|					100%|0.16.13	|none		|
+[Recursive Blueprints][]						|MIT			|[Github][DaveMcW/factorio-bad-chest]					|0.16.5		|					100%|0.16.5		|none		|
 [Recycle Everything][]							|MIT			|[Github][BJNick/factorio-recycling]					|0.3.1		|					100%|0.3.1		|none		|
 [Research queue][]								|MIT			|[Github][]												|1.6.7		|Hard-coded text	100%|1.6.7		|none		|
 [Resource Labels][]								|MIT			|[Github][Pandemoneus/Resource-Labels]					|0.16.10	|					100%|false		|none		|
-[Reverse Factory][]								|MIT			|[Github][]												|5.1.5		|					100%|5.1.5		|none		|
+[Reverse Factory][]								|MIT			|[Github][]												|5.1.7		|					100%|5.1.5		|none		|
 [ShinyIcons][]									|MIT			|[Github][]												|0.16.20	|Description only	100%|0.16.20	|none		|
 [Show Bots On Map][]							|MIT			|[Github][]												|0.0.1		|Description only	100%|0.0.1		|none		|false
 [Show Me Ores][]								|MIT			|[Github][]												|0.0.1		|Description only	100%|0.0.1		|none		|
 [Side Inserters][]								|Unlicense		|[Github][]												|2.3.4		|					100%|2.3.4		|none		|
 [Simple Saplings][]								|MIT			|[Github][will-janz/factorio-simple-saplings]			|1.1.0		|					100%|1.1.0		|none		|
+[Smarter Bot Recharge][]						|MIT			|[Github][Nexela/SmarterBotRecharge]					|1.1.0		|					100%|false		|none		|
 [steinios toolbox][]							|MIT			|[Github][]												|0.16.3		|					100%|0.16.3		|none		|
 [Stone Water Well][]							|CC-BY-3.0		|[Github][]												|1.0.8		|					100%|1.0.8		|none		|
 [Test Site][]									|LGPLv3			|[Github][]												|0.0.1		|					100%|0.0.1		|none		|
@@ -131,14 +140,16 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters "DiegoPro77"
 [Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons "GeekinaCave"
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
+[Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment "steffenk"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
 [Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails "Earendel"
+[Crafting Combinator]: https://mods.factorio.com/mod/crafting_combinator "LuziferSenpai and theRustyKnife"
 [Cement Shoes]: https://mods.factorio.com/mod/Cement%20Shoes "EntropySpark"
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret "VortiK"
 [Cheaper Landfill]: https://mods.factorio.com/mod/cheaper_landfill "MarcGamesons and GitHub Contributors"
-[Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct "bob809"
+[Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct "bob809, smcpeak"
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod "Ruuttu"
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod "cncr04s"
 [Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
@@ -164,10 +175,12 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires "5thHorseman"
 [Fish and Wildlife]: https://mods.factorio.com/mod/fws "Loren1350"
 [Geothermal]: https://mods.factorio.com/mod/Geothermal "Reika"
+[Ghost Scanner]: https://mods.factorio.com/mod/GhostScanner "Optera"
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank "Josh Junon"
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod "Helfima"
 [Hovercraft]: https://mods.factorio.com/mod/Hovercraft "MostlyNumbers"
 [Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps "Kitsunekaze93"
+[Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor "Optera"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets "Klonan"
@@ -176,7 +189,9 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus "bytearray and LsHallo"
 [Macerator]: https://mods.factorio.com/mod/Macerator "Pospes"
 [M.I.R.V]: https://mods.factorio.com/mod/MIRV "Klonan"
+[Mod Developer Tools]: https://mods.factorio.com/mod/ModDeveloperTools "Dewin"
 [Mods To File]: https://mods.factorio.com/mod/ModsToFile "Eastborn"
+[Modular Buildings]: https://mods.factorio.com/mod/modular-buildings "TheStaplergun"
 [More Minimap Autohide]: https://mods.factorio.com/mod/more-minimap-autohide "ReubenAaron"
 [Muro automatic wall builder]: https://mods.factorio.com/mod/muro "lingo"
 [Mushroom Cloud]: https://mods.factorio.com/mod/MushroomCloud "Arcitos"
@@ -193,12 +208,14 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder "GotLag"
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner "bob809"
 [Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended "Tinyboss, Nexela"
+[Picker Pipe Tools]: https://mods.factorio.com/mod/PickerPipeTools "TheStaplergun, Nexela"
 [Picker Tweaks]: https://mods.factorio.com/mod/PickerTweaks "Nexela"
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore "bob809"
 [Platforms]: https://mods.factorio.com/mod/platforms "micromario"
 [Pollution Control]: https://mods.factorio.com/mod/Pollution_Control "Pavel Krush"
 [Pollution detector]: https://mods.factorio.com/mod/pollution-detector "Schorty, Optera"
 [Power Grid Comb]: https://mods.factorio.com/mod/power-grid-comb "Shane Madden"
+[Power Isolate]: https://mods.factorio.com/mod/PowerIsolate "thelordodin"
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning "BinbinHfr"
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton "justarandomgeek"
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide "jonatkins"
@@ -216,6 +233,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres "darkfrei"
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters "GotLag"
 [Simple Saplings]: https://mods.factorio.com/mod/SimpleSaplings "Hypermark"
+[Smarter Bot Recharge]: https://mods.factorio.com/mod/SmarterBotRecharge "Nexela"
 [steinios toolbox]: https://mods.factorio.com/mod/steinios_toolbox "steinio"
 [Stone Water Well]: https://mods.factorio.com/mod/StoneWaterWell "bSun0000, 0.15 update support from ElecNinja, 0.16 update as offshore pump by Roy"
 [Test Site]: https://mods.factorio.com/mod/TestSite "DellAquila"
@@ -236,7 +254,9 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Cogito/belt-reverser]: https://github.com/Cogito/belt-reverser "Cogito/belt-reverser"
 [GeekinaCave/better_ore_icons]: https://github.com/GeekinaCave/better_ore_icons "GeekinaCave/better_ore_icons"
 [DaveMcW/blueprint-train]: https://github.com/DaveMcW/blueprint-train "DaveMcW/blueprint-train"
+[steffen-kiess/factorio-BlueprintAlignment]: https://github.com/steffen-kiess/factorio-BlueprintAlignment "steffen-kiess/factorio-BlueprintAlignment"
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
+[theRustyKnife/CraftingCombinator]: https://github.com/theRustyKnife/CraftingCombinator "theRustyKnife/CraftingCombinator"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
 [Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
@@ -251,8 +271,11 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Choumiko/FARL]: https://github.com/Choumiko/FARL "Choumiko/FARL"
 [folknor/factorio-stopthat]: https://github.com/folknor/factorio-stopthat "folknor/factorio-stopthat"
 [ReikaKalseki/Geothermal]: https://github.com/ReikaKalseki/Geothermal "ReikaKalseki/Geothermal"
+[Yousei9/GhostScanner]: https://github.com/Yousei9/GhostScanner "Yousei9/GhostScanner"
 [qix-/factorio-hand-crank]: https://github.com/qix-/factorio-hand-crank "qix-/factorio-hand-crank"
 [Helfima/helmod]: https://github.com/Helfima/helmod "Helfima/helmod"
+[Yousei9/Inventory-Sensor]: https://github.com/Yousei9/Inventory-Sensor "Yousei9/Inventory-Sensor"
+[dewiniaid/FactorioModDeveloperTools]: https://github.com/dewiniaid/FactorioModDeveloperTools "dewiniaid/FactorioModDeveloperTools"
 [lingo/factorio-mod-muro]: https://github.com/lingo/factorio-mod-muro "lingo/factorio-mod-muro"
 [CyaNox/Noxys_Deep_Core_Mining_Tweak]: https://github.com/CyaNox/Noxys_Deep_Core_Mining_Tweak "CyaNox/Noxys_Deep_Core_Mining_Tweak"
 [CyaNox/Noxys_Swimming]: https://github.com/CyaNox/Noxys_Swimming "CyaNox/Noxys_Swimming"
@@ -262,6 +285,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Ben-Ramchandani/OutpostPlanner]: https://github.com/Ben-Ramchandani/OutpostPlanner "Ben-Ramchandani/OutpostPlanner"
 [Ben-Ramchandani/PlannerCore]: https://github.com/Ben-Ramchandani/PlannerCore "Ben-Ramchandani/PlannerCore"
 [Nexela/PickerExtended]: https://github.com/Nexela/PickerExtended "Nexela/PickerExtended"
+[Nexela/PickerPipeTools]: https://github.com/Nexela/PickerPipeTools "Nexela/PickerPipeTools"
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
 [pavel-krush/pollution-control]:  https://github.com/pavel-krush/pollution-control "pavel-krush/pollution-control"
 [shanemadden/factorio-power-grid-comb]: https://github.com/shanemadden/factorio-power-grid-comb "shanemadden/factorio-power-grid-comb"
@@ -274,6 +298,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [BJNick/factorio-recycling]: https://github.com/BJNick/factorio-recycling "BJNick/factorio-recycling"
 [Pandemoneus/Resource-Labels]: https://github.com/Pandemoneus/Resource-Labels "Pandemoneus/Resource-Labels"
 [will-janz/factorio-simple-saplings]: https://github.com/will-janz/factorio-simple-saplings "will-janz/factorio-simple-saplings"
+[Nexela/SmarterBotRecharge]: https://github.com/Nexela/SmarterBotRecharge "Nexela/SmarterBotRecharge"
 [Choumiko/TheFatController]: https://github.com/Choumiko/TheFatController "Choumiko/TheFatController"
 [Klonan/upgrade-planner]: https://github.com/Klonan/upgrade-planner "Klonan/upgrade-planner"
 [sullerandras/UtilizationMonitor]: https://github.com/sullerandras/UtilizationMonitor "sullerandras/UtilizationMonitor"
