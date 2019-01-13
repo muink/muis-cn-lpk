@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.23
+Date: 13. 01. 2019
+  Local:
+    - 添加 Blueprint Alignment
+    - 添加 Inventory Sensor
+    - 添加 Power Isolate
+    - 添加 Crafting Combinator
+    - 添加 Ghost Scanner
+    - 添加 Mod Developer Tools
+    - 添加 Modular Buildings
+    - 添加 Smarter Bot Recharge
+    - 添加 Picker Pipe Tools
+    - 更新 PickerExtended 到 3.0.5
+    - 更新 Reverse Factory 到 5.1.7
+    - 更新 Cliff Deconstruct 到 0.1.0
+  Changes:
+    - 调整 Picker Tweaks 部分翻译
+---------------------------------------------------------------------------------------------------
 Version: 1.1.22
 Date: 30. 11. 2018
   Local:
