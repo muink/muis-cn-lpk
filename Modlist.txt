@@ -84,6 +84,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Orphan Finder][]								|1.1.0		|					100%|1.1.0		|none
 [OutpostPlanner][]								|1.0.4		|					100%|1.0.4		|none
 [Picker Extended Version][]						|3.0.5		|					100%|3.0.3		|none
+[Picker Pipe Tools][]							|0.1.5		|Hard-coded text	100%|false		|none
 [Picker Tweaks][]								|1.0.2		|					100%|1.0.2		|none
 [PlannerCore][]									|0.1.2		|					100%|0.1.2		|none
 [Platforms][]									|18.5.2		|					100%|18.5.2		|none
@@ -207,6 +208,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
 [Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended
+[Picker Pipe Tools]: https://mods.factorio.com/mod/PickerPipeTools
 [Picker Tweaks]: https://mods.factorio.com/mod/PickerTweaks
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore
 [Platforms]: https://mods.factorio.com/mod/platforms

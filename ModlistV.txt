@@ -84,6 +84,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Orphan Finder][]								|MIT			|[Github][]												|1.1.0		|					100%|1.1.0		|none		|
 [OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.4		|					100%|1.0.4		|none		|
 [Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.5		|					100%|3.0.3		|none		|
+[Picker Pipe Tools][]							|MIT			|[Github][Nexela/PickerPipeTools]						|0.1.5		|Hard-coded text	100%|false		|none		|
 [Picker Tweaks][]								|MIT			|[Github][Nexela/PickerTweaks]							|1.0.2		|					100%|1.0.2		|none		|
 [PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.2		|					100%|0.1.2		|none		|
 [Platforms][]									|MIT			|[Github][]												|18.5.2		|					100%|18.5.2		|none		|
@@ -207,6 +208,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder "GotLag"
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner "bob809"
 [Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended "Tinyboss, Nexela"
+[Picker Pipe Tools]: https://mods.factorio.com/mod/PickerPipeTools "TheStaplergun, Nexela"
 [Picker Tweaks]: https://mods.factorio.com/mod/PickerTweaks "Nexela"
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore "bob809"
 [Platforms]: https://mods.factorio.com/mod/platforms "micromario"
@@ -283,6 +285,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Ben-Ramchandani/OutpostPlanner]: https://github.com/Ben-Ramchandani/OutpostPlanner "Ben-Ramchandani/OutpostPlanner"
 [Ben-Ramchandani/PlannerCore]: https://github.com/Ben-Ramchandani/PlannerCore "Ben-Ramchandani/PlannerCore"
 [Nexela/PickerExtended]: https://github.com/Nexela/PickerExtended "Nexela/PickerExtended"
+[Nexela/PickerPipeTools]: https://github.com/Nexela/PickerPipeTools "Nexela/PickerPipeTools"
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
 [pavel-krush/pollution-control]:  https://github.com/pavel-krush/pollution-control "pavel-krush/pollution-control"
 [shanemadden/factorio-power-grid-comb]: https://github.com/shanemadden/factorio-power-grid-comb "shanemadden/factorio-power-grid-comb"
