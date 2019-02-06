@@ -1,6 +1,6 @@
 
 --Compare mods version
-function compare_version(ReferVersion, CurrentVersion)
+function compare_version(CurrentVersion, ReferVersion)
 	local r={}
 	local v={}
 	_, _, r[1], r[2], r[3] = string.find(ReferVersion, "(%d+)%.(%d+)%.(%d+)")
