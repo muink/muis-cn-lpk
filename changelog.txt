@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.28
+Date: 21. 03. 2019
+  Local:
+    - 校正 Crafting Combinator
+    - 校正 Ghost Scanner
+    - 校正 Inventory Sensor
+    - 校正 Logistic Status
+    - 校正 Mod Developer Tools
+    - 校正 Picker Extended Version
+    - 校正 Picker Pipe Tools
+---------------------------------------------------------------------------------------------------
 Version: 1.1.27
 Date: 18. 03. 2019
   Local:
