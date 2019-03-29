@@ -4,7 +4,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Actual Craft Time][]							|0.3.0		|Hard-coded text	100%|0.3.0		|none
 [Adequate Bot Start][]							|0.16.1		|Description only	100%|0.16.1		|none
 [Advanced Belt Laying][]						|0.16.0		|Description only	100%|0.16.0		|none
-[Alien Biomes][]								|0.3.10		|Hard-coded text	100%|0.3.10		|none
+[Alien Biomes][]								|0.4.5		|Hard-coded text	100%|0.3.10		|none
 [Alien Biomes High-Res Terrain][]				|0.3.1		|Description only	100%|0.3.1		|none
 [Armor Pockets][]								|1.0.5		|					100%|1.0.5		|none
 [Atomic Artillery][]							|0.1.5		|					100%|0.1.5		|none
