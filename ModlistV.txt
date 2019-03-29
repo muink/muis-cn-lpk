@@ -89,7 +89,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.2		|					100%|0.1.2		|none		|
 [Platforms][]									|MIT			|[Github][]												|18.5.2		|					100%|18.5.2		|none		|
 [Pollution Control][]							|MIT			|[Github][pavel-krush/pollution-control]				|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
-[Pollution detector][]							|Beer-Ware		|[Github][]												|0.4.0		|					100%|0.4.0		|none		|
+[Pollution detector][]							|Beer-Ware		|[Github][]												|0.5.1		|					100%|0.4.0		|none		|
 [Power Grid Comb][]								|MIT			|[Github][shanemadden/factorio-power-grid-comb]			|0.16.5		|					100%|0.16.5		|none		|
 [Power Isolate][]								|MIT			|[Github][]												|2.0.0		|Hard-coded text	100%|2.0.0		|none		|
 [Progressive Running (smooth acceleration)][]	|N/A			|[Github][]												|1.0.16		|					100%|1.0.16		|none		|
