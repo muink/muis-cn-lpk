@@ -71,7 +71,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Minimap Autohide][]						|MIT			|[Github][]												|1.0.0		|					100%|1.0.0		|none		|
 [Muro automatic wall builder][]					|MIT			|[Github][lingo/factorio-mod-muro]						|1.0.2		|					100%|1.0.2		|none		|
 [Mushroom Cloud][]								|MIT			|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
-[Mustard Artillery Shells][]					|MIT			|[Github][]												|1.0.3		|					100%|1.0.3		|none		|
+[Mustard Artillery Shells][]					|MIT			|[Github][]												|1.0.4		|					100%|1.0.4		|none		|
 [My Tree Mod][]									|MIT			|[Github][]												|1.1.2		|					100%|1.1.2		|none		|
 [NapalmArtillery][]								|MIT			|[Github][]												|0.16.4		|					100%|0.16.4		|none		|
 [Natural Tree Expansion Reloaded][]				|MIT			|[Github][]												|0.3.1		|					100%|0.3.1		|none		|
