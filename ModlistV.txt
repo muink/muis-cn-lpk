@@ -33,7 +33,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Creative World][]								|MIT			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none		|
 [Deadlock's Compact Loaders][]					|GPLv3			|[Github][]												|1.6.0		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]				|GPLv3			|[Github][]												|1.6.3		|					100%|1.6.3		|none		|
-[Deep core mining][]							|MIT			|[Github][VortiK/vtk-deep-core-mining]					|1.15.0		|Hard-coded text	100%|1.12.2		|none		|
+[Deep core mining][]							|MIT			|[Github][VortiK/vtk-deep-core-mining]					|1.17.2		|Hard-coded text	100%|1.12.2		|none		|
 [Delorean][]									|MIT			|[Github][Danielv123/factorioDelorean]					|2.0.1		|					100%|2.0.1		|none		|
 [Enhanced Flashlight][]							|MIT			|[Github][]												|0.1.2		|Description only	100%|0.1.2		|none		|
 [Enhanced Map Colors][]							|MIT			|[Github][osldgoth/Enhanced_Map_Colors]					|1.4.6		|Hard-coded text	100%|1.4.6		|none		|
