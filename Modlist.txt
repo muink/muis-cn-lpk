@@ -115,7 +115,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [Test Site][]									|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]									|0.3.3		|					100%|0.3.3		|none
 [The Fat Controller][]							|3.0.4		|					100%|3.0.4		|none
-[Time Tools (+game speed +clock combinators)][]	|1.0.31		|					100%|1.0.31		|none
+[Time Tools (+game speed +clock combinators)][]	|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]								|0.4.2		|Description only	100%|0.4.2		|none
 [Underground Indicators][]						|1.1.0		|					100%|1.1.0		|none
 [Upgrade planner][]								|1.5.3		|					100%|1.5.3		|none
