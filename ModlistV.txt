@@ -80,7 +80,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [Noxys Swimming][]								|Unlicense		|[Github][CyaNox/Noxys_Swimming]						|0.0.4		|					100%|0.0.4		|none		|
 [Noxys Waterfill][]								|Unlicense		|[Github][CyaNox/Noxys_Waterfill]						|0.0.13		|					100%|0.0.13		|none		|
 [Nuclear Fuel Cycle][]							|MIT			|[Github][muink/nuclear-fuel-cycle]						|0.1.0		|Included CN		100%|0.1.0		|none		|
-[Orbital Ion Cannon][]							|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]				|1.6.3		|					100%|1.6.3		|none		|
+[Orbital Ion Cannon][]							|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]				|1.7.2		|					100%|1.6.3		|none		|
 [Orphan Finder][]								|MIT			|[Github][]												|1.1.0		|					100%|1.1.0		|none		|
 [OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.4		|					100%|1.0.4		|none		|
 [Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.5		|					100%|3.0.5		|none		|
