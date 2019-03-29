@@ -61,7 +61,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [More Inserters + Menu Cleaner][]				|BY-NC 4.0		|[Github][]												|2.0.2		|					100%|1.0.3		|none		|
 [Laser beam turrets][]							|GPLv3			|[Github][]												|0.2.0		|Description only	100%|0.2.0		|none		|
 [Light Cone][]									|MIT			|[Github][]												|0.1.3		|Description only	100%|0.0.1		|none		|
-[Lightorio][]									|MIT			|[Github][]												|0.16.4		|					099%|false		|none		|
+[Lightorio][]									|MIT			|[Github][]												|0.17.1		|					099%|false		|none		|
 [Logistic Status][]								|MIT			|[Github][]												|0.1.1		|Description only	100%|0.1.1		|none		|
 [Macerator][]									|MIT			|[Github][]												|0.16.36	|					100%|0.16.36	|none		|
 [M.I.R.V][]										|MIT			|[Github][]												|0.1.2		|					100%|0.1.2		|none		|
