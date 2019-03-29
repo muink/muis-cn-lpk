@@ -85,7 +85,7 @@ Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 [OutpostPlanner][]								|1.0.4		|					100%|1.0.4		|none
 [Picker Extended Version][]						|3.0.5		|					100%|3.0.5		|none
 [Picker Pipe Tools][]							|0.1.5		|Hard-coded text	100%|0.1.5		|none
-[Picker Tweaks][]								|1.0.2		|					100%|1.0.2		|none
+[Picker Tweaks][]								|2.0.3		|					100%|1.0.2		|none
 [PlannerCore][]									|0.1.2		|					100%|0.1.2		|none
 [Platforms][]									|18.5.2		|					100%|18.5.2		|none
 [Pollution Control][]							|1.0.4		|Hard-coded text	100%|1.0.4		|none

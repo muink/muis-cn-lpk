@@ -85,7 +85,7 @@ Mod name										|License		|Source code											|ZH version	|Completion rate	
 [OutpostPlanner][]								|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]				|1.0.4		|					100%|1.0.4		|none		|
 [Picker Extended Version][]						|MIT			|[Github][Nexela/PickerExtended]						|3.0.5		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]							|MIT			|[Github][Nexela/PickerPipeTools]						|0.1.5		|Hard-coded text	100%|0.1.5		|none		|
-[Picker Tweaks][]								|MIT			|[Github][Nexela/PickerTweaks]							|1.0.2		|					100%|1.0.2		|none		|
+[Picker Tweaks][]								|MIT			|[Github][Nexela/PickerTweaks]							|2.0.3		|					100%|1.0.2		|none		|
 [PlannerCore][]									|MIT			|[Github][Ben-Ramchandani/PlannerCore]					|0.1.2		|					100%|0.1.2		|none		|
 [Platforms][]									|MIT			|[Github][]												|18.5.2		|					100%|18.5.2		|none		|
 [Pollution Control][]							|MIT			|[Github][pavel-krush/pollution-control]				|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
