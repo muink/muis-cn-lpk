@@ -1,7 +1,7 @@
 Mod name										|License		|Source code											|ZH version	|Completion rate		|Verified	|Pushed		|on_tick
 :-----------------------------------------------|:-------------:|:------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
 [A Better Start (Quick Start)][]				|MIT			|[Github][]												|0.3.0		|					100%|0.3.0		|none		|
-[Actual Craft Time][]							|MIT			|[Github][]												|0.3.0		|Hard-coded text	100%|0.3.0		|none		|
+[Actual Craft Time][]							|MIT			|[Github][]												|0.3.6		|Hard-coded text	100%|0.3.6		|none		|
 [Adequate Bot Start][]							|MIT			|[Github][dtandersen/AdequateBotStart]					|0.16.1		|Description only	100%|0.16.1		|none		|
 [Advanced Belt Laying][]						|MIT			|[Github][]												|0.16.0		|Description only	100%|0.16.0		|none		|
 [Alien Biomes][]								|N/A			|[Github][]												|0.4.5		|Hard-coded text	100%|0.3.10		|none		|
