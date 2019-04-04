@@ -85,6 +85,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Orbital Ion Cannon][]								|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]					|1.7.2		|					100%|1.6.3		|none		|
 [Orphan Finder][]									|MIT			|[Github][]													|1.1.1		|					100%|1.1.1		|none		|
 [OutpostPlanner][]									|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]					|1.1.1		|					100%|1.1.1		|none		|
+[Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.0		|					100%|false		|none		|
 [Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|3.0.5		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|0.1.5		|Hard-coded text	100%|0.1.5		|none		|
 [Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.0.3		|					100%|1.0.2		|none		|
@@ -211,6 +212,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon "Supercheese"
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder "GotLag"
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner "bob809"
+[Picker Atheneum]: https://mods.factorio.com/mod/PickerAtheneum "Nexela"
 [Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended "Tinyboss, Nexela"
 [Picker Pipe Tools]: https://mods.factorio.com/mod/PickerPipeTools "TheStaplergun, Nexela"
 [Picker Tweaks]: https://mods.factorio.com/mod/PickerTweaks "Nexela"
@@ -290,6 +292,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Suprcheese/Orbital-Ion-Cannon]: https://github.com/Suprcheese/Orbital-Ion-Cannon "Suprcheese/Orbital-Ion-Cannon"
 [Ben-Ramchandani/OutpostPlanner]: https://github.com/Ben-Ramchandani/OutpostPlanner "Ben-Ramchandani/OutpostPlanner"
 [Ben-Ramchandani/PlannerCore]: https://github.com/Ben-Ramchandani/PlannerCore "Ben-Ramchandani/PlannerCore"
+[Nexela/PickerAtheneum]: https://github.com/Nexela/PickerAtheneum "Nexela/PickerAtheneum"
 [Nexela/PickerExtended]: https://github.com/Nexela/PickerExtended "Nexela/PickerExtended"
 [Nexela/PickerPipeTools]: https://github.com/Nexela/PickerPipeTools "Nexela/PickerPipeTools"
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
