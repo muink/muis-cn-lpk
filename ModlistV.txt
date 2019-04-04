@@ -89,6 +89,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.0		|					100%|3.0.5		|none		|
 [Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.0.1		|					100%|3.0.5		|none		|
 [Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.1		|					100%|3.0.5		|none		|
+[Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.0		|					100%|3.0.5		|none		|
 [Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.0		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.0		|					100%|3.0.5		|none		|
 [Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.0		|					100%|3.0.5		|none		|
@@ -222,6 +223,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Extended Version]: https://mods.factorio.com/mod/PickerExtended "Tinyboss, Nexela"
 [Picker Belt Tools]: https://mods.factorio.com/mod/PickerBeltTools "Nexela"
 [Picker Blueprinter]: https://mods.factorio.com/mod/PickerBlueprinter "Nexela"
+[Picker Cheats]: https://mods.factorio.com/mod/PickerCheats "Nexela"
 [Picker Dollies]: https://mods.factorio.com/mod/PickerDollies "Nexela"
 [Picker Equipment Keys]: https://mods.factorio.com/mod/PickerEquipmentKeys "Nexela"
 [Picker Inventory Tools]: https://mods.factorio.com/mod/PickerInventoryTools "Nexela"
@@ -308,6 +310,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Nexela/PickerExtended]: https://github.com/Nexela/PickerExtended "Nexela/PickerExtended"
 [Nexela/PickerBeltTools]: https://github.com/Nexela/PickerBeltTools "Nexela/PickerBeltTools"
 [Nexela/PickerBlueprinter]: https://github.com/Nexela/PickerBlueprinter "Nexela/PickerBlueprinter"
+[Nexela/PickerCheats]: https://github.com/Nexela/PickerCheats "Nexela/PickerCheats"
 [Nexela/PickerDollies]: https://github.com/Nexela/PickerDollies "Nexela/PickerDollies"
 [Nexela/PickerEquipmentKeys]: https://github.com/Nexela/PickerEquipmentKeys "Nexela/PickerEquipmentKeys"
 [Nexela/PickerInventoryTools]: https://github.com/Nexela/PickerInventoryTools "Nexela/PickerInventoryTools"
