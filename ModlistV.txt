@@ -91,6 +91,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.1		|					100%|3.0.5		|none		|
 [Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.0		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.0		|					100%|3.0.5		|none		|
+[Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.0		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|0.1.5		|Hard-coded text	100%|0.1.5		|none		|
 [Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.0.3		|					100%|1.0.2		|none		|
 [PlannerCore][]										|MIT			|[Github][Ben-Ramchandani/PlannerCore]						|0.2.0		|					100%|0.2.0		|none		|
@@ -222,6 +223,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Blueprinter]: https://mods.factorio.com/mod/PickerBlueprinter "Nexela"
 [Picker Dollies]: https://mods.factorio.com/mod/PickerDollies "Nexela"
 [Picker Equipment Keys]: https://mods.factorio.com/mod/PickerEquipmentKeys "Nexela"
+[Picker Inventory Tools]: https://mods.factorio.com/mod/PickerInventoryTools "Nexela"
 [Picker Pipe Tools]: https://mods.factorio.com/mod/PickerPipeTools "TheStaplergun, Nexela"
 [Picker Tweaks]: https://mods.factorio.com/mod/PickerTweaks "Nexela"
 [PlannerCore]: https://mods.factorio.com/mod/PlannerCore "bob809"
@@ -306,6 +308,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Nexela/PickerBlueprinter]: https://github.com/Nexela/PickerBlueprinter "Nexela/PickerBlueprinter"
 [Nexela/PickerDollies]: https://github.com/Nexela/PickerDollies "Nexela/PickerDollies"
 [Nexela/PickerEquipmentKeys]: https://github.com/Nexela/PickerEquipmentKeys "Nexela/PickerEquipmentKeys"
+[Nexela/PickerInventoryTools]: https://github.com/Nexela/PickerInventoryTools "Nexela/PickerInventoryTools"
 [Nexela/PickerPipeTools]: https://github.com/Nexela/PickerPipeTools "Nexela/PickerPipeTools"
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
 [pavel-krush/pollution-control]:  https://github.com/pavel-krush/pollution-control "pavel-krush/pollution-control"
