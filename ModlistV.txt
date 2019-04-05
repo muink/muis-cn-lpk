@@ -32,6 +32,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Controllinator][]									|ISC			|[Github][Aidiakapi/controllinator]							|0.4.0		|Hard-coded text	100%|0.4.0		|none		|
 [Copy & Paste Modules][]							|GPLv3			|[Github][]													|1.0.0		|Included CN		100%|1.0.0		|none		|
 [Creative World][]									|MIT			|[Github][]													|0.2.0		|Description only	100%|0.2.0		|none		|
+[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.4.3		|					100%|false		|none		|
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.6		|					100%|1.7.3		|none		|
@@ -168,6 +169,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
 [Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules "Mooncat, Relik"
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld "can00336"
+[Deadlock's Crating Machineg]: https://mods.factorio.com/mod/DeadlockCrating "Deadlock989"
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders "Deadlock989, shanemadden"
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking "Deadlock989"
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders "Deadlock989, shanemadden"
@@ -285,6 +287,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
 [Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
+[shanemadden/factorio-deadlock-crating]: https://github.com/shanemadden/factorio-deadlock-crating "shanemadden/factorio-deadlock-crating"
 [shanemadden/factorio-deadlock-beltboxes-loaders]: https://github.com/shanemadden/factorio-deadlock-beltboxes-loaders "shanemadden/factorio-deadlock-beltboxes-loaders"
 [shanemadden/factorio-deadlock-experiments]: https://github.com/shanemadden/factorio-deadlock-experiments "shanemadden/factorio-deadlock-experiments"
 [shanemadden/factorio-deadlock-integrations]: https://github.com/shanemadden/factorio-deadlock-integrations "shanemadden/factorio-deadlock-integrations"
