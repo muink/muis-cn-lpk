@@ -1,5 +1,6 @@
 Mod name											|License		|Source code												|ZH version	|Completion rate		|Verified	|Pushed		|on_tick
 :---------------------------------------------------|:-------------:|:----------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
+[Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.0.2		|Description only	100%|1.0.2		|none		|
 [A Better Start (Quick Start)][]					|MIT			|[Github][]													|0.3.0		|					100%|0.3.0		|none		|
 [Actual Craft Time][]								|MIT			|[Github][]													|0.3.6		|Hard-coded text	100%|0.3.6		|none		|
 [Adequate Bot Start][]								|MIT			|[Github][dtandersen/AdequateBotStart]						|0.16.1		|Description only	100%|0.16.1		|none		|
@@ -134,6 +135,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.3		|					100%|0.7.309	|0.7.309	|
 
 
+[Factorio Standard Library]: https://mods.factorio.com/mod/stdlib "Afforess"
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start "koolwalky"
 [Actual Craft Time]: https://mods.factorio.com/mod/Actual_Craft_Time "osldgoth"
 [Adequate Bot Start]: https://mods.factorio.com/mod/AdequateBotStart "onebit"
@@ -268,6 +270,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM "Octav 'narc' Sandulescu, based on work by drs, jorgenRe, and L0771"
 
 
+[Afforess/Factorio-Stdlib]: https://github.com/Afforess/Factorio-Stdlib "Afforess/Factorio-Stdlib"
 [dtandersen/AdequateBotStart]: https://github.com/dtandersen/AdequateBotStart "dtandersen/AdequateBotStart"
 [sirdoombox/AtomicArtillery]: https://github.com/sirdoombox/AtomicArtillery "sirdoombox/AtomicArtillery"
 [canidae/factorio]: https://github.com/canidae/factorio "canidae/factorio"

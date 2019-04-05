@@ -1,5 +1,6 @@
 Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 :---------------------------------------------------|:---------:|----------------------:|:---------:|------
+[Factorio Standard Library][]						|1.0.2		|Description only	100%|1.0.2		|none
 [A Better Start (Quick Start)][]					|0.3.0		|					100%|0.3.0		|none
 [Actual Craft Time][]								|0.3.6		|Hard-coded text	100%|0.3.6		|none
 [Adequate Bot Start][]								|0.16.1		|Description only	100%|0.16.1		|none
@@ -134,6 +135,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [YARM - Resource Monitor][]							|0.8.3		|					100%|0.7.309	|0.7.309
 
 
+[Factorio Standard Library]: https://mods.factorio.com/mod/stdlib
 [A Better Start (Quick Start)]: https://mods.factorio.com/mod/a-better-start
 [Actual Craft Time]: https://mods.factorio.com/mod/Actual_Craft_Time
 [Adequate Bot Start]: https://mods.factorio.com/mod/AdequateBotStart
