@@ -35,6 +35,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.6		|					100%|1.7.3		|none		|
+[Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.2		|					100%|false		|none		|
 [Deadlock-Mod Integrations][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-integrations]		|2.0.8		|					100%|1.7.3		|none		|
 [Deep core mining][]								|MIT			|[Github][VortiK/vtk-deep-core-mining]						|1.17.2		|Hard-coded text	100%|1.12.2		|none		|
 [Delorean][]										|MIT			|[Github][Danielv123/factorioDelorean]						|2.0.1		|					100%|2.0.1		|none		|
@@ -170,6 +171,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders "Deadlock989, shanemadden"
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking "Deadlock989"
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders "Deadlock989, shanemadden"
+[Deadlock Experimental Stacking]: https://mods.factorio.com/mod/deadlock-experiments "Shane Madden"
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations "Deadlock989, shanemadden"
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining "VortiK"
 [Delorean]: https://mods.factorio.com/mod/delorean "Danielv123"
@@ -284,6 +286,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
 [Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
 [shanemadden/factorio-deadlock-beltboxes-loaders]: https://github.com/shanemadden/factorio-deadlock-beltboxes-loaders "shanemadden/factorio-deadlock-beltboxes-loaders"
+[shanemadden/factorio-deadlock-experiments]: https://github.com/shanemadden/factorio-deadlock-experiments "shanemadden/factorio-deadlock-experiments"
 [shanemadden/factorio-deadlock-integrations]: https://github.com/shanemadden/factorio-deadlock-integrations "shanemadden/factorio-deadlock-integrations"
 [VortiK/vtk-deep-core-mining]: https://github.com/VortiK/vtk-deep-core-mining "VortiK/vtk-deep-core-mining"
 [Danielv123/factorioDelorean]: https://github.com/Danielv123/factorioDelorean "Danielv123/factorioDelorean"
