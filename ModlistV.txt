@@ -134,7 +134,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Upgrade planner][]									|MIT			|[Github][Klonan/upgrade-planner]							|1.5.3		|					100%|1.5.3		|none		|
 [Utilization Monitor][]								|MIT			|[Github][sullerandras/UtilizationMonitor]					|0.5.0		|Hard-coded text	100%|0.5.0		|none		|
 [Vehicle Wagon][]									|MIT			|[Github][Suprcheese/Vehicle-Wagon]							|1.2.5		|					100%|1.2.5		|none		|
-[YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.3		|					100%|0.7.309	|0.7.309	|
+[YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.4		|					100%|0.7.309	|0.7.309	|
 
 
 [Factorio Standard Library]: https://mods.factorio.com/mod/stdlib "Afforess"
