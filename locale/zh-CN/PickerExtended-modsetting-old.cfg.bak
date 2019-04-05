@@ -1,0 +1,13 @@
+[mod-setting-name]
+picker-blueprint-last=最后一个物品蓝图
+picker-colored-books=启用多色蓝图簿
+picker-debug=Use Debug Mode
+picker-use-notes=启用悬停便利贴
+picker-tool-ping=启用地图ping工具
+
+[mod-setting-description]
+picker-blueprint-last=当您在建筑中用光了手中的建材，模组会自动创建此建材的实体蓝图。\n方便您以放置幽灵实体方式继续建筑
+picker-colored-books=添加多色蓝图簿
+picker-debug=Use Debug startup mode.
+picker-use-notes=启用模组的便利贴功能
+picker-tool-ping=启用地图ping工具

@@ -1,0 +1,50 @@
+[mod-name]
+PickerExtended=[工具]悬停工具集
+
+[mod-description]
+PickerExtended=增强型吸管工具集，包含快速蓝图，快速规划工具，幽灵实体建成，实体移动，孤儿查找器等功能
+
+[colors]
+red=红
+orange=橙
+yellow=黄
+green=绿
+purple=紫
+magenta=洋红
+blueprint=蓝
+black=黑
+white=白
+
+[ping-map]
+here=__1__通过ping标示了一个位置。
+
+[used-for]
+fluids=Select a fluid
+items=Select an item
+close=Close
+
+product_of=Product of:
+mined_from=Mined from:
+looted_from=Dropped by:
+ingredient_in=Ingredient in:
+
+behind_research=Locked behind: __1__
+not_found=Technology not found
+minimise=Minimise to side
+pin=Pin to side
+show=Show __1__
+disabled_tech=__1__ (Disabled)
+
+[wiretool]
+all-wires-removed=断开所有已连接线缆。
+
+[item-name]
+picker-ping-tool=地图ping工具
+colored-book=蓝图簿 (__1__)
+
+[item-description]
+picker-ping-tool=在地图上标示一个位置
+
+[entity-name]
+picker-map-ping-explosion=Picker map ping
+picker-proxy-chest=Picker proxy chest
