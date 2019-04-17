@@ -103,7 +103,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Platforms][]										|19.18.3	|					100%|19.18.3	|none
 [Pollution Control][]								|1.0.4		|Hard-coded text	100%|1.0.4		|none
 [Pollution detector][]								|0.5.1		|					100%|0.4.0		|none
-[Power Grid Comb][]									|0.17.2		|					100%|0.17.2		|none
+[Power Grid Comb][]									|0.17.3		|					100%|0.17.3		|none
 [Power Isolate][]									|2.0.0		|Hard-coded text	100%|2.0.0		|none
 [Progressive Running (smooth acceleration)][]		|1.0.17		|					100%|1.0.17		|none
 [Pushbutton][]										|0.17.0		|Included CN		100%|0.17.0		|none
