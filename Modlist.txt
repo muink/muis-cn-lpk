@@ -126,7 +126,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [steinios toolbox][]								|0.16.3		|					100%|0.16.3		|none
 [Stone Water Well][]								|1.17.0		|					100%|1.17.0		|none
 [Test Site][]										|0.0.1		|					100%|0.0.1		|none
-[Text Plates][]										|0.4.1		|					100%|0.4.1		|none
+[Text Plates][]										|0.4.3		|					100%|0.4.1		|none
 [The Fat Controller][]								|4.0.5		|					100%|4.0.5		|none
 [Time Tools (+game speed +clock combinators)][]		|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]									|0.5.1		|Description only	100%|0.5.1		|none
