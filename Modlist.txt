@@ -59,7 +59,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Ghost Scanner][]									|1.4.2		|					100%|1.4.2		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.9		|					100%|0.8.9		|none
-[Hovercraft][]										|0.0.8		|					100%|0.0.8		|none
+[Hovercrafts][]										|0.17.03	|					100%|0.0.8		|none
 [Inlaid Lamps][]									|0.1.1		|					100%|0.1.1		|none
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
 [Iron Man][]										|1.0.2		|					100%|1.0.2		|none
@@ -196,7 +196,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Ghost Scanner]: https://mods.factorio.com/mod/GhostScanner
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod
-[Hovercraft]: https://mods.factorio.com/mod/Hovercraft
+[Hovercrafts]: https://mods.factorio.com/mod/Hovercrafts
 [Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor
 [Iron Man]: https://mods.factorio.com/mod/IronMan
