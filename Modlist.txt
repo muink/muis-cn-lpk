@@ -11,7 +11,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Atomic Artillery][]								|0.1.9		|					100%|0.1.9		|none
 [Auto Deconstruct][]								|0.1.12		|					100%|0.1.12		|none
 [Auto Research][]									|5.0.2		|					100%|5.0.2		|none
-[Beautiful Bridge Railway][]						|0.17.1		|					100%|0.17.1		|none
+[Beautiful Bridge Railway][]						|0.17.2		|					100%|0.17.2		|none
 [Automatic Belt Planner][]							|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]									|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]								|1.0.0		|					100%|1.0.0		|none
