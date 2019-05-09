@@ -22,7 +22,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Bot Landfill][]									|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]										|0.10.3		|					100%|0.10.3		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
-[Crafting Combinator][]								|0.10.5		|					100%|0.9.12		|none
+[Crafting Combinator][]								|0.10.12	|					100%|0.9.12		|none
 [Cement Shoes][]									|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]									|1.5.2		|					100%|1.4.1		|none
 [Cheaper Landfill][]								|1.7.0		|					100%|1.7.0		|none
