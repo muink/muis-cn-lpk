@@ -2,7 +2,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 :---------------------------------------------------|:-------------:|:----------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
 [Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.0.2		|Description only	100%|1.0.2		|none		|
 [A Better Start (Quick Start)][]					|MIT			|[Github][]													|0.3.0		|					100%|0.3.0		|none		|
-[Actual Craft Time][]								|MIT			|[Github][]													|0.3.7		|Hard-coded text	100%|0.3.7		|none		|
+[Actual Craft Time][]								|MIT			|[Github][]													|0.3.9		|Hard-coded text	100%|0.3.9		|none		|
 [Adequate Bot Start][]								|MIT			|[Github][dtandersen/AdequateBotStart]						|0.16.1		|Description only	100%|0.16.1		|none		|
 [Advanced Belt Laying][]							|MIT			|[Github][]													|0.16.0		|Description only	100%|0.16.0		|none		|
 [Alien Biomes][]									|N/A			|[Github][]													|0.4.10		|Hard-coded text	100%|0.3.10		|none		|
