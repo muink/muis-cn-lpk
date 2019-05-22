@@ -108,7 +108,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Progressive Running (smooth acceleration)][]		|1.0.17		|					100%|1.0.17		|none
 [Pushbutton][]										|0.17.1		|Included CN		100%|0.17.1		|none
 [Radar Grid Guide][]								|0.17.0		|Hard-coded text	100%|0.17.0		|none
-[Realistic Ores][]									|4.17.3		|Hard-coded text	100%|4.17.3		|none
+[Realistic Ores][]									|5.17.2		|Hard-coded text	100%|4.17.3		|none
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
 [RealisticReactors][]								|2.0.2		|					100%|1.0.5		|none
 [Recipe Explorer][]									|0.17.02	|					100%|0.16.13	|none
