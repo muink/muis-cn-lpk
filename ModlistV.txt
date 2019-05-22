@@ -91,7 +91,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.0		|					100%|false		|none		|
 [Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.1		|					100%|3.0.5		|none		|
 [Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.0.1		|					100%|3.0.5		|none		|
-[Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.1		|					100%|3.0.5		|none		|
+[Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.3		|					100%|3.0.5		|none		|
 [Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.0		|					100%|3.0.5		|none		|
 [Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.0		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.1		|					100%|3.0.5		|none		|
