@@ -43,7 +43,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Enhanced Flashlight][]								|0.1.2		|Description only	100%|0.1.2		|none
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
 [Entity Symmetry][]									|0.17.1		|					100%|0.17.1		|none
-[Even Distribution][]								|0.3.7		|					100%|0.3.7		|none
+[Even Distribution][]								|0.3.8		|					100%|0.3.7		|none
 [Fire extinguisher][]								|0.17.0		|					100%|0.17.0		|none
 [FactorioLogo][]									|0.3.0		|					100%|0.3.0		|none
 [Unconnected Pipe Finder][]							|1.0.0		|					100%|1.0.0		|none
