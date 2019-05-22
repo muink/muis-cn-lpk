@@ -98,7 +98,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Picker Inventory Tools][]							|1.0.0		|					100%|3.0.5		|none
 [Picker Vehicles][]									|1.0.0		|					100%|3.0.5		|none
 [Picker Pipe Tools][]								|0.1.5		|Hard-coded text	100%|0.1.5		|none
-[Picker Tweaks][]									|2.0.4		|					100%|1.0.2		|none
+[Picker Tweaks][]									|2.0.5		|					100%|1.0.2		|none
 [PlannerCore][]										|0.2.0		|					100%|0.2.0		|none
 [Platforms][]										|19.18.3	|					100%|19.18.3	|none
 [Pollution Control][]								|1.0.4		|Hard-coded text	100%|1.0.4		|none
