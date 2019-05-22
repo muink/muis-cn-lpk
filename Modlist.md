@@ -127,7 +127,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Stone Water Well][]								|1.17.0		|					100%|1.17.0		|none
 [Test Site][]										|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]										|0.4.3		|					100%|0.4.1		|none
-[The Fat Controller][]								|4.0.9		|					100%|4.0.9		|none
+[The Fat Controller][]								|4.0.10		|					100%|4.0.10		|none
 [Time Tools (+game speed +clock combinators)][]		|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]									|0.5.1		|Description only	100%|0.5.1		|none
 [Underground Indicators][]							|1.1.0		|					100%|1.1.0		|none

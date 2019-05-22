@@ -127,7 +127,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Stone Water Well][]								|CC-BY-3.0		|[Github][]													|1.17.0		|					100%|1.17.0		|none		|
 [Test Site][]										|LGPLv3			|[Github][]													|0.0.1		|					100%|0.0.1		|none		|
 [Text Plates][]										|MIT			|[Github][]													|0.4.3		|					100%|0.4.1		|none		|
-[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.9		|					100%|4.0.9		|none		|
+[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.10		|					100%|4.0.10		|none		|
 [Time Tools (+game speed +clock combinators)][]		|MIT			|[Github][]													|1.0.36		|					100%|1.0.31		|none		|
 [Tree Collision][]									|MIT			|[Github][]													|0.5.1		|Description only	100%|0.5.1		|none		|
 [Underground Indicators][]							|MIT			|[Github][]													|1.1.0		|					100%|1.1.0		|none		|
