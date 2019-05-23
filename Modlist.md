@@ -38,6 +38,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.1.12		|					100%|1.7.3		|none
 [Deadlock Experimental Stacking][]					|0.17.5		|					100%|false		|none
 [Deadlock-Mod Integrations][]						|2.0.11		|					100%|1.7.3		|none
+[Death Markers][]									|0.2.0		|					100%|false		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
 [Delorean][]										|2.0.1		|					100%|2.0.1		|none
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
@@ -175,6 +176,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders
 [Deadlock Experimental Stacking]: https://mods.factorio.com/mod/deadlock-experiments
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations
+[Death Markers]: https://mods.factorio.com/mod/DeathMarkers
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining
 [Delorean]: https://mods.factorio.com/mod/delorean
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors

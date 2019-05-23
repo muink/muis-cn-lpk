@@ -38,6 +38,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.12		|					100%|1.7.3		|none		|
 [Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.5		|					100%|false		|none		|
 [Deadlock-Mod Integrations][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-integrations]		|2.0.11		|					100%|1.7.3		|none		|
+[Death Markers][]									|BSD-3-Clause	|[Github][]													|0.2.0		|					100%|false		|none		|
 [Deep core mining][]								|MIT			|[Github][VortiK/vtk-deep-core-mining]						|1.17.5		|Hard-coded text	100%|1.12.2		|none		|
 [Delorean][]										|MIT			|[Github][Danielv123/factorioDelorean]						|2.0.1		|					100%|2.0.1		|none		|
 [Enhanced Map Colors][]								|MIT			|[Github][osldgoth/Enhanced_Map_Colors]						|1.4.9		|Hard-coded text	100%|1.4.9		|none		|
@@ -175,6 +176,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders "Deadlock989, shanemadden"
 [Deadlock Experimental Stacking]: https://mods.factorio.com/mod/deadlock-experiments "Shane Madden"
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations "Deadlock989, shanemadden"
+[Death Markers]: https://mods.factorio.com/mod/DeathMarkers "Kovus"
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining "VortiK"
 [Delorean]: https://mods.factorio.com/mod/delorean "Danielv123"
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors "osldgoth"
