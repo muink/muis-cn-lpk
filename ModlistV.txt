@@ -18,7 +18,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.1		|Description only	100%|0.17.1		|none		|
 [Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
-[Bio Industries][]									|MIT			|[Github][]													|0.17.19	|					100%|2.7.0		|none		|
+[Bio Industries][]									|MIT			|[Github][]													|0.17.21	|					100%|2.7.0		|none		|
 [Bot Landfill][]									|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
