@@ -31,6 +31,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator][]									|0.4.2		|Hard-coded text	100%|0.4.2		|none
 [Copy & Paste Modules][]							|1.0.0		|Included CN		100%|1.0.0		|none
 [Creative World][]									|0.2.0		|Description only	100%|0.2.0		|none
+[Deadlock's Larger Lamps][]							|1.2.4		|					100%|false		|none
 [Deadlock's Crating Machineg][]						|1.4.9		|					100%|false		|none
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
@@ -166,6 +167,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator]: https://mods.factorio.com/mod/controllinator
 [Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld
+[Deadlock's Larger Lamps]: https://mods.factorio.com/mod/DeadlockLargerLamp
 [Deadlock's Crating Machineg]: https://mods.factorio.com/mod/DeadlockCrating
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking
