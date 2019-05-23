@@ -40,7 +40,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Deadlock-Mod Integrations][]						|2.0.10		|					100%|1.7.3		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
 [Delorean][]										|2.0.1		|					100%|2.0.1		|none
-[Enhanced Flashlight][]								|0.1.2		|Description only	100%|0.1.2		|none
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
 [Entity Symmetry][]									|0.17.1		|					100%|0.17.1		|none
 [Even Distribution][]								|0.3.8		|					100%|0.3.7		|none
@@ -177,7 +176,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining
 [Delorean]: https://mods.factorio.com/mod/delorean
-[Enhanced Flashlight]: https://mods.factorio.com/mod/EnhancedFlashlight
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors
 [Entity Symmetry]: https://mods.factorio.com/mod/entity-symmetry
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution
