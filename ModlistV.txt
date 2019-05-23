@@ -36,7 +36,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.11		|					100%|1.7.3		|none		|
-[Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.4		|					100%|false		|none		|
+[Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.5		|					100%|false		|none		|
 [Deadlock-Mod Integrations][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-integrations]		|2.0.10		|					100%|1.7.3		|none		|
 [Deep core mining][]								|MIT			|[Github][VortiK/vtk-deep-core-mining]						|1.17.5		|Hard-coded text	100%|1.12.2		|none		|
 [Delorean][]										|MIT			|[Github][Danielv123/factorioDelorean]						|2.0.1		|					100%|2.0.1		|none		|

@@ -36,7 +36,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.1.11		|					100%|1.7.3		|none
-[Deadlock Experimental Stacking][]					|0.17.4		|					100%|false		|none
+[Deadlock Experimental Stacking][]					|0.17.5		|					100%|false		|none
 [Deadlock-Mod Integrations][]						|2.0.10		|					100%|1.7.3		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
 [Delorean][]										|2.0.1		|					100%|2.0.1		|none
