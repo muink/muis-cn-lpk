@@ -7,7 +7,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Advanced Belt Laying][]							|0.16.0		|Description only	100%|0.16.0		|none
 [Alien Biomes][]									|0.4.14		|Hard-coded text	100%|0.3.10		|none
 [Alien Biomes High-Res Terrain][]					|0.4.1		|Description only	100%|0.4.1		|none
-[Armor Pockets][]									|1.0.5		|					100%|1.0.5		|none
+[Armor Pockets][]									|0.17.4		|					100%|1.0.5		|none
 [Atomic Artillery][]								|0.1.9		|					100%|0.1.9		|none
 [Auto Deconstruct][]								|0.1.12		|					100%|0.1.12		|none
 [Auto Research][]									|5.0.2		|					100%|5.0.2		|none
@@ -143,7 +143,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Advanced Belt Laying]: https://mods.factorio.com/mod/Advanced-Belt-Laying
 [Alien Biomes]: https://mods.factorio.com/mod/alien-biomes
 [Alien Biomes High-Res Terrain]: https://mods.factorio.com/mod/alien-biomes-hr-terrain
-[Armor Pockets]: https://mods.factorio.com/mod/armor-pockets
+[Armor Pockets]: https://mods.factorio.com/mod/Armor_pockets
 [Atomic Artillery]: https://mods.factorio.com/mod/AtomicArtillery
 [Auto Deconstruct]: https://mods.factorio.com/mod/AutoDeconstruct
 [Auto Research]: https://mods.factorio.com/mod/auto-research
