@@ -58,7 +58,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Ghost Scanner][]									|1.4.2		|					100%|1.4.2		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.11		|					100%|0.8.11		|none
-[Hovercrafts][]										|0.17.03	|					100%|0.0.8		|none
+[Hovercrafts][]										|0.17.13	|					100%|0.0.8		|none
 [Inlaid Lamps][]									|0.1.1		|					100%|0.1.1		|none
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
 [Iron Man][]										|1.0.2		|					100%|1.0.2		|none
