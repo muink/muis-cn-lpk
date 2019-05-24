@@ -19,7 +19,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Blueprintable Trains][]							|0.16.20	|					100%|0.16.20	|none
 [Blueprint Alignment][]								|0.0.5		|Hard-coded text	100%|0.0.5		|none
 [Bio Industries][]									|0.17.21	|					100%|2.7.0		|none
-[Bot Landfill][]									|1.0.2		|					100%|1.0.2		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
 [Crafting Combinator][]								|0.10.13	|					100%|0.9.12		|none
@@ -155,7 +154,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train
 [Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries
-[Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails
 [Crafting Combinator]: https://mods.factorio.com/mod/crafting_combinator

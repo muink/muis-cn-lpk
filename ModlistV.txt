@@ -19,7 +19,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
 [Bio Industries][]									|MIT			|[Github][]													|0.17.21	|					100%|2.7.0		|none		|
-[Bot Landfill][]									|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
 [Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.10.13	|					100%|0.9.12		|none		|
@@ -155,7 +154,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
 [Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment "steffenk"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
-[Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails "Earendel"
 [Crafting Combinator]: https://mods.factorio.com/mod/crafting_combinator "LuziferSenpai and theRustyKnife"
