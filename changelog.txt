@@ -1,4 +1,30 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.7
+Date: 25. 05. 2019
+  Adds:
+    - 添加 Deadlock's Larger Lamps
+    - 添加 LD Auto Circuit
+    - 添加 Death Markers
+    - 添加 Lamps on Map
+    - 添加 Nukes Destroy Cliffs
+    - 添加 Quick Deconstruct
+    - 添加 Shortcuts
+    - 添加 Wire Shortcuts
+    - 添加 Remove Tiles Quickly
+    - 移除 Enhanced Flashlight (请使用Picker's Tweaks and Vehicles)
+    - 移除 Bot Landfill
+  Changes:
+    - 添加 Armor pockets 并更新到 0.17.4
+    - 更新 Picker Blueprinter 到 1.0.3
+    - 更新 Picker Extended Version 到 4.0.5
+    - 更新 Picker Tweaks 到 2.0.5
+    - 更新 The Fat Controller 到 4.0.10
+    - 更新 Realistic Ores 到 5.17.2
+    - 更新 Even Distribution 到 0.3.8
+    - 更新 Hovercrafts 到 0.17.13
+    - 更新 Bio Industries 到 0.17.21
+    - 更新 Deadlock Experimental Stacking 到 0.17.5
+---------------------------------------------------------------------------------------------------
 Version: 2.1.5
 Date: 15. 05. 2019
   Changes:

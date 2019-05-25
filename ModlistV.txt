@@ -1,72 +1,75 @@
 Mod name											|License		|Source code												|ZH version	|Completion rate		|Verified	|Pushed		|on_tick
 :---------------------------------------------------|:-------------:|:----------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
-[Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.0.3		|Description only	100%|1.0.3		|none		|
+[Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.0.4		|Description only	100%|1.0.4		|none		|
 [A Better Start (Quick Start)][]					|MIT			|[Github][]													|0.3.0		|					100%|0.3.0		|none		|
 [Actual Craft Time][]								|MIT			|[Github][]													|0.3.9		|Hard-coded text	100%|0.3.9		|none		|
 [Adequate Bot Start][]								|MIT			|[Github][dtandersen/AdequateBotStart]						|0.16.1		|Description only	100%|0.16.1		|none		|
 [Advanced Belt Laying][]							|MIT			|[Github][]													|0.16.0		|Description only	100%|0.16.0		|none		|
 [Alien Biomes][]									|N/A			|[Github][]													|0.4.14		|Hard-coded text	100%|0.3.10		|none		|
 [Alien Biomes High-Res Terrain][]					|N/A			|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
-[Armor Pockets][]									|MIT			|[Github][]													|1.0.5		|					100%|1.0.5		|none		|
-[Atomic Artillery][]								|MIT			|[Github][sirdoombox/AtomicArtillery]						|0.1.9		|					100%|0.1.9		|none		|
+[Armor Pockets][]									|MIT			|[Github][]													|0.17.4		|					100%|1.0.5		|none		|
+[Atomic Artillery][]								|MIT			|[Github][sirdoombox/AtomicArtillery]						|0.1.10		|					100%|0.1.10		|none		|
 [Auto Deconstruct][]								|MIT			|[Github][]													|0.1.12		|					100%|0.1.12		|none		|
 [Auto Research][]									|MIT			|[Github][canidae/factorio]									|5.0.2		|					100%|5.0.2		|none		|
 [Beautiful Bridge Railway][]						|MIT			|[Github][]													|0.17.2		|					100%|0.17.2		|none		|
 [Automatic Belt Planner][]							|MIT			|[Github][]													|0.12.0		|					100%|0.12.0		|none		|
 [Belt Reverser][]									|MIT			|[Github][Cogito/belt-reverser]								|0.0.5		|					100%|0.0.5		|none		|
 [Better Inserters][]								|Non-standard	|[Github][]													|1.0.0		|					100%|1.0.0		|none		|
-[Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.1		|Description only	100%|0.17.1		|none		|
+[Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.2		|Description only	100%|0.17.2		|none		|
 [Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
-[Bio Industries][]									|MIT			|[Github][]													|0.17.19	|					100%|2.7.0		|none		|
-[Bot Landfill][]									|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
+[Bio Industries][]									|MIT			|[Github][]													|0.17.21	|					100%|2.7.0		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
-[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.10.12	|					100%|0.9.12		|none		|
+[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.10.13	|					100%|0.9.12		|none		|
 [Cement Shoes][]									|MIT			|[Github][derektom14/factorio_cement_shoes]					|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]									|MIT			|[Github][]													|1.5.2		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]								|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]		|1.7.0		|					100%|1.7.0		|none		|
 [Cliff Deconstruct][]								|MIT			|[Github][]													|0.1.0		|					100%|0.1.0		|none		|
 [Little Fluffy Clouds][]							|MIT			|[Github][]													|1.0.0		|Description only	100%|1.0.0		|none		|
 [Cnc's Sulfur Mod][]								|MPL-2.0		|[Github][]													|1.0.9		|					100%|1.0.9		|none		|
-[Controllinator][]									|ISC			|[Github][Aidiakapi/controllinator]							|0.4.1		|Hard-coded text	100%|0.4.1		|none		|
+[Controllinator][]									|ISC			|[Github][Aidiakapi/controllinator]							|0.4.2		|Hard-coded text	100%|0.4.2		|none		|
 [Copy & Paste Modules][]							|GPLv3			|[Github][]													|1.0.0		|Included CN		100%|1.0.0		|none		|
 [Creative World][]									|MIT			|[Github][]													|0.2.0		|Description only	100%|0.2.0		|none		|
-[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.4.7		|					100%|false		|none		|
+[Deadlock's Larger Lamps][]							|GPLv3			|[Github][]													|1.2.4		|					100%|false		|none		|
+[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.4.9		|					100%|false		|none		|
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
-[Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.11		|					100%|1.7.3		|none		|
-[Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.4		|					100%|false		|none		|
-[Deadlock-Mod Integrations][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-integrations]		|2.0.10		|					100%|1.7.3		|none		|
+[Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.12		|					100%|1.7.3		|none		|
+[Deadlock Experimental Stacking][]					|GPLv3			|[Github][shanemadden/factorio-deadlock-experiments]		|0.17.5		|					100%|false		|none		|
+[Deadlock-Mod Integrations][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-integrations]		|2.0.11		|					100%|1.7.3		|none		|
+[Death Markers][]									|BSD-3-Clause	|[Github][]													|0.2.0		|					100%|false		|none		|
 [Deep core mining][]								|MIT			|[Github][VortiK/vtk-deep-core-mining]						|1.17.5		|Hard-coded text	100%|1.12.2		|none		|
 [Delorean][]										|MIT			|[Github][Danielv123/factorioDelorean]						|2.0.1		|					100%|2.0.1		|none		|
-[Enhanced Flashlight][]								|MIT			|[Github][]													|0.1.2		|Description only	100%|0.1.2		|none		|
 [Enhanced Map Colors][]								|MIT			|[Github][osldgoth/Enhanced_Map_Colors]						|1.4.9		|Hard-coded text	100%|1.4.9		|none		|
 [Entity Symmetry][]									|MIT			|[Github][sparr/factorio-mod-entity-symmetry]				|0.17.1		|					100%|0.17.1		|none		|
-[Even Distribution][]								|LGPLv3			|[Github][321freddy/even-distribution]						|0.3.7		|					100%|0.3.7		|none		|
+[Even Distribution][]								|LGPLv3			|[Github][321freddy/even-distribution]						|0.3.8		|					100%|0.3.7		|none		|
 [Fire extinguisher][]								|Unlicense		|[Github][jfmmm/Factorio-fire-extinguisher-mod]				|0.17.0		|					100%|0.17.0		|none		|
 [FactorioLogo][]									|MIT			|[Github][]													|0.3.0		|					100%|0.3.0		|none		|
 [Unconnected Pipe Finder][]							|MIT			|[Github][terite/factorio-unconnected-pipe-finder]			|1.0.0		|					100%|1.0.0		|none		|
 [Factorissimo2][]									|MIT			|[Github][MagmaMcFry/Factorissimo2]							|2.3.3		|					100%|2.3.3		|none		|
-[Fully Automated Rail Layer][]						|MIT			|[Github][Choumiko/FARL]									|3.1.8		|					100%|2.1.2		|none		|
+[Fully Automated Rail Layer][]						|MIT			|[Github][Choumiko/FARL]									|3.1.10		|					100%|2.1.2		|none		|
 [Far Reach][]										|MIT			|[Github][]													|0.0.11		|					100%|0.0.11		|none		|
+[Remove Tiles Quickly][]							|Unlicense		|[Github][]													|0.0.8		|Description only	100%|false		|none		|
 [Flare Stack][]										|MIT			|[Github][]													|2.2.3		|					100%|2.2.3		|none		|
 [Four toolbelts][]									|MIT			|[Github][]													|0.16.1		|Description only	100%|0.16.1		|none		|
 [Stop That, Silly Robot!][]							|CC-BY-NC 4.0	|[Github][folknor/factorio-stopthat]						|0.1.4		|					100%|0.1.4		|none		|
 [Free circuit wires][]								|Unlicense		|[Github][]													|1.0.2		|Description only	100%|1.0.2		|none		|
 [Fish and Wildlife][]								|GPLv3			|[Github][]													|0.2.1		|					100%|0.1.11		|none		|
 [Geothermal][]										|Non-standard	|[Github][ReikaKalseki/Geothermal]							|1.17.2		|					100%|1.17.2		|none		|
-[Ghost Scanner][]									|MIT			|[Github][Yousei9/GhostScanner]								|1.4.2		|					100%|1.4.2		|none		|
+[Ghost Scanner][]									|MIT			|[Github][Yousei9/GhostScanner]								|1.4.3		|					100%|1.4.3		|none		|
 [Hand Crank][]										|MIT			|[Github][qix-/factorio-hand-crank]							|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]		|MIT			|[Github][Helfima/helmod]									|0.8.11		|					100%|0.8.11		|none		|
-[Hovercrafts][]										|CC-BY-SA 4.0	|[Github][]													|0.17.03	|					100%|0.0.8		|none		|
+[Hovercrafts][]										|CC-BY-SA 4.0	|[Github][]													|0.17.13	|					100%|0.0.8		|none		|
 [Inlaid Lamps][]									|MIT			|[Github][]													|0.1.1		|					100%|0.1.1		|none		|
 [Inventory Sensor][]								|Non-standard	|[Github][Yousei9/Inventory-Sensor]							|1.7.3		|					100%|1.7.3		|none		|
 [Iron Man][]										|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
-[More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.0.3		|					100%|1.0.3		|none		|
+[More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.0.4		|					100%|1.0.3		|none		|
+[Lamps on Map][]									|MIT			|[Github][Godmave/lampsonmap]								|0.0.2		|Description only	100%|false		|none		|
 [Laser beam turrets][]								|GPLv3			|[Github][]													|0.2.0		|Description only	100%|0.2.0		|none		|
-[Light Cone][]										|MIT			|[Github][]													|0.1.4		|Description only	100%|0.0.1		|none		|
-[Lightorio][]										|MIT			|[Github][]													|0.17.1		|					099%|false		|none		|
+[LD Auto Circuit][]									|GPLv3			|[Github][Omnifarious/LD_AutoCircuit]						|0.2.2		|					100%|false		|none		|
+[Light Cone][]										|MIT			|[Github][]													|0.1.5		|Description only	100%|0.0.1		|none		|
+[Lightorio][]										|MIT			|[Github][]													|0.17.3		|					099%|false		|none		|
 [Logistic Status][]									|MIT			|[Github][]													|0.1.1		|Description only	100%|0.1.1		|none		|
 [Macerator][]										|MIT			|[Github][]													|0.16.36	|					100%|0.16.36	|none		|
 [M.I.R.V][]											|MIT			|[Github][]													|0.1.4		|					100%|0.1.4		|none		|
@@ -80,25 +83,26 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [My Tree Mod][]										|MIT			|[Github][]													|1.1.3		|					100%|1.1.3		|none		|
 [NapalmArtillery][]									|MIT			|[Github][]													|0.17.4		|					100%|0.17.4		|none		|
 [Natural Tree Expansion Reloaded][]					|MIT			|[Github][]													|0.17.0		|					100%|0.17.0		|none		|
-[NiceFill][]										|MIT			|[Github][]													|0.1.13		|					100%|0.1.13		|none		|
+[NiceFill][]										|MIT			|[Github][]													|0.1.14		|					100%|0.1.14		|none		|
 [Noxys Deep Core Mining Tweak][]					|Unlicense		|[Github][CyaNox/Noxys_Deep_Core_Mining_Tweak]				|0.1.1		|					100%|0.1.1		|none		|
 [Noxys Swimming][]									|Unlicense		|[Github][CyaNox/Noxys_Swimming]							|0.1.1		|					100%|0.1.1		|none		|
 [Noxys Waterfill][]									|Unlicense		|[Github][CyaNox/Noxys_Waterfill]							|0.1.3		|					100%|0.1.3		|none		|
 [Nuclear Fuel Cycle][]								|MIT			|[Github][muink/nuclear-fuel-cycle]							|1.0.4		|Included CN		100%|1.0.4		|none		|
+[Nukes Destroy Cliffs][]							|MIT			|[Github][]													|0.17.1		|Description only	100%|false		|none		|
 [Orbital Ion Cannon][]								|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]					|1.7.2		|					100%|1.6.3		|none		|
 [Orphan Finder][]									|MIT			|[Github][]													|1.1.1		|					100%|1.1.1		|none		|
 [OutpostPlanner][]									|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]					|1.1.1		|					100%|1.1.1		|none		|
-[Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.0		|					100%|false		|none		|
-[Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.1		|					100%|3.0.5		|none		|
+[Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.1		|					100%|false		|none		|
+[Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.5		|					100%|3.0.5		|none		|
 [Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.0.1		|					100%|3.0.5		|none		|
-[Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.1		|					100%|3.0.5		|none		|
+[Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.3		|					100%|3.0.5		|none		|
 [Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.0		|					100%|3.0.5		|none		|
-[Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.0		|					100%|3.0.5		|none		|
+[Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.2		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.1		|					100%|3.0.5		|none		|
 [Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.0		|					100%|3.0.5		|none		|
-[Picker Vehicles][]									|MIT			|[Github][Nexela/PickerVehicles]							|1.0.0		|					100%|3.0.5		|none		|
+[Picker Vehicles][]									|MIT			|[Github][Nexela/PickerVehicles]							|1.0.1		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|0.1.5		|Hard-coded text	100%|0.1.5		|none		|
-[Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.0.4		|					100%|1.0.2		|none		|
+[Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.0.5		|					100%|1.0.2		|none		|
 [PlannerCore][]										|MIT			|[Github][Ben-Ramchandani/PlannerCore]						|0.2.0		|					100%|0.2.0		|none		|
 [Platforms][]										|MIT			|[Github][]													|19.18.3	|					100%|19.18.3	|none		|
 [Pollution Control][]								|MIT			|[Github][pavel-krush/pollution-control]					|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
@@ -107,8 +111,9 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Power Isolate][]									|MIT			|[Github][]													|2.0.0		|Hard-coded text	100%|2.0.0		|none		|
 [Progressive Running (smooth acceleration)][]		|N/A			|[Github][]													|1.0.17		|					100%|1.0.17		|none		|
 [Pushbutton][]										|MIT			|[Github][]													|0.17.1		|Included CN		100%|0.17.1		|none		|
+[Quick Deconstruct][]								|MIT			|[Github][Jarcionek/Factorio-Quick-Deconstruct]				|1.0.0		|					100%|false		|none		|
 [Radar Grid Guide][]								|MIT			|[Github][jonatkins/RadarGridGuide]							|0.17.0		|Hard-coded text	100%|0.17.0		|none		|
-[Realistic Ores][]									|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]					|4.17.3		|Hard-coded text	100%|4.17.3		|none		|
+[Realistic Ores][]									|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]					|5.17.2		|Hard-coded text	100%|4.17.3		|none		|
 [Realistic Reactor Glow][]							|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]			|1.17.3		|Description only	100%|1.17.3		|none		|
 [RealisticReactors][]								|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]			|2.0.2		|					100%|1.0.5		|none		|
 [Recipe Explorer][]									|MIT			|[Github][ElmarWueest/Recexplo]								|0.17.02	|					100%|0.16.13	|none		|
@@ -118,6 +123,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Resource Labels][]									|MIT			|[Github][Pandemoneus/Resource-Labels]						|0.16.10	|					100%|0.16.10	|none		|
 [Reverse Factory][]									|MIT			|[Github][]													|6.0.6		|					100%|6.0.4		|none		|
 [ShinyIcons][]										|MIT			|[Github][]													|0.17.4		|Description only	100%|0.17.4		|none		|
+[Shortcuts][]										|MIT			|[Github][npc-strider/factorio-shortcuts]					|0.7.4		|Description only	100%|false		|none		|
 [Show Bots On Map][]								|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|false
 [Show Me Ores][]									|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|
 [Side Inserters][]									|Unlicense		|[Github][]													|2.3.5		|					100%|2.3.5		|none		|
@@ -126,15 +132,16 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [steinios toolbox][]								|MIT			|[Github][]													|0.16.3		|					100%|0.16.3		|none		|
 [Stone Water Well][]								|CC-BY-3.0		|[Github][]													|1.17.0		|					100%|1.17.0		|none		|
 [Test Site][]										|LGPLv3			|[Github][]													|0.0.1		|					100%|0.0.1		|none		|
-[Text Plates][]										|MIT			|[Github][]													|0.4.3		|					100%|0.4.1		|none		|
-[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.9		|					100%|4.0.9		|none		|
+[Text Plates][]										|MIT			|[Github][]													|0.4.6		|					100%|0.4.1		|none		|
+[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.10		|					100%|4.0.10		|none		|
 [Time Tools (+game speed +clock combinators)][]		|MIT			|[Github][]													|1.0.36		|					100%|1.0.31		|none		|
 [Tree Collision][]									|MIT			|[Github][]													|0.5.1		|Description only	100%|0.5.1		|none		|
 [Underground Indicators][]							|MIT			|[Github][]													|1.1.0		|					100%|1.1.0		|none		|
 [Upgrade planner][]									|MIT			|[Github][Klonan/upgrade-planner]							|1.5.3		|					100%|1.5.3		|none		|
 [Utilization Monitor][]								|MIT			|[Github][sullerandras/UtilizationMonitor]					|0.5.0		|Hard-coded text	100%|0.5.0		|none		|
 [Vehicle Wagon][]									|MIT			|[Github][Suprcheese/Vehicle-Wagon]							|1.2.5		|					100%|1.2.5		|none		|
-[YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.13		|					100%|0.7.309	|0.7.309	|
+[Wire Shortcuts][]									|MIT			|[Github][daydev/FactorioWireShortcuts]						|0.2.177	|					100%|false		|none		|
+[YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.17		|					100%|0.7.309	|0.7.309	|
 
 
 [Factorio Standard Library]: https://mods.factorio.com/mod/stdlib "Afforess"
@@ -144,7 +151,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Advanced Belt Laying]: https://mods.factorio.com/mod/Advanced-Belt-Laying "Schmendrick, Neomore, Frozz"
 [Alien Biomes]: https://mods.factorio.com/mod/alien-biomes "Earendel"
 [Alien Biomes High-Res Terrain]: https://mods.factorio.com/mod/alien-biomes-hr-terrain "Earendel"
-[Armor Pockets]: https://mods.factorio.com/mod/armor-pockets "psioniq"
+[Armor Pockets]: https://mods.factorio.com/mod/Armor_pockets "Arcani_Victus"
 [Atomic Artillery]: https://mods.factorio.com/mod/AtomicArtillery "Doombox"
 [Auto Deconstruct]: https://mods.factorio.com/mod/AutoDeconstruct "mindmix"
 [Auto Research]: https://mods.factorio.com/mod/auto-research "canidae"
@@ -156,7 +163,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
 [Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment "steffenk"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
-[Bot Landfill]: https://mods.factorio.com/mod/Bot%20Landfill "GotLag"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
 [Bullet Trails]: https://mods.factorio.com/mod/bullet-trails "Earendel"
 [Crafting Combinator]: https://mods.factorio.com/mod/crafting_combinator "LuziferSenpai and theRustyKnife"
@@ -169,15 +175,16 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
 [Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules "Mooncat, Relik"
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld "can00336"
+[Deadlock's Larger Lamps]: https://mods.factorio.com/mod/DeadlockLargerLamp "Deadlock989"
 [Deadlock's Crating Machineg]: https://mods.factorio.com/mod/DeadlockCrating "Deadlock989"
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders "Deadlock989, shanemadden"
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking "Deadlock989"
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders "Deadlock989, shanemadden"
 [Deadlock Experimental Stacking]: https://mods.factorio.com/mod/deadlock-experiments "Shane Madden"
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations "Deadlock989, shanemadden"
+[Death Markers]: https://mods.factorio.com/mod/DeathMarkers "Kovus"
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining "VortiK"
 [Delorean]: https://mods.factorio.com/mod/delorean "Danielv123"
-[Enhanced Flashlight]: https://mods.factorio.com/mod/EnhancedFlashlight "grfwoot"
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors "osldgoth"
 [Entity Symmetry]: https://mods.factorio.com/mod/entity-symmetry "Sparr"
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution "321freddy"
@@ -187,6 +194,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2 "MagmaMcFry"
 [Fully Automated Rail Layer]: https://mods.factorio.com/mod/FARL "Choumiko"
 [Far Reach]: https://mods.factorio.com/mod/far-reach "Fexx"
+[Remove Tiles Quickly]: https://mods.factorio.com/mod/FastRemoveTiles "DellAquila"
 [Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack "GotLag"
 [Four toolbelts]: https://mods.factorio.com/mod/four-toolbelts "Thaui"
 [Stop That, Silly Robot!]: https://mods.factorio.com/mod/folk-stopthat "folk"
@@ -201,7 +209,9 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor "Optera"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
+[Lamps on Map]: https://mods.factorio.com/mod/lampsonmap "Godmave"
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets "Klonan"
+[LD Auto Circuit]: https://mods.factorio.com/mod/LD_AutoCircuit "Omnifarious"
 [Light Cone]: https://mods.factorio.com/mod/LightCone "darkfrei"
 [Lightorio]: https://mods.factorio.com/mod/lightorio "warped_jack"
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus "bytearray and LsHallo"
@@ -222,6 +232,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming "Noxy"
 [Noxys Waterfill]: https://mods.factorio.com/mod/Noxys_Waterfill "Noxy"
 [Nuclear Fuel Cycle]: https://mods.factorio.com/mod/nuclear-fuel-cycle "muink"
+[Nukes Destroy Cliffs]: https://mods.factorio.com/mod/nuke-cliffs "calcwizard"
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon "Supercheese"
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder "GotLag"
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner "bob809"
@@ -244,6 +255,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Power Isolate]: https://mods.factorio.com/mod/PowerIsolate "thelordodin"
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning "BinbinHfr"
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton "justarandomgeek"
+[Quick Deconstruct]: https://mods.factorio.com/mod/QuickDeconstruct "Jarcionek"
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide "jonatkins"
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres "<NO_NAME> & DeTNTonator"
 [Realistic Reactor Glow]: https://mods.factorio.com/mod/RealisticReactorGlow "ouk_ouk"
@@ -255,6 +267,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Resource Labels]: https://mods.factorio.com/mod/ResourceLabels "Pandemoneus"
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory "Victor Ros, Kryzeth"
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons "Zombiee"
+[Shortcuts]: https://mods.factorio.com/mod/Shortcuts "npc_strider(morley376)"
 [Show Bots On Map]: https://mods.factorio.com/mod/ShowBotsOnMap "darkfrei"
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres "darkfrei"
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters "GotLag"
@@ -271,6 +284,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner "Klonan"
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor "Andras Suller"
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon "Supercheese"
+[Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts "daydev"
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM "Octav 'narc' Sandulescu, based on work by drs, jorgenRe, and L0771"
 
 
@@ -306,6 +320,8 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [qix-/factorio-hand-crank]: https://github.com/qix-/factorio-hand-crank "qix-/factorio-hand-crank"
 [Helfima/helmod]: https://github.com/Helfima/helmod "Helfima/helmod"
 [Yousei9/Inventory-Sensor]: https://github.com/Yousei9/Inventory-Sensor "Yousei9/Inventory-Sensor"
+[Godmave/lampsonmap]: https://github.com/Godmave/lampsonmap "Godmave/lampsonmap"
+[Omnifarious/LD_AutoCircuit]: https://github.com/Omnifarious/LD_AutoCircuit "Omnifarious/LD_AutoCircuit"
 [dewiniaid/FactorioModDeveloperTools]: https://github.com/dewiniaid/FactorioModDeveloperTools "dewiniaid/FactorioModDeveloperTools"
 [lingo/factorio-mod-muro]: https://github.com/lingo/factorio-mod-muro "lingo/factorio-mod-muro"
 [CyaNox/Noxys_Deep_Core_Mining_Tweak]: https://github.com/CyaNox/Noxys_Deep_Core_Mining_Tweak "CyaNox/Noxys_Deep_Core_Mining_Tweak"
@@ -328,6 +344,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
 [pavel-krush/pollution-control]:  https://github.com/pavel-krush/pollution-control "pavel-krush/pollution-control"
 [shanemadden/factorio-power-grid-comb]: https://github.com/shanemadden/factorio-power-grid-comb "shanemadden/factorio-power-grid-comb"
+[Jarcionek/Factorio-Quick-Deconstruct]: https://github.com/Jarcionek/Factorio-Quick-Deconstruct "Jarcionek/Factorio-Quick-Deconstruct"
 [jonatkins/RadarGridGuide]: https://github.com/jonatkins/RadarGridGuide "jonatkins/RadarGridGuide"
 [ouk-ouk/Factorio-RealisticOres]: https://github.com/ouk-ouk/Factorio-RealisticOres "ouk-ouk/Factorio-RealisticOres"
 [ouk-ouk/Factorio-RealisticReactorGlow]: https://github.com/ouk-ouk/Factorio-RealisticReactorGlow "ouk-ouk/Factorio-RealisticReactorGlow"
@@ -336,10 +353,12 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [DaveMcW/factorio-bad-chest]: https://github.com/DaveMcW/factorio-bad-chest "DaveMcW/factorio-bad-chest"
 [BJNick/factorio-recycling]: https://github.com/BJNick/factorio-recycling "BJNick/factorio-recycling"
 [Pandemoneus/Resource-Labels]: https://github.com/Pandemoneus/Resource-Labels "Pandemoneus/Resource-Labels"
+[npc-strider/factorio-shortcuts]: https://github.com/npc-strider/factorio-shortcuts "npc-strider/factorio-shortcuts"
 [will-janz/factorio-simple-saplings]: https://github.com/will-janz/factorio-simple-saplings "will-janz/factorio-simple-saplings"
 [Nexela/SmarterBotRecharge]: https://github.com/Nexela/SmarterBotRecharge "Nexela/SmarterBotRecharge"
 [Choumiko/TheFatController]: https://github.com/Choumiko/TheFatController "Choumiko/TheFatController"
 [Klonan/upgrade-planner]: https://github.com/Klonan/upgrade-planner "Klonan/upgrade-planner"
 [sullerandras/UtilizationMonitor]: https://github.com/sullerandras/UtilizationMonitor "sullerandras/UtilizationMonitor"
 [Suprcheese/Vehicle-Wagon]: https://github.com/Suprcheese/Vehicle-Wagon "Suprcheese/Vehicle-Wagon"
+[daydev/FactorioWireShortcuts]: https://github.com/daydev/FactorioWireShortcuts "daydev/FactorioWireShortcuts"
 [narc0tiq/YARM]: https://github.com/narc0tiq/YARM "narc0tiq/YARM"
