@@ -87,6 +87,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Swimming][]									|0.1.1		|					100%|0.1.1		|none
 [Noxys Waterfill][]									|0.1.3		|					100%|0.1.3		|none
 [Nuclear Fuel Cycle][]								|1.0.4		|Included CN		100%|1.0.4		|none
+[Nukes Destroy Cliffs][]							|0.17.1		|Description only	100%|false		|none
 [Orbital Ion Cannon][]								|1.7.2		|					100%|1.6.3		|none
 [Orphan Finder][]									|1.1.1		|					100%|1.1.1		|none
 [OutpostPlanner][]									|1.1.1		|					100%|1.1.1		|none
@@ -226,6 +227,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming
 [Noxys Waterfill]: https://mods.factorio.com/mod/Noxys_Waterfill
 [Nuclear Fuel Cycle]: https://mods.factorio.com/mod/nuclear-fuel-cycle
+[Nukes Destroy Cliffs]: https://mods.factorio.com/mod/nuke-cliffs
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
