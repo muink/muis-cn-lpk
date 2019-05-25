@@ -31,12 +31,14 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator][]									|0.4.2		|Hard-coded text	100%|0.4.2		|none
 [Copy & Paste Modules][]							|1.0.0		|Included CN		100%|1.0.0		|none
 [Creative World][]									|0.2.0		|Description only	100%|0.2.0		|none
+[Deadlock's Larger Lamps][]							|1.2.4		|					100%|false		|none
 [Deadlock's Crating Machineg][]						|1.4.9		|					100%|false		|none
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.1.12		|					100%|1.7.3		|none
 [Deadlock Experimental Stacking][]					|0.17.5		|					100%|false		|none
 [Deadlock-Mod Integrations][]						|2.0.11		|					100%|1.7.3		|none
+[Death Markers][]									|0.2.0		|					100%|false		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
 [Delorean][]										|2.0.1		|					100%|2.0.1		|none
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
@@ -48,6 +50,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Factorissimo2][]									|2.3.3		|					100%|2.3.3		|none
 [Fully Automated Rail Layer][]						|3.1.10		|					100%|2.1.2		|none
 [Far Reach][]										|0.0.11		|					100%|0.0.11		|none
+[Remove Tiles Quickly][]							|0.0.8		|Description only	100%|false		|none
 [Flare Stack][]										|2.2.3		|					100%|2.2.3		|none
 [Four toolbelts][]									|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]							|0.1.4		|					100%|0.1.4		|none
@@ -62,7 +65,9 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
 [Iron Man][]										|1.0.2		|					100%|1.0.2		|none
 [More Inserters + Menu Cleaner][]					|2.0.4		|					100%|1.0.3		|none
+[Lamps on Map][]									|0.0.2		|Description only	100%|false		|none
 [Laser beam turrets][]								|0.2.0		|Description only	100%|0.2.0		|none
+[LD Auto Circuit][]									|0.2.2		|					100%|false		|none
 [Light Cone][]										|0.1.5		|Description only	100%|0.0.1		|none
 [Lightorio][]										|0.17.3		|					099%|false		|none
 [Logistic Status][]									|0.1.1		|Description only	100%|0.1.1		|none
@@ -83,6 +88,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Swimming][]									|0.1.1		|					100%|0.1.1		|none
 [Noxys Waterfill][]									|0.1.3		|					100%|0.1.3		|none
 [Nuclear Fuel Cycle][]								|1.0.4		|Included CN		100%|1.0.4		|none
+[Nukes Destroy Cliffs][]							|0.17.1		|Description only	100%|false		|none
 [Orbital Ion Cannon][]								|1.7.2		|					100%|1.6.3		|none
 [Orphan Finder][]									|1.1.1		|					100%|1.1.1		|none
 [OutpostPlanner][]									|1.1.1		|					100%|1.1.1		|none
@@ -105,6 +111,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Power Isolate][]									|2.0.0		|Hard-coded text	100%|2.0.0		|none
 [Progressive Running (smooth acceleration)][]		|1.0.17		|					100%|1.0.17		|none
 [Pushbutton][]										|0.17.1		|Included CN		100%|0.17.1		|none
+[Quick Deconstruct][]								|1.0.0		|					100%|false		|none
 [Radar Grid Guide][]								|0.17.0		|Hard-coded text	100%|0.17.0		|none
 [Realistic Ores][]									|5.17.2		|Hard-coded text	100%|4.17.3		|none
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
@@ -117,6 +124,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Reverse Factory][]									|6.0.6		|					100%|6.0.4		|none
 [ShinyIcons][]										|0.17.4		|Description only	100%|0.17.4		|none
 [Show Bots On Map][]								|0.0.1		|Description only	100%|0.0.1		|none
+[Shortcuts][]										|0.7.4		|Description only	100%|false		|none
 [Show Me Ores][]									|0.0.1		|Description only	100%|0.0.1		|none
 [Side Inserters][]									|2.3.5		|					100%|2.3.5		|none
 [Simple Saplings][]									|1.1.0		|					100%|1.1.0		|none
@@ -132,6 +140,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Upgrade planner][]									|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
+[Wire Shortcuts][]									|0.2.177	|					100%|false		|none
 [YARM - Resource Monitor][]							|0.8.17		|					100%|0.7.309	|0.7.309
 
 
@@ -166,12 +175,14 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator]: https://mods.factorio.com/mod/controllinator
 [Copy & Paste Modules]: https://mods.factorio.com/mod/CopyAndPasteModules
 [Creative World]: https://mods.factorio.com/mod/CreativeWorld
+[Deadlock's Larger Lamps]: https://mods.factorio.com/mod/DeadlockLargerLamp
 [Deadlock's Crating Machineg]: https://mods.factorio.com/mod/DeadlockCrating
 [Deadlock's Compact Loaders]: https://mods.factorio.com/mod/DeadlockLoaders
 [Deadlock's Stacking Beltboxes]: https://mods.factorio.com/mod/DeadlockStacking
 [Deadlock's Stacking Beltboxes & Compact Loaders]: https://mods.factorio.com/mod/deadlock-beltboxes-loaders
 [Deadlock Experimental Stacking]: https://mods.factorio.com/mod/deadlock-experiments
 [Deadlock-Mod Integrations]: https://mods.factorio.com/mod/deadlock-integrations
+[Death Markers]: https://mods.factorio.com/mod/DeathMarkers
 [Deep core mining]: https://mods.factorio.com/mod/vtk-deep-core-mining
 [Delorean]: https://mods.factorio.com/mod/delorean
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors
@@ -183,6 +194,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Factorissimo2]: https://mods.factorio.com/mod/Factorissimo2
 [Fully Automated Rail Layer]: https://mods.factorio.com/mod/FARL
 [Far Reach]: https://mods.factorio.com/mod/far-reach
+[Remove Tiles Quickly]: https://mods.factorio.com/mod/FastRemoveTiles
 [Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack
 [Four toolbelts]: https://mods.factorio.com/mod/four-toolbelts
 [Stop That, Silly Robot!]: https://mods.factorio.com/mod/folk-stopthat
@@ -197,7 +209,9 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor
 [Iron Man]: https://mods.factorio.com/mod/IronMan
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters
+[Lamps on Map]: https://mods.factorio.com/mod/lampsonmap
 [Laser beam turrets]: https://mods.factorio.com/mod/Laser_Beam_Turrets
+[LD Auto Circuit]: https://mods.factorio.com/mod/LD_AutoCircuit
 [Light Cone]: https://mods.factorio.com/mod/LightCone
 [Lightorio]: https://mods.factorio.com/mod/lightorio
 [Logistic Status]: https://mods.factorio.com/mod/LogisticStatus
@@ -218,6 +232,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Noxys Swimming]: https://mods.factorio.com/mod/Noxys_Swimming
 [Noxys Waterfill]: https://mods.factorio.com/mod/Noxys_Waterfill
 [Nuclear Fuel Cycle]: https://mods.factorio.com/mod/nuclear-fuel-cycle
+[Nukes Destroy Cliffs]: https://mods.factorio.com/mod/nuke-cliffs
 [Orbital Ion Cannon]: https://mods.factorio.com/mod/Orbital%20Ion%20Cannon
 [Orphan Finder]: https://mods.factorio.com/mod/Orphan%20Finder
 [OutpostPlanner]: https://mods.factorio.com/mod/OutpostPlanner
@@ -240,6 +255,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Power Isolate]: https://mods.factorio.com/mod/PowerIsolate
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton
+[Quick Deconstruct]: https://mods.factorio.com/mod/QuickDeconstruct
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres
 [Realistic Reactor Glow]: https://mods.factorio.com/mod/RealisticReactorGlow
@@ -251,6 +267,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Resource Labels]: https://mods.factorio.com/mod/ResourceLabels
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons
+[Shortcuts]: https://mods.factorio.com/mod/Shortcuts
 [Show Bots On Map]: https://mods.factorio.com/mod/ShowBotsOnMap
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters
@@ -267,4 +284,5 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
+[Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM
