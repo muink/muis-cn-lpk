@@ -110,6 +110,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Power Isolate][]									|2.0.0		|Hard-coded text	100%|2.0.0		|none
 [Progressive Running (smooth acceleration)][]		|1.0.17		|					100%|1.0.17		|none
 [Pushbutton][]										|0.17.1		|Included CN		100%|0.17.1		|none
+[Quick Deconstruct][]								|1.0.0		|					100%|false		|none
 [Radar Grid Guide][]								|0.17.0		|Hard-coded text	100%|0.17.0		|none
 [Realistic Ores][]									|5.17.2		|Hard-coded text	100%|4.17.3		|none
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
@@ -250,6 +251,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Power Isolate]: https://mods.factorio.com/mod/PowerIsolate
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton
+[Quick Deconstruct]: https://mods.factorio.com/mod/QuickDeconstruct
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres
 [Realistic Reactor Glow]: https://mods.factorio.com/mod/RealisticReactorGlow
