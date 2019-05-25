@@ -123,6 +123,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Reverse Factory][]									|6.0.6		|					100%|6.0.4		|none
 [ShinyIcons][]										|0.17.4		|Description only	100%|0.17.4		|none
 [Show Bots On Map][]								|0.0.1		|Description only	100%|0.0.1		|none
+[Shortcuts][]										|0.7.4		|Description only	100%|false		|none
 [Show Me Ores][]									|0.0.1		|Description only	100%|0.0.1		|none
 [Side Inserters][]									|2.3.5		|					100%|2.3.5		|none
 [Simple Saplings][]									|1.1.0		|					100%|1.1.0		|none
@@ -263,6 +264,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Resource Labels]: https://mods.factorio.com/mod/ResourceLabels
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons
+[Shortcuts]: https://mods.factorio.com/mod/Shortcuts
 [Show Bots On Map]: https://mods.factorio.com/mod/ShowBotsOnMap
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters

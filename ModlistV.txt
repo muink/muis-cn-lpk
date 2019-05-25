@@ -122,6 +122,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Resource Labels][]									|MIT			|[Github][Pandemoneus/Resource-Labels]						|0.16.10	|					100%|0.16.10	|none		|
 [Reverse Factory][]									|MIT			|[Github][]													|6.0.6		|					100%|6.0.4		|none		|
 [ShinyIcons][]										|MIT			|[Github][]													|0.17.4		|Description only	100%|0.17.4		|none		|
+[Shortcuts][]										|MIT			|[Github][npc-strider/factorio-shortcuts]					|0.7.4		|Description only	100%|false		|none		|
 [Show Bots On Map][]								|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|false
 [Show Me Ores][]									|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|
 [Side Inserters][]									|Unlicense		|[Github][]													|2.3.5		|					100%|2.3.5		|none		|
@@ -263,6 +264,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Resource Labels]: https://mods.factorio.com/mod/ResourceLabels "Pandemoneus"
 [Reverse Factory]: https://mods.factorio.com/mod/reverse-factory "Victor Ros, Kryzeth"
 [ShinyIcons]: https://mods.factorio.com/mod/ShinyIcons "Zombiee"
+[Shortcuts]: https://mods.factorio.com/mod/Shortcuts "npc_strider(morley376)"
 [Show Bots On Map]: https://mods.factorio.com/mod/ShowBotsOnMap "darkfrei"
 [Show Me Ores]: https://mods.factorio.com/mod/ShowMeOres "darkfrei"
 [Side Inserters]: https://mods.factorio.com/mod/Side%20Inserters "GotLag"
@@ -347,6 +349,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [DaveMcW/factorio-bad-chest]: https://github.com/DaveMcW/factorio-bad-chest "DaveMcW/factorio-bad-chest"
 [BJNick/factorio-recycling]: https://github.com/BJNick/factorio-recycling "BJNick/factorio-recycling"
 [Pandemoneus/Resource-Labels]: https://github.com/Pandemoneus/Resource-Labels "Pandemoneus/Resource-Labels"
+[npc-strider/factorio-shortcuts]: https://github.com/npc-strider/factorio-shortcuts "npc-strider/factorio-shortcuts"
 [will-janz/factorio-simple-saplings]: https://github.com/will-janz/factorio-simple-saplings "will-janz/factorio-simple-saplings"
 [Nexela/SmarterBotRecharge]: https://github.com/Nexela/SmarterBotRecharge "Nexela/SmarterBotRecharge"
 [Choumiko/TheFatController]: https://github.com/Choumiko/TheFatController "Choumiko/TheFatController"
