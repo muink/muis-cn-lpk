@@ -139,6 +139,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Upgrade planner][]									|MIT			|[Github][Klonan/upgrade-planner]							|1.5.3		|					100%|1.5.3		|none		|
 [Utilization Monitor][]								|MIT			|[Github][sullerandras/UtilizationMonitor]					|0.5.0		|Hard-coded text	100%|0.5.0		|none		|
 [Vehicle Wagon][]									|MIT			|[Github][Suprcheese/Vehicle-Wagon]							|1.2.5		|					100%|1.2.5		|none		|
+[Wire Shortcuts][]									|MIT			|[Github][daydev/FactorioWireShortcuts]						|0.2.177	|					100%|false		|none		|
 [YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.17		|					100%|0.7.309	|0.7.309	|
 
 
@@ -281,6 +282,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner "Klonan"
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor "Andras Suller"
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon "Supercheese"
+[Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts "daydev"
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM "Octav 'narc' Sandulescu, based on work by drs, jorgenRe, and L0771"
 
 
@@ -356,4 +358,5 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Klonan/upgrade-planner]: https://github.com/Klonan/upgrade-planner "Klonan/upgrade-planner"
 [sullerandras/UtilizationMonitor]: https://github.com/sullerandras/UtilizationMonitor "sullerandras/UtilizationMonitor"
 [Suprcheese/Vehicle-Wagon]: https://github.com/Suprcheese/Vehicle-Wagon "Suprcheese/Vehicle-Wagon"
+[daydev/FactorioWireShortcuts]: https://github.com/daydev/FactorioWireShortcuts "daydev/FactorioWireShortcuts"
 [narc0tiq/YARM]: https://github.com/narc0tiq/YARM "narc0tiq/YARM"

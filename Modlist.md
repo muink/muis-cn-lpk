@@ -139,6 +139,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Upgrade planner][]									|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
+[Wire Shortcuts][]									|0.2.177	|					100%|false		|none
 [YARM - Resource Monitor][]							|0.8.17		|					100%|0.7.309	|0.7.309
 
 
@@ -281,4 +282,5 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
+[Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM
