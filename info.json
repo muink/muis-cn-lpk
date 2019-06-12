@@ -8,7 +8,7 @@
 	"description": "muink's chinese localization lib",
 	"factorio_version":"0.17",
 	"dependencies": [
-		"base >= 0.17.0",
+		"base >= 0.17.38",
 		"? boblocale",
 		"? angelsaddons-newlocales",
 		"? muis-cn-lpk-py",
