@@ -117,7 +117,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
 [RealisticReactors][]								|2.0.2		|					100%|1.0.5		|none
 [Recipe Explorer][]									|0.17.02	|					100%|0.16.13	|none
-[Recursive Blueprints][]							|0.17.4		|					100%|0.17.4		|none
+[Recursive Blueprints][]							|0.17.6		|					100%|0.17.6		|none
 [Recycle Everything][]								|0.3.1		|					100%|0.3.1		|none
 [Research queue][]									|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]									|0.16.10	|					100%|0.16.10	|none

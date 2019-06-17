@@ -117,7 +117,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Realistic Reactor Glow][]							|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]			|1.17.3		|Description only	100%|1.17.3		|none		|
 [RealisticReactors][]								|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]			|2.0.2		|					100%|1.0.5		|none		|
 [Recipe Explorer][]									|MIT			|[Github][ElmarWueest/Recexplo]								|0.17.02	|					100%|0.16.13	|none		|
-[Recursive Blueprints][]							|MIT			|[Github][DaveMcW/factorio-bad-chest]						|0.17.4		|					100%|0.17.4		|none		|
+[Recursive Blueprints][]							|MIT			|[Github][DaveMcW/factorio-bad-chest]						|0.17.6		|					100%|0.17.6		|none		|
 [Recycle Everything][]								|MIT			|[Github][BJNick/factorio-recycling]						|0.3.1		|					100%|0.3.1		|none		|
 [Research queue][]									|MIT			|[Github][]													|1.6.7		|Hard-coded text	100%|1.6.7		|none		|
 [Resource Labels][]									|MIT			|[Github][Pandemoneus/Resource-Labels]						|0.16.10	|					100%|0.16.10	|none		|
