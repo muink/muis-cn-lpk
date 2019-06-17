@@ -102,7 +102,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.2		|					100%|3.0.5		|none		|
 [Picker Vehicles][]									|MIT			|[Github][Nexela/PickerVehicles]							|1.0.1		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|0.1.5		|Hard-coded text	100%|0.1.5		|none		|
-[Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.0.5		|					100%|1.0.2		|none		|
+[Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.1.0		|					100%|1.0.2		|none		|
 [PlannerCore][]										|MIT			|[Github][Ben-Ramchandani/PlannerCore]						|0.2.0		|					100%|0.2.0		|none		|
 [Platforms][]										|MIT			|[Github][]													|19.18.3	|					100%|19.18.3	|none		|
 [Pollution Control][]								|MIT			|[Github][pavel-krush/pollution-control]					|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
