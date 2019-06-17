@@ -97,7 +97,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Picker Belt Tools][]								|1.0.1		|					100%|3.0.5		|none
 [Picker Blueprinter][]								|1.0.3		|					100%|3.0.5		|none
 [Picker Cheats][]									|1.0.0		|					100%|3.0.5		|none
-[Picker Dollies][]									|1.0.2		|					100%|3.0.5		|none
+[Picker Dollies][]									|1.0.3		|					100%|3.0.5		|none
 [Picker Equipment Keys][]							|1.0.1		|					100%|3.0.5		|none
 [Picker Inventory Tools][]							|1.0.0		|					100%|3.0.5		|none
 [Picker Vehicles][]									|1.0.1		|					100%|3.0.5		|none
