@@ -99,7 +99,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Picker Cheats][]									|1.0.0		|					100%|3.0.5		|none
 [Picker Dollies][]									|1.0.3		|					100%|3.0.5		|none
 [Picker Equipment Keys][]							|1.0.1		|					100%|3.0.5		|none
-[Picker Inventory Tools][]							|1.0.0		|					100%|3.0.5		|none
+[Picker Inventory Tools][]							|1.0.2		|					100%|3.0.5		|none
 [Picker Vehicles][]									|1.0.1		|					100%|3.0.5		|none
 [Picker Pipe Tools][]								|0.1.5		|Hard-coded text	100%|0.1.5		|none
 [Picker Tweaks][]									|2.0.5		|					100%|1.0.2		|none
