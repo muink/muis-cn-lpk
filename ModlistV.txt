@@ -18,7 +18,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.2		|Description only	100%|0.17.2		|none		|
 [Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
-[Bio Industries][]									|MIT			|[Github][]													|0.17.21	|					100%|2.7.0		|none		|
+[Bio Industries][]									|MIT			|[Github][]													|0.17.26	|					100%|2.7.0		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
 [Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.10.13	|					100%|0.9.12		|none		|
@@ -121,7 +121,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Recycle Everything][]								|MIT			|[Github][BJNick/factorio-recycling]						|0.3.1		|					100%|0.3.1		|none		|
 [Research queue][]									|MIT			|[Github][]													|1.6.7		|Hard-coded text	100%|1.6.7		|none		|
 [Resource Labels][]									|MIT			|[Github][Pandemoneus/Resource-Labels]						|0.16.10	|					100%|0.16.10	|none		|
-[Reverse Factory][]									|MIT			|[Github][]													|6.0.6		|					100%|6.0.4		|none		|
+[Reverse Factory][]									|MIT			|[Github][]													|6.0.7		|					100%|6.0.4		|none		|
 [ShinyIcons][]										|MIT			|[Github][]													|0.17.4		|Description only	100%|0.17.4		|none		|
 [Shortcuts][]										|MIT			|[Github][npc-strider/factorio-shortcuts]					|0.7.4		|Description only	100%|false		|none		|
 [Show Bots On Map][]								|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|false

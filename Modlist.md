@@ -18,7 +18,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Better Ore Icons][]								|0.17.2		|Description only	100%|0.17.2		|none
 [Blueprintable Trains][]							|0.16.20	|					100%|0.16.20	|none
 [Blueprint Alignment][]								|0.0.5		|Hard-coded text	100%|0.0.5		|none
-[Bio Industries][]									|0.17.21	|					100%|2.7.0		|none
+[Bio Industries][]									|0.17.26	|					100%|2.7.0		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
 [Crafting Combinator][]								|0.10.13	|					100%|0.9.12		|none
@@ -121,7 +121,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Recycle Everything][]								|0.3.1		|					100%|0.3.1		|none
 [Research queue][]									|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]									|0.16.10	|					100%|0.16.10	|none
-[Reverse Factory][]									|6.0.6		|					100%|6.0.4		|none
+[Reverse Factory][]									|6.0.7		|					100%|6.0.4		|none
 [ShinyIcons][]										|0.17.4		|Description only	100%|0.17.4		|none
 [Show Bots On Map][]								|0.0.1		|Description only	100%|0.0.1		|none
 [Shortcuts][]										|0.7.4		|Description only	100%|false		|none
