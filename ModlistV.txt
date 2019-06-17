@@ -93,7 +93,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Orphan Finder][]									|MIT			|[Github][]													|1.1.1		|					100%|1.1.1		|none		|
 [OutpostPlanner][]									|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]					|1.1.1		|					100%|1.1.1		|none		|
 [Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.1		|					100%|false		|none		|
-[Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.5		|					100%|3.0.5		|none		|
+[Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.10		|					100%|3.0.5		|none		|
 [Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.0.1		|					100%|3.0.5		|none		|
 [Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.3		|					100%|3.0.5		|none		|
 [Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.0		|					100%|3.0.5		|none		|
