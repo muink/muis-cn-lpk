@@ -32,7 +32,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Copy & Paste Modules][]							|1.0.0		|Included CN		100%|1.0.0		|none
 [Creative World][]									|0.2.0		|Description only	100%|0.2.0		|none
 [Deadlock's Larger Lamps][]							|1.2.4		|					100%|false		|none
-[Deadlock's Crating Machineg][]						|1.4.9		|					100%|false		|none
+[Deadlock's Crating Machineg][]						|1.5.0		|					100%|false		|none
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.1.12		|					100%|1.7.3		|none

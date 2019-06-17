@@ -32,7 +32,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Copy & Paste Modules][]							|GPLv3			|[Github][]													|1.0.0		|Included CN		100%|1.0.0		|none		|
 [Creative World][]									|MIT			|[Github][]													|0.2.0		|Description only	100%|0.2.0		|none		|
 [Deadlock's Larger Lamps][]							|GPLv3			|[Github][]													|1.2.4		|					100%|false		|none		|
-[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.4.9		|					100%|false		|none		|
+[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.5.0		|					100%|false		|none		|
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.1.12		|					100%|1.7.3		|none		|
