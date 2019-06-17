@@ -56,7 +56,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Stop That, Silly Robot!][]							|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]								|1.0.2		|Description only	100%|1.0.2		|none
 [Fish and Wildlife][]								|0.2.1		|					100%|0.1.11		|none
-[Geothermal][]										|1.17.2		|					100%|1.17.2		|none
+[Geothermal][]										|1.17.12	|					100%|1.17.2		|none
 [Ghost Scanner][]									|1.4.4		|					100%|1.4.3		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.11		|					100%|0.8.11		|none
