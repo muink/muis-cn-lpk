@@ -21,7 +21,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Bio Industries][]									|MIT			|[Github][]													|0.17.26	|					100%|2.7.0		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
-[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.10.13	|					100%|0.9.12		|none		|
+[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.11.0		|					100%|0.9.12		|none		|
 [Cement Shoes][]									|MIT			|[Github][derektom14/factorio_cement_shoes]					|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]									|MIT			|[Github][]													|1.5.2		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]								|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]		|1.7.0		|					100%|1.7.0		|none		|
