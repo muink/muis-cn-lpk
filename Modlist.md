@@ -48,7 +48,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [FactorioLogo][]									|0.3.0		|					100%|0.3.0		|none
 [Unconnected Pipe Finder][]							|1.0.0		|					100%|1.0.0		|none
 [Factorissimo2][]									|2.3.3		|					100%|2.3.3		|none
-[Fully Automated Rail Layer][]						|3.1.10		|					100%|2.1.2		|none
+[Fully Automated Rail Layer][]						|3.1.11		|					100%|2.1.2		|none
 [Far Reach][]										|0.0.11		|					100%|0.0.11		|none
 [Remove Tiles Quickly][]							|0.0.8		|Description only	100%|false		|none
 [Flare Stack][]										|2.2.3		|					100%|2.2.3		|none
