@@ -1,27 +1,27 @@
 Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 :---------------------------------------------------|:---------:|----------------------:|:---------:|------
-[Factorio Standard Library][]						|1.0.4		|Description only	100%|1.0.4		|none
+[Factorio Standard Library][]						|1.1.1		|Description only	100%|1.1.1		|none
 [A Better Start (Quick Start)][]					|0.3.0		|					100%|0.3.0		|none
 [Actual Craft Time][]								|0.3.9		|Hard-coded text	100%|0.3.9		|none
 [Adequate Bot Start][]								|0.16.1		|Description only	100%|0.16.1		|none
 [Advanced Belt Laying][]							|0.16.0		|Description only	100%|0.16.0		|none
-[Alien Biomes][]									|0.4.14		|Hard-coded text	100%|0.3.10		|none
+[Alien Biomes][]									|0.4.15		|Hard-coded text	100%|0.3.10		|none
 [Alien Biomes High-Res Terrain][]					|0.4.1		|Description only	100%|0.4.1		|none
 [Armor Pockets][]									|0.17.4		|					100%|1.0.5		|none
 [Atomic Artillery][]								|0.1.10		|					100%|0.1.10		|none
 [Auto Deconstruct][]								|0.1.12		|					100%|0.1.12		|none
 [Auto Research][]									|5.0.2		|					100%|5.0.2		|none
-[Beautiful Bridge Railway][]						|0.17.2		|					100%|0.17.2		|none
+[Beautiful Bridge Railway][]						|0.17.3		|					100%|0.17.2		|none
 [Automatic Belt Planner][]							|0.12.0		|					100%|0.12.0		|none
 [Belt Reverser][]									|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]								|1.0.0		|					100%|1.0.0		|none
 [Better Ore Icons][]								|0.17.2		|Description only	100%|0.17.2		|none
 [Blueprintable Trains][]							|0.16.20	|					100%|0.16.20	|none
 [Blueprint Alignment][]								|0.0.5		|Hard-coded text	100%|0.0.5		|none
-[Bio Industries][]									|0.17.21	|					100%|2.7.0		|none
+[Bio Industries][]									|0.17.26	|					100%|2.7.0		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
-[Crafting Combinator][]								|0.10.13	|					100%|0.9.12		|none
+[Crafting Combinator][]								|0.11.1		|					100%|0.9.12		|none
 [Cement Shoes][]									|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]									|1.5.2		|					100%|1.4.1		|none
 [Cheaper Landfill][]								|1.7.0		|					100%|1.7.0		|none
@@ -31,33 +31,33 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator][]									|0.4.2		|Hard-coded text	100%|0.4.2		|none
 [Copy & Paste Modules][]							|1.0.0		|Included CN		100%|1.0.0		|none
 [Creative World][]									|0.2.0		|Description only	100%|0.2.0		|none
-[Deadlock's Larger Lamps][]							|1.2.4		|					100%|false		|none
-[Deadlock's Crating Machineg][]						|1.4.9		|					100%|false		|none
+[Deadlock's Larger Lamps][]							|1.2.5		|					100%|false		|none
+[Deadlock's Crating Machineg][]						|1.5.0		|					100%|false		|none
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
-[Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.1.12		|					100%|1.7.3		|none
-[Deadlock Experimental Stacking][]					|0.17.5		|					100%|false		|none
+[Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.2.0		|					100%|1.7.3		|none
+[Deadlock Experimental Stacking][]					|0.17.6		|					100%|false		|none
 [Deadlock-Mod Integrations][]						|2.0.11		|					100%|1.7.3		|none
 [Death Markers][]									|0.2.0		|					100%|false		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
 [Delorean][]										|2.0.1		|					100%|2.0.1		|none
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
 [Entity Symmetry][]									|0.17.1		|					100%|0.17.1		|none
-[Even Distribution][]								|0.3.8		|					100%|0.3.7		|none
+[Even Distribution][]								|0.3.9		|					100%|0.3.7		|none
 [Fire extinguisher][]								|0.17.0		|					100%|0.17.0		|none
 [FactorioLogo][]									|0.3.0		|					100%|0.3.0		|none
 [Unconnected Pipe Finder][]							|1.0.0		|					100%|1.0.0		|none
-[Factorissimo2][]									|2.3.3		|					100%|2.3.3		|none
-[Fully Automated Rail Layer][]						|3.1.10		|					100%|2.1.2		|none
+[Factorissimo2][]									|2.3.4		|					100%|2.3.4		|none
+[Fully Automated Rail Layer][]						|3.1.11		|					100%|2.1.2		|none
 [Far Reach][]										|0.0.11		|					100%|0.0.11		|none
 [Remove Tiles Quickly][]							|0.0.8		|Description only	100%|false		|none
 [Flare Stack][]										|2.2.3		|					100%|2.2.3		|none
 [Four toolbelts][]									|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]							|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]								|1.0.2		|Description only	100%|1.0.2		|none
-[Fish and Wildlife][]								|0.2.1		|					100%|0.1.11		|none
-[Geothermal][]										|1.17.2		|					100%|1.17.2		|none
-[Ghost Scanner][]									|1.4.3		|					100%|1.4.3		|none
+[Fish and Wildlife][]								|0.2.2		|					100%|0.1.11		|none
+[Geothermal][]										|1.17.12	|					100%|1.17.2		|none
+[Ghost Scanner][]									|1.4.4		|					100%|1.4.3		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.11		|					100%|0.8.11		|none
 [Hovercrafts][]										|0.17.13	|					100%|0.0.8		|none
@@ -78,10 +78,10 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Modular Buildings][]								|0.16.5		|Hard-coded text	100%|false		|none
 [More Minimap Autohide][]							|1.0.0		|					100%|1.0.0		|none
 [Muro automatic wall builder][]						|1.0.2		|					100%|1.0.2		|none
-[Mushroom Cloud][]									|1.0.7		|					100%|1.0.5		|none
+[Mushroom Cloud][]									|1.0.8		|					100%|1.0.5		|none
 [Mustard Artillery Shells][]						|1.0.6		|					100%|1.0.6		|none
 [My Tree Mod][]										|1.1.3		|					100%|1.1.3		|none
-[NapalmArtillery][]									|0.17.4		|					100%|0.17.4		|none
+[NapalmArtillery][]									|0.17.5		|					100%|0.17.5		|none
 [Natural Tree Expansion Reloaded][]					|0.17.0		|					100%|0.17.0		|none
 [NiceFill][]										|0.1.14		|					100%|0.1.14		|none
 [Noxys Deep Core Mining Tweak][]					|0.1.1		|					100%|0.1.1		|none
@@ -92,24 +92,24 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Orbital Ion Cannon][]								|1.7.2		|					100%|1.6.3		|none
 [Orphan Finder][]									|1.1.1		|					100%|1.1.1		|none
 [OutpostPlanner][]									|1.1.1		|					100%|1.1.1		|none
-[Picker Atheneum][]									|1.0.1		|					100%|false		|none
-[Picker Extended Version][]							|4.0.5		|					100%|3.0.5		|none
-[Picker Belt Tools][]								|1.0.1		|					100%|3.0.5		|none
-[Picker Blueprinter][]								|1.0.3		|					100%|3.0.5		|none
+[Picker Atheneum][]									|1.0.5		|					100%|false		|none
+[Picker Extended Version][]							|4.0.10		|					100%|3.0.5		|none
+[Picker Belt Tools][]								|1.0.2		|					100%|3.0.5		|none
+[Picker Blueprinter][]								|1.0.6		|					100%|3.0.5		|none
 [Picker Cheats][]									|1.0.0		|					100%|3.0.5		|none
-[Picker Dollies][]									|1.0.2		|					100%|3.0.5		|none
-[Picker Equipment Keys][]							|1.0.1		|					100%|3.0.5		|none
-[Picker Inventory Tools][]							|1.0.0		|					100%|3.0.5		|none
-[Picker Vehicles][]									|1.0.1		|					100%|3.0.5		|none
-[Picker Pipe Tools][]								|0.1.5		|Hard-coded text	100%|0.1.5		|none
-[Picker Tweaks][]									|2.0.5		|					100%|1.0.2		|none
+[Picker Dollies][]									|1.0.3		|					100%|3.0.5		|none
+[Picker Equipment Keys][]							|1.0.3		|					100%|3.0.5		|none
+[Picker Inventory Tools][]							|1.0.2		|					100%|3.0.5		|none
+[Picker Vehicles][]									|1.0.4		|					100%|3.0.5		|none
+[Picker Pipe Tools][]								|1.0.1		|Hard-coded text	100%|0.1.5		|none
+[Picker Tweaks][]									|2.1.0		|					100%|1.0.2		|none
 [PlannerCore][]										|0.2.0		|					100%|0.2.0		|none
 [Platforms][]										|19.18.3	|					100%|19.18.3	|none
 [Pollution Control][]								|1.0.4		|Hard-coded text	100%|1.0.4		|none
 [Pollution detector][]								|0.5.1		|					100%|0.4.0		|none
 [Power Grid Comb][]									|0.17.3		|					100%|0.17.3		|none
 [Power Isolate][]									|2.0.0		|Hard-coded text	100%|2.0.0		|none
-[Progressive Running (smooth acceleration)][]		|1.0.17		|					100%|1.0.17		|none
+[Progressive Running (smooth acceleration)][]		|1.0.18		|					100%|1.0.18		|none
 [Pushbutton][]										|0.17.1		|Included CN		100%|0.17.1		|none
 [Quick Deconstruct][]								|1.0.0		|					100%|false		|none
 [Radar Grid Guide][]								|0.17.0		|Hard-coded text	100%|0.17.0		|none
@@ -117,11 +117,11 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
 [RealisticReactors][]								|2.0.2		|					100%|1.0.5		|none
 [Recipe Explorer][]									|0.17.02	|					100%|0.16.13	|none
-[Recursive Blueprints][]							|0.17.4		|					100%|0.17.4		|none
+[Recursive Blueprints][]							|0.17.6		|					100%|0.17.6		|none
 [Recycle Everything][]								|0.3.1		|					100%|0.3.1		|none
 [Research queue][]									|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]									|0.16.10	|					100%|0.16.10	|none
-[Reverse Factory][]									|6.0.6		|					100%|6.0.4		|none
+[Reverse Factory][]									|6.0.9		|					100%|6.0.4		|none
 [ShinyIcons][]										|0.17.4		|Description only	100%|0.17.4		|none
 [Show Bots On Map][]								|0.0.1		|Description only	100%|0.0.1		|none
 [Shortcuts][]										|0.7.4		|Description only	100%|false		|none
@@ -133,15 +133,15 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Stone Water Well][]								|1.17.0		|					100%|1.17.0		|none
 [Test Site][]										|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]										|0.4.6		|					100%|0.4.1		|none
-[The Fat Controller][]								|4.0.10		|					100%|4.0.10		|none
+[The Fat Controller][]								|4.0.12		|					100%|4.0.12		|none
 [Time Tools (+game speed +clock combinators)][]		|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]									|0.5.1		|Description only	100%|0.5.1		|none
 [Underground Indicators][]							|1.1.0		|					100%|1.1.0		|none
 [Upgrade planner][]									|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
-[Wire Shortcuts][]									|0.2.177	|					100%|false		|none
-[YARM - Resource Monitor][]							|0.8.17		|					100%|0.7.309	|0.7.309
+[Wire Shortcuts][]									|0.2.178	|					100%|false		|none
+[YARM - Resource Monitor][]							|0.8.18		|					100%|0.7.309	|0.7.309
 
 
 [Factorio Standard Library]: https://mods.factorio.com/mod/stdlib
