@@ -136,7 +136,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Time Tools (+game speed +clock combinators)][]		|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]									|0.5.1		|Description only	100%|0.5.1		|none
 [Underground Indicators][]							|1.1.0		|					100%|1.1.0		|none
-[Upgrade planner][]									|1.5.3		|					100%|1.5.3		|none
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
 [Wire Shortcuts][]									|0.2.178	|					100%|false		|none
@@ -279,7 +278,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Time Tools (+game speed +clock combinators)]: https://mods.factorio.com/mod/TimeTools
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators
-[Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
 [Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts

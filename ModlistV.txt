@@ -136,7 +136,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Time Tools (+game speed +clock combinators)][]		|MIT			|[Github][]													|1.0.36		|					100%|1.0.31		|none		|
 [Tree Collision][]									|MIT			|[Github][]													|0.5.1		|Description only	100%|0.5.1		|none		|
 [Underground Indicators][]							|MIT			|[Github][]													|1.1.0		|					100%|1.1.0		|none		|
-[Upgrade planner][]									|MIT			|[Github][Klonan/upgrade-planner]							|1.5.3		|					100%|1.5.3		|none		|
 [Utilization Monitor][]								|MIT			|[Github][sullerandras/UtilizationMonitor]					|0.5.0		|Hard-coded text	100%|0.5.0		|none		|
 [Vehicle Wagon][]									|MIT			|[Github][Suprcheese/Vehicle-Wagon]							|1.2.5		|					100%|1.2.5		|none		|
 [Wire Shortcuts][]									|MIT			|[Github][daydev/FactorioWireShortcuts]						|0.2.178	|					100%|false		|none		|
@@ -279,7 +278,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Time Tools (+game speed +clock combinators)]: https://mods.factorio.com/mod/TimeTools "BinbinHfr"
 [Tree Collision]: https://mods.factorio.com/mod/tree_collision "skomick"
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators "Raeon"
-[Upgrade planner]: https://mods.factorio.com/mod/upgrade-planner "Klonan"
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor "Andras Suller"
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon "Supercheese"
 [Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts "daydev"
@@ -355,7 +353,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [will-janz/factorio-simple-saplings]: https://github.com/will-janz/factorio-simple-saplings "will-janz/factorio-simple-saplings"
 [Nexela/SmarterBotRecharge]: https://github.com/Nexela/SmarterBotRecharge "Nexela/SmarterBotRecharge"
 [Choumiko/TheFatController]: https://github.com/Choumiko/TheFatController "Choumiko/TheFatController"
-[Klonan/upgrade-planner]: https://github.com/Klonan/upgrade-planner "Klonan/upgrade-planner"
 [sullerandras/UtilizationMonitor]: https://github.com/sullerandras/UtilizationMonitor "sullerandras/UtilizationMonitor"
 [Suprcheese/Vehicle-Wagon]: https://github.com/Suprcheese/Vehicle-Wagon "Suprcheese/Vehicle-Wagon"
 [daydev/FactorioWireShortcuts]: https://github.com/daydev/FactorioWireShortcuts "daydev/FactorioWireShortcuts"
