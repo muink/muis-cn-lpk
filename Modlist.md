@@ -25,7 +25,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Cement Shoes][]									|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]									|1.5.2		|					100%|1.4.1		|none
 [Cheaper Landfill][]								|1.7.0		|					100%|1.7.0		|none
-[Cliff Deconstruct][]								|0.1.0		|					100%|0.1.0		|none
 [Little Fluffy Clouds][]							|1.0.0		|Description only	100%|1.0.0		|none
 [Cnc's Sulfur Mod][]								|1.0.9		|					100%|1.0.9		|none
 [Controllinator][]									|0.4.2		|Hard-coded text	100%|0.4.2		|none
@@ -169,7 +168,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Cement Shoes]: https://mods.factorio.com/mod/Cement%20Shoes
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret
 [Cheaper Landfill]: https://mods.factorio.com/mod/cheaper_landfill
-[Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod
 [Controllinator]: https://mods.factorio.com/mod/controllinator

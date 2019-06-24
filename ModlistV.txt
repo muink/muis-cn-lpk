@@ -25,7 +25,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Cement Shoes][]									|MIT			|[Github][derektom14/factorio_cement_shoes]					|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]									|MIT			|[Github][]													|1.5.2		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]								|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]		|1.7.0		|					100%|1.7.0		|none		|
-[Cliff Deconstruct][]								|MIT			|[Github][]													|0.1.0		|					100%|0.1.0		|none		|
 [Little Fluffy Clouds][]							|MIT			|[Github][]													|1.0.0		|Description only	100%|1.0.0		|none		|
 [Cnc's Sulfur Mod][]								|MPL-2.0		|[Github][]													|1.0.9		|					100%|1.0.9		|none		|
 [Controllinator][]									|ISC			|[Github][Aidiakapi/controllinator]							|0.4.2		|Hard-coded text	100%|0.4.2		|none		|
@@ -169,7 +168,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Cement Shoes]: https://mods.factorio.com/mod/Cement%20Shoes "EntropySpark"
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret "VortiK"
 [Cheaper Landfill]: https://mods.factorio.com/mod/cheaper_landfill "MarcGamesons and GitHub Contributors"
-[Cliff Deconstruct]: https://mods.factorio.com/mod/CliffDeconstruct "bob809, smcpeak"
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod "Ruuttu"
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod "cncr04s"
 [Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
