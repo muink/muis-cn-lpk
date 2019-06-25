@@ -25,6 +25,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Cement Shoes][]									|MIT			|[Github][derektom14/factorio_cement_shoes]					|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]									|MIT			|[Github][]													|1.5.2		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]								|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]		|1.7.0		|					100%|1.7.0		|none		|
+[Closest First][]									|Unlicense		|[Github][audun/factorio-closestfirst]						|0.17.3		|					100%|false		|none		|
 [Little Fluffy Clouds][]							|MIT			|[Github][]													|1.0.0		|Description only	100%|1.0.0		|none		|
 [Cnc's Sulfur Mod][]								|MPL-2.0		|[Github][]													|1.0.9		|					100%|1.0.9		|none		|
 [Controllinator][]									|ISC			|[Github][Aidiakapi/controllinator]							|0.4.2		|Hard-coded text	100%|0.4.2		|none		|
@@ -167,6 +168,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Cement Shoes]: https://mods.factorio.com/mod/Cement%20Shoes "EntropySpark"
 [Cannon Turret]: https://mods.factorio.com/mod/vtk-cannon-turret "VortiK"
 [Cheaper Landfill]: https://mods.factorio.com/mod/cheaper_landfill "MarcGamesons and GitHub Contributors"
+[Closest First]: https://mods.factorio.com/mod/ClosestFirst "_italics_"
 [Little Fluffy Clouds]: https://mods.factorio.com/mod/clouds-mod "Ruuttu"
 [Cnc's Sulfur Mod]: https://mods.factorio.com/mod/cncs_Sulfur_Mod "cncr04s"
 [Controllinator]: https://mods.factorio.com/mod/controllinator "Aidiakapi"
@@ -296,6 +298,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [theRustyKnife/CraftingCombinator]: https://github.com/theRustyKnife/CraftingCombinator "theRustyKnife/CraftingCombinator"
 [derektom14/factorio_cement_shoes]: https://github.com/derektom14/factorio_cement_shoes "derektom14/factorio_cement_shoes"
 [MarcGamesons/factoriomod-cheaper-landfill]: https://github.com/MarcGamesons/factoriomod-cheaper-landfill "MarcGamesons/factoriomod-cheaper-landfill"
+[audun/factorio-closestfirst]: https://github.com/audun/factorio-closestfirst "audun/factorio-closestfirst"
 [Aidiakapi/controllinator]: https://github.com/Aidiakapi/controllinator "Aidiakapi/controllinator"
 [shanemadden/factorio-deadlock-crating]: https://github.com/shanemadden/factorio-deadlock-crating "shanemadden/factorio-deadlock-crating"
 [shanemadden/factorio-deadlock-beltboxes-loaders]: https://github.com/shanemadden/factorio-deadlock-beltboxes-loaders "shanemadden/factorio-deadlock-beltboxes-loaders"
