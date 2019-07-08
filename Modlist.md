@@ -94,7 +94,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [OutpostPlanner][]									|1.1.1		|					100%|1.1.1		|none
 [Picker Atheneum][]									|1.0.5		|					100%|false		|none
 [Picker Extended Version][]							|4.0.10		|					100%|3.0.5		|none
-[Picker Belt Tools][]								|1.0.2		|					100%|3.0.5		|none
+[Picker Belt Tools][]								|1.1.3		|					100%|3.0.5		|none
 [Picker Blueprinter][]								|1.0.6		|					100%|3.0.5		|none
 [Picker Cheats][]									|1.0.0		|					100%|3.0.5		|none
 [Picker Dollies][]									|1.0.3		|					100%|3.0.5		|none
