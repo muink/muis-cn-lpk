@@ -21,7 +21,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Bio Industries][]									|0.17.26	|					100%|2.7.0		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
-[Crafting Combinator][]								|0.11.1		|					100%|0.9.12		|none
+[Crafting Combinator][]								|0.11.2		|					100%|0.9.12		|none
 [Cement Shoes][]									|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]									|1.5.2		|					100%|1.4.1		|none
 [Cheaper Landfill][]								|1.7.0		|					100%|1.7.0		|none
