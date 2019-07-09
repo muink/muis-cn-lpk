@@ -61,7 +61,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.12		|					100%|0.8.12		|none
 [Hovercrafts][]										|0.17.15	|					100%|0.0.8		|none
-[Inlaid Lamps][]									|0.1.1		|					100%|0.1.1		|none
+[Inlaid Lamps Extended][]							|0.1.4		|					100%|0.1.1		|none
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
 [Iron Man][]										|1.0.2		|					100%|1.0.2		|none
 [More Inserters + Menu Cleaner][]					|2.0.4		|					100%|1.0.3		|none
@@ -205,7 +205,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod
 [Hovercrafts]: https://mods.factorio.com/mod/Hovercrafts
-[Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps
+[Inlaid Lamps Extended]: https://mods.factorio.com/mod/InlaidLampsExtended
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor
 [Iron Man]: https://mods.factorio.com/mod/IronMan
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters

@@ -61,7 +61,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Hand Crank][]										|MIT			|[Github][qix-/factorio-hand-crank]							|0.1.0		|					100%|0.1.0		|none		|
 [Helmod: assistant for planning your base.][]		|MIT			|[Github][Helfima/helmod]									|0.8.12		|					100%|0.8.12		|none		|
 [Hovercrafts][]										|CC-BY-SA 4.0	|[Github][]													|0.17.15	|					100%|0.0.8		|none		|
-[Inlaid Lamps][]									|MIT			|[Github][]													|0.1.1		|					100%|0.1.1		|none		|
+[Inlaid Lamps Extended][]							|MIT			|[Github][]													|0.1.4		|					100%|0.1.1		|none		|
 [Inventory Sensor][]								|Non-standard	|[Github][Yousei9/Inventory-Sensor]							|1.7.3		|					100%|1.7.3		|none		|
 [Iron Man][]										|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
 [More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.0.4		|					100%|1.0.3		|none		|
@@ -205,7 +205,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank "Josh Junon"
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod "Helfima"
 [Hovercrafts]: https://mods.factorio.com/mod/Hovercrafts "Arcani_Victus"
-[Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps "Kitsunekaze93"
+[Inlaid Lamps Extended]: https://mods.factorio.com/mod/InlaidLampsExtended "Mathematician"
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor "Optera"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
