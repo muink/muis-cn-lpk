@@ -44,6 +44,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Enhanced Map Colors][]								|1.4.9		|Hard-coded text	100%|1.4.9		|none
 [Entity Symmetry][]									|0.17.1		|					100%|0.17.1		|none
 [Even Distribution][]								|0.3.9		|					100%|0.3.7		|none
+[Expanded Color Lamps][]							|0.1.4		|					100%|false		|none
 [Fire extinguisher][]								|0.17.0		|					100%|0.17.0		|none
 [FactorioLogo][]									|0.3.0		|					100%|0.3.0		|none
 [Unconnected Pipe Finder][]							|1.0.0		|					100%|1.0.0		|none
@@ -187,6 +188,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Enhanced Map Colors]: https://mods.factorio.com/mod/Enhanced_Map_Colors
 [Entity Symmetry]: https://mods.factorio.com/mod/entity-symmetry
 [Even Distribution]: https://mods.factorio.com/mod/even-distribution
+[Expanded Color Lamps]: https://mods.factorio.com/mod/Expanded_Color_Lamps
 [Fire extinguisher]: https://mods.factorio.com/mod/extinguisher
 [FactorioLogo]: https://mods.factorio.com/mod/FactorioLogo
 [Unconnected Pipe Finder]: https://mods.factorio.com/mod/factorio-unconnected-pipe-finder
