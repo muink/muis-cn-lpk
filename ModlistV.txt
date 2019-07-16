@@ -141,6 +141,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Underground Indicators][]							|MIT			|[Github][]													|1.1.0		|					100%|1.1.0		|none		|
 [Utilization Monitor][]								|MIT			|[Github][sullerandras/UtilizationMonitor]					|0.5.0		|Hard-coded text	100%|0.5.0		|none		|
 [Vehicle Wagon][]									|MIT			|[Github][Suprcheese/Vehicle-Wagon]							|1.2.5		|					100%|1.2.5		|none		|
+[Wagon Colors][]									|LGPLv3			|[Github][]													|0.1.1		|					100%|false		|none		|
 [Wire Shortcuts][]									|MIT			|[Github][daydev/FactorioWireShortcuts]						|0.2.178	|					100%|false		|none		|
 [YARM - Resource Monitor][]							|MIT			|[Github][narc0tiq/YARM]									|0.8.18		|					100%|0.7.309	|0.7.309	|
 
@@ -286,6 +287,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators "Raeon"
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor "Andras Suller"
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon "Supercheese"
+[Wagon Colors]: https://mods.factorio.com/mod/WagonColors "Optera"
 [Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts "daydev"
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM "Octav 'narc' Sandulescu, based on work by drs, jorgenRe, and L0771"
 

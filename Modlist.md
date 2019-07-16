@@ -141,6 +141,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Underground Indicators][]							|1.1.0		|					100%|1.1.0		|none
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
+[Wagon Colors][]									|0.1.1		|					100%|false		|none
 [Wire Shortcuts][]									|0.2.178	|					100%|false		|none
 [YARM - Resource Monitor][]							|0.8.18		|					100%|0.7.309	|0.7.309
 
@@ -286,5 +287,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Underground Indicators]: https://mods.factorio.com/mod/Underground%20Indicators
 [Utilization Monitor]: https://mods.factorio.com/mod/UtilizationMonitor
 [Vehicle Wagon]: https://mods.factorio.com/mod/Vehicle%20Wagon
+[Wagon Colors]: https://mods.factorio.com/mod/WagonColors
 [Wire Shortcuts]: https://mods.factorio.com/mod/WireShortcuts
 [YARM - Resource Monitor]: https://mods.factorio.com/mod/YARM
