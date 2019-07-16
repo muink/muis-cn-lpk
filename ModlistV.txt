@@ -112,6 +112,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Power Isolate][]									|MIT			|[Github][]													|2.0.0		|Hard-coded text	100%|2.0.0		|none		|
 [Progressive Running (smooth acceleration)][]		|N/A			|[Github][]													|1.0.18		|					100%|1.0.18		|none		|
 [Pushbutton][]										|MIT			|[Github][]													|0.17.1		|Included CN		100%|0.17.1		|none		|
+[QuickBar Import/Export][]							|MIT			|[Github][ClaudeMetz/QuickBarImportExport]					|0.17.6		|					100%|false		|none		|
 [Quick Deconstruct][]								|MIT			|[Github][Jarcionek/Factorio-Quick-Deconstruct]				|1.0.0		|					100%|false		|none		|
 [Radar Grid Guide][]								|MIT			|[Github][jonatkins/RadarGridGuide]							|0.17.0		|Hard-coded text	100%|0.17.0		|none		|
 [Realistic Ores][]									|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]					|5.17.2		|Hard-coded text	100%|4.17.3		|none		|
@@ -256,6 +257,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Power Isolate]: https://mods.factorio.com/mod/PowerIsolate "thelordodin"
 [Progressive Running (smooth acceleration)]: https://mods.factorio.com/mod/ProgressiveRunning "BinbinHfr"
 [Pushbutton]: https://mods.factorio.com/mod/pushbutton "justarandomgeek"
+[QuickBar Import/Export]: https://mods.factorio.com/mod/quickbarimportexport "Therenas"
 [Quick Deconstruct]: https://mods.factorio.com/mod/QuickDeconstruct "Jarcionek"
 [Radar Grid Guide]: https://mods.factorio.com/mod/RadarGridGuide "jonatkins"
 [Realistic Ores]: https://mods.factorio.com/mod/RealisticOres "<NO_NAME> & DeTNTonator"
@@ -345,6 +347,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Nexela/PickerTweaks]: https://github.com/Nexela/PickerTweaks "Nexela/PickerTweaks"
 [pavel-krush/pollution-control]:  https://github.com/pavel-krush/pollution-control "pavel-krush/pollution-control"
 [shanemadden/factorio-power-grid-comb]: https://github.com/shanemadden/factorio-power-grid-comb "shanemadden/factorio-power-grid-comb"
+[ClaudeMetz/QuickBarImportExport]: https://github.com/ClaudeMetz/QuickBarImportExport "ClaudeMetz/QuickBarImportExport"
 [Jarcionek/Factorio-Quick-Deconstruct]: https://github.com/Jarcionek/Factorio-Quick-Deconstruct "Jarcionek/Factorio-Quick-Deconstruct"
 [jonatkins/RadarGridGuide]: https://github.com/jonatkins/RadarGridGuide "jonatkins/RadarGridGuide"
 [ouk-ouk/Factorio-RealisticOres]: https://github.com/ouk-ouk/Factorio-RealisticOres "ouk-ouk/Factorio-RealisticOres"
