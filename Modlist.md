@@ -121,7 +121,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Recycle Everything][]								|0.3.1		|					100%|0.3.1		|none
 [Research queue][]									|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]									|0.16.10	|					100%|0.16.10	|none
-[Reverse Factory][]									|6.0.9		|					100%|6.0.4		|none
+[Reverse Factory][]									|6.1.3		|					100%|6.0.4		|none
 [ShinyIcons][]										|0.17.4		|Description only	100%|0.17.4		|none
 [Show Bots On Map][]								|0.0.1		|Description only	100%|0.0.1		|none
 [Shortcuts][]										|0.7.4		|Description only	100%|false		|none
