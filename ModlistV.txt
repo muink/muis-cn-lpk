@@ -17,7 +17,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Belt Reverser][]									|MIT			|[Github][Cogito/belt-reverser]								|0.0.5		|					100%|0.0.5		|none		|
 [Better Inserters][]								|Non-standard	|[Github][]													|1.0.0		|					100%|1.0.0		|none		|
 [Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.2		|Description only	100%|0.17.2		|none		|
-[Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
 [Bio Industries][]									|MIT			|[Github][]													|0.17.31	|					100%|2.7.0		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
@@ -164,7 +163,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser "Cogito"
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters "DiegoPro77"
 [Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons "GeekinaCave"
-[Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train "DaveMcW"
 [Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment "steffenk"
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries "TheSAguy"
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck "Troels Bjerre Lund"
@@ -300,7 +298,6 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [canidae/factorio]: https://github.com/canidae/factorio "canidae/factorio"
 [Cogito/belt-reverser]: https://github.com/Cogito/belt-reverser "Cogito/belt-reverser"
 [GeekinaCave/better_ore_icons]: https://github.com/GeekinaCave/better_ore_icons "GeekinaCave/better_ore_icons"
-[DaveMcW/blueprint-train]: https://github.com/DaveMcW/blueprint-train "DaveMcW/blueprint-train"
 [steffen-kiess/factorio-BlueprintAlignment]: https://github.com/steffen-kiess/factorio-BlueprintAlignment "steffen-kiess/factorio-BlueprintAlignment"
 [troelsbjerre/Bottleneck]: https://github.com/troelsbjerre/Bottleneck "troelsbjerre/Bottleneck"
 [theRustyKnife/CraftingCombinator]: https://github.com/theRustyKnife/CraftingCombinator "theRustyKnife/CraftingCombinator"
