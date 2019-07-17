@@ -1,4 +1,25 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.9
+Date: 17. 07. 2019
+  Changes:
+    - 添加 Inlaid Lamps Extended 并更新到 0.1.4
+    - 更新 Reverse Factory 到 6.1.3
+    - 更新 Hovercrafts 到 0.17.15
+    - 更新 Picker Belt Tools  到 1.1.3
+    - 更新 Nukes Destroy Cliffs  到 0.17.2
+    - 更新 Crafting Combinator 到 0.11.2
+    - 调整 Nukes Destroy Cliffs
+  Adds:
+    - 添加 Automatic Train Painter
+    - 添加 Wagon Colors
+    - 添加 QuickBar Import/Export
+    - 添加 Expanded Color Lamps
+    - 添加 Closest First
+    - 添加 Glowing Laser beams
+    - 移除 Laser beam turrets
+    - 移除 Upgrade planner
+    - 移除 Cliff Deconstruct
+---------------------------------------------------------------------------------------------------
 Version: 2.1.8
 Date: 22. 06. 2019
   Changes:
