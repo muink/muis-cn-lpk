@@ -13,6 +13,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Auto Research][]									|5.0.2		|					100%|5.0.2		|none
 [Beautiful Bridge Railway][]						|0.17.3		|					100%|0.17.2		|none
 [Automatic Belt Planner][]							|0.12.0		|					100%|0.12.0		|none
+[Automatic Train Painter][]							|0.2.9		|					100%|false		|none
 [Belt Reverser][]									|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]								|1.0.0		|					100%|1.0.0		|none
 [Better Ore Icons][]								|0.17.2		|Description only	100%|0.17.2		|none
@@ -159,6 +160,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Auto Research]: https://mods.factorio.com/mod/auto-research
 [Beautiful Bridge Railway]: https://mods.factorio.com/mod/beautiful_bridge_railway
 [Automatic Belt Planner]: https://mods.factorio.com/mod/beltplanner
+[Automatic Train Painter]: https://mods.factorio.com/mod/Automatic_Train_Painter
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters
 [Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons
