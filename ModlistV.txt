@@ -1,6 +1,6 @@
 Mod name											|License		|Source code												|ZH version	|Completion rate		|Verified	|Pushed		|on_tick
 :---------------------------------------------------|:-------------:|:----------------------------------------------------------|:---------:|----------------------:|:---------:|-----------|-------
-[Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.1.1		|Description only	100%|1.1.1		|none		|
+[Factorio Standard Library][]						|MIT			|[Github][Afforess/Factorio-Stdlib]							|1.2.1		|Description only	100%|1.2.1		|none		|
 [A Better Start (Quick Start)][]					|MIT			|[Github][]													|0.3.0		|					100%|0.3.0		|none		|
 [Actual Craft Time][]								|MIT			|[Github][]													|0.3.9		|Hard-coded text	100%|0.3.9		|none		|
 [Adequate Bot Start][]								|MIT			|[Github][dtandersen/AdequateBotStart]						|0.16.1		|Description only	100%|0.16.1		|none		|
@@ -8,7 +8,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Alien Biomes][]									|N/A			|[Github][]													|0.4.15		|Hard-coded text	100%|0.3.10		|none		|
 [Alien Biomes High-Res Terrain][]					|N/A			|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
 [Armor Pockets][]									|MIT			|[Github][]													|0.17.4		|					100%|1.0.5		|none		|
-[Atomic Artillery][]								|MIT			|[Github][sirdoombox/AtomicArtillery]						|0.1.10		|					100%|0.1.10		|none		|
+[Atomic Artillery][]								|MIT			|[Github][sirdoombox/AtomicArtillery]						|0.1.11		|					100%|0.1.11		|none		|
 [Auto Deconstruct][]								|MIT			|[Github][]													|0.1.12		|					100%|0.1.12		|none		|
 [Auto Research][]									|MIT			|[Github][canidae/factorio]									|5.0.2		|					100%|5.0.2		|none		|
 [Beautiful Bridge Railway][]						|MIT			|[Github][]													|0.17.3		|					100%|0.17.2		|none		|
@@ -18,10 +18,10 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Better Ore Icons][]								|MIT			|[Github][GeekinaCave/better_ore_icons]						|0.17.2		|Description only	100%|0.17.2		|none		|
 [Blueprintable Trains][]							|MIT			|[Github][DaveMcW/blueprint-train]							|0.16.20	|					100%|0.16.20	|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|
-[Bio Industries][]									|MIT			|[Github][]													|0.17.26	|					100%|2.7.0		|none		|
+[Bio Industries][]									|MIT			|[Github][]													|0.17.28	|					100%|2.7.0		|none		|
 [Bottleneck][]										|MIT			|[Github][troelsbjerre/Bottleneck]							|0.10.4		|					100%|0.10.4		|none		|
 [Bullet Trails][]									|Non-standard	|[Github][]													|0.4.1		|Description only	100%|0.4.1		|none		|
-[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.11.1		|					100%|0.9.12		|none		|
+[Crafting Combinator][]								|MIT			|[Github][theRustyKnife/CraftingCombinator]					|0.11.2		|					100%|0.9.12		|none		|
 [Cement Shoes][]									|MIT			|[Github][derektom14/factorio_cement_shoes]					|0.1.1		|					100%|0.1.1		|none		|
 [Cannon Turret][]									|MIT			|[Github][]													|1.5.2		|					100%|1.4.1		|none		|
 [Cheaper Landfill][]								|MIT			|[Github][MarcGamesons/factoriomod-cheaper-landfill]		|1.7.0		|					100%|1.7.0		|none		|
@@ -32,7 +32,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Copy & Paste Modules][]							|GPLv3			|[Github][]													|1.0.0		|Included CN		100%|1.0.0		|none		|
 [Creative World][]									|MIT			|[Github][]													|0.2.0		|Description only	100%|0.2.0		|none		|
 [Deadlock's Larger Lamps][]							|GPLv3			|[Github][]													|1.2.5		|					100%|false		|none		|
-[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.5.0		|					100%|false		|none		|
+[Deadlock's Crating Machineg][]						|GPLv3			|[Github][shanemadden/factorio-deadlock-crating]			|1.5.1		|					100%|false		|none		|
 [Deadlock's Compact Loaders][]						|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.0		|none		|
 [Deadlock's Stacking Beltboxes][]					|GPLv3			|[Github][]													|1.7.3		|					100%|1.6.3		|none		|
 [Deadlock's Stacking Beltboxes & Compact Loaders][]	|GPLv3			|[Github][shanemadden/factorio-deadlock-beltboxes-loaders]	|2.2.0		|					100%|1.7.3		|none		|
@@ -55,13 +55,13 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Four toolbelts][]									|MIT			|[Github][]													|0.16.1		|Description only	100%|0.16.1		|none		|
 [Stop That, Silly Robot!][]							|CC-BY-NC 4.0	|[Github][folknor/factorio-stopthat]						|0.1.4		|					100%|0.1.4		|none		|
 [Free circuit wires][]								|Unlicense		|[Github][]													|1.0.2		|Description only	100%|1.0.2		|none		|
-[Fish and Wildlife][]								|GPLv3			|[Github][]													|0.2.2		|					100%|0.1.11		|none		|
+[Fish and Wildlife][]								|GPLv3			|[Github][]													|0.2.3		|					100%|0.1.11		|none		|
 [Geothermal][]										|Non-standard	|[Github][ReikaKalseki/Geothermal]							|1.17.12	|					100%|1.17.2		|none		|
 [Ghost Scanner][]									|MIT			|[Github][Yousei9/GhostScanner]								|1.4.4		|					100%|1.4.3		|none		|
 [Hand Crank][]										|MIT			|[Github][qix-/factorio-hand-crank]							|0.1.0		|					100%|0.1.0		|none		|
-[Helmod: assistant for planning your base.][]		|MIT			|[Github][Helfima/helmod]									|0.8.11		|					100%|0.8.11		|none		|
-[Hovercrafts][]										|CC-BY-SA 4.0	|[Github][]													|0.17.13	|					100%|0.0.8		|none		|
-[Inlaid Lamps][]									|MIT			|[Github][]													|0.1.1		|					100%|0.1.1		|none		|
+[Helmod: assistant for planning your base.][]		|MIT			|[Github][Helfima/helmod]									|0.8.12		|					100%|0.8.12		|none		|
+[Hovercrafts][]										|CC-BY-SA 4.0	|[Github][]													|0.17.15	|					100%|0.0.8		|none		|
+[Inlaid Lamps Extended][]							|MIT			|[Github][]													|0.1.4		|					100%|0.1.1		|none		|
 [Inventory Sensor][]								|Non-standard	|[Github][Yousei9/Inventory-Sensor]							|1.7.3		|					100%|1.7.3		|none		|
 [Iron Man][]										|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
 [More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.0.4		|					100%|1.0.3		|none		|
@@ -83,27 +83,27 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [My Tree Mod][]										|MIT			|[Github][]													|1.1.3		|					100%|1.1.3		|none		|
 [NapalmArtillery][]									|MIT			|[Github][]													|0.17.5		|					100%|0.17.5		|none		|
 [Natural Tree Expansion Reloaded][]					|MIT			|[Github][]													|0.17.0		|					100%|0.17.0		|none		|
-[NiceFill][]										|MIT			|[Github][]													|0.1.14		|					100%|0.1.14		|none		|
+[NiceFill][]										|MIT			|[Github][]													|0.1.16		|					100%|0.1.16		|none		|
 [Noxys Deep Core Mining Tweak][]					|Unlicense		|[Github][CyaNox/Noxys_Deep_Core_Mining_Tweak]				|0.1.1		|					100%|0.1.1		|none		|
-[Noxys Swimming][]									|Unlicense		|[Github][CyaNox/Noxys_Swimming]							|0.1.1		|					100%|0.1.1		|none		|
+[Noxys Swimming][]									|Unlicense		|[Github][CyaNox/Noxys_Swimming]							|0.1.2		|					100%|0.1.2		|none		|
 [Noxys Waterfill][]									|Unlicense		|[Github][CyaNox/Noxys_Waterfill]							|0.1.3		|					100%|0.1.3		|none		|
 [Nuclear Fuel Cycle][]								|MIT			|[Github][muink/nuclear-fuel-cycle]							|1.0.4		|Included CN		100%|1.0.4		|none		|
-[Nukes Destroy Cliffs][]							|MIT			|[Github][]													|0.17.1		|Description only	100%|false		|none		|
+[Nukes Destroy Cliffs][]							|MIT			|[Github][]													|0.17.2		|					100%|false		|none		|
 [Orbital Ion Cannon][]								|MIT			|[Github][Suprcheese/Orbital-Ion-Cannon]					|1.7.2		|					100%|1.6.3		|none		|
 [Orphan Finder][]									|MIT			|[Github][]													|1.1.1		|					100%|1.1.1		|none		|
 [OutpostPlanner][]									|MIT			|[Github][Ben-Ramchandani/OutpostPlanner]					|1.1.1		|					100%|1.1.1		|none		|
-[Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.0.5		|					100%|false		|none		|
+[Picker Atheneum][]									|MIT			|[Github][Nexela/PickerAtheneum]							|1.1.1		|					100%|false		|none		|
 [Picker Extended Version][]							|MIT			|[Github][Nexela/PickerExtended]							|4.0.10		|					100%|3.0.5		|none		|
-[Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.0.2		|					100%|3.0.5		|none		|
+[Picker Belt Tools][]								|MIT			|[Github][Nexela/PickerBeltTools]							|1.1.3		|					100%|3.0.5		|none		|
 [Picker Blueprinter][]								|MIT			|[Github][Nexela/PickerBlueprinter]							|1.0.6		|					100%|3.0.5		|none		|
-[Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.0		|					100%|3.0.5		|none		|
+[Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.1		|					100%|3.0.5		|none		|
 [Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.3		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.3		|					100%|3.0.5		|none		|
 [Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.2		|					100%|3.0.5		|none		|
 [Picker Vehicles][]									|MIT			|[Github][Nexela/PickerVehicles]							|1.0.4		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|1.0.1		|Hard-coded text	100%|0.1.5		|none		|
 [Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.1.0		|					100%|1.0.2		|none		|
-[PlannerCore][]										|MIT			|[Github][Ben-Ramchandani/PlannerCore]						|0.2.0		|					100%|0.2.0		|none		|
+[PlannerCore][]										|MIT			|[Github][Ben-Ramchandani/PlannerCore]						|0.2.1		|					100%|0.2.1		|none		|
 [Platforms][]										|MIT			|[Github][]													|19.18.3	|					100%|19.18.3	|none		|
 [Pollution Control][]								|MIT			|[Github][pavel-krush/pollution-control]					|1.0.4		|Hard-coded text	100%|1.0.4		|none		|
 [Pollution detector][]								|Beer-Ware		|[Github][]													|0.5.1		|					100%|0.4.0		|none		|
@@ -117,11 +117,11 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Realistic Reactor Glow][]							|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]			|1.17.3		|Description only	100%|1.17.3		|none		|
 [RealisticReactors][]								|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]			|2.0.2		|					100%|1.0.5		|none		|
 [Recipe Explorer][]									|MIT			|[Github][ElmarWueest/Recexplo]								|0.17.02	|					100%|0.16.13	|none		|
-[Recursive Blueprints][]							|MIT			|[Github][DaveMcW/factorio-bad-chest]						|0.17.6		|					100%|0.17.6		|none		|
+[Recursive Blueprints][]							|MIT			|[Github][DaveMcW/factorio-bad-chest]						|0.17.7		|					100%|0.17.7		|none		|
 [Recycle Everything][]								|MIT			|[Github][BJNick/factorio-recycling]						|0.3.1		|					100%|0.3.1		|none		|
 [Research queue][]									|MIT			|[Github][]													|1.6.7		|Hard-coded text	100%|1.6.7		|none		|
 [Resource Labels][]									|MIT			|[Github][Pandemoneus/Resource-Labels]						|0.16.10	|					100%|0.16.10	|none		|
-[Reverse Factory][]									|MIT			|[Github][]													|6.0.9		|					100%|6.0.4		|none		|
+[Reverse Factory][]									|MIT			|[Github][]													|6.1.3		|					100%|6.0.4		|none		|
 [ShinyIcons][]										|MIT			|[Github][]													|0.17.4		|Description only	100%|0.17.4		|none		|
 [Shortcuts][]										|MIT			|[Github][npc-strider/factorio-shortcuts]					|0.7.4		|Description only	100%|false		|none		|
 [Show Bots On Map][]								|MIT			|[Github][]													|0.0.1		|Description only	100%|0.0.1		|none		|false
@@ -133,7 +133,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Stone Water Well][]								|CC-BY-3.0		|[Github][]													|1.17.0		|					100%|1.17.0		|none		|
 [Test Site][]										|LGPLv3			|[Github][]													|0.0.1		|					100%|0.0.1		|none		|
 [Text Plates][]										|MIT			|[Github][]													|0.4.6		|					100%|0.4.1		|none		|
-[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.12		|					100%|4.0.12		|none		|
+[The Fat Controller][]								|MIT			|[Github][Choumiko/TheFatController]						|4.0.13		|					100%|4.0.13		|none		|
 [Time Tools (+game speed +clock combinators)][]		|MIT			|[Github][]													|1.0.36		|					100%|1.0.31		|none		|
 [Tree Collision][]									|MIT			|[Github][]													|0.5.1		|Description only	100%|0.5.1		|none		|
 [Underground Indicators][]							|MIT			|[Github][]													|1.1.0		|					100%|1.1.0		|none		|
@@ -205,7 +205,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Hand Crank]: https://mods.factorio.com/mod/HandCrank "Josh Junon"
 [Helmod: assistant for planning your base.]: https://mods.factorio.com/mod/helmod "Helfima"
 [Hovercrafts]: https://mods.factorio.com/mod/Hovercrafts "Arcani_Victus"
-[Inlaid Lamps]: https://mods.factorio.com/mod/InlaidLamps "Kitsunekaze93"
+[Inlaid Lamps Extended]: https://mods.factorio.com/mod/InlaidLampsExtended "Mathematician"
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor "Optera"
 [Iron Man]: https://mods.factorio.com/mod/IronMan "Hellfire1979"
 [More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters "Kryzeth"
