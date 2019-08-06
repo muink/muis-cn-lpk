@@ -143,7 +143,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Utilization Monitor][]								|0.5.0		|Hard-coded text	100%|0.5.0		|none
 [Vehicle Wagon][]									|1.2.5		|					100%|1.2.5		|none
 [Wagon Colors][]									|0.1.1		|					100%|false		|none
-[Wire Shortcuts][]									|0.2.178	|					100%|false		|none
+[Wire Shortcuts][]									|0.3.172	|					100%|false		|none
 [YARM - Resource Monitor][]							|0.8.18		|					100%|0.7.309	|0.7.309
 
 
