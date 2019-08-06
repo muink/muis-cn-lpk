@@ -101,7 +101,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Picker Cheats][]									|MIT			|[Github][Nexela/PickerCheats]								|1.0.1		|					100%|3.0.5		|none		|
 [Picker Dollies][]									|MIT			|[Github][Nexela/PickerDollies]								|1.0.3		|					100%|3.0.5		|none		|
 [Picker Equipment Keys][]							|MIT			|[Github][Nexela/PickerEquipmentKeys]						|1.0.3		|					100%|3.0.5		|none		|
-[Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.2		|					100%|3.0.5		|none		|
+[Picker Inventory Tools][]							|MIT			|[Github][Nexela/PickerInventoryTools]						|1.0.4		|					100%|3.0.5		|none		|
 [Picker Vehicles][]									|MIT			|[Github][Nexela/PickerVehicles]							|1.0.4		|					100%|3.0.5		|none		|
 [Picker Pipe Tools][]								|MIT			|[Github][Nexela/PickerPipeTools]							|1.0.1		|Hard-coded text	100%|0.1.5		|none		|
 [Picker Tweaks][]									|MIT			|[Github][Nexela/PickerTweaks]								|2.1.0		|					100%|1.0.2		|none		|
