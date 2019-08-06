@@ -60,7 +60,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Fish and Wildlife][]								|0.2.3		|					100%|0.1.11		|none
 [Geothermal][]										|1.17.12	|					100%|1.17.2		|none
 [Ghost Scanner][]									|1.4.4		|					100%|1.4.3		|none
-[Glowing Laser beams][]								|0.17.10	|					100%|false		|none
+[Glowing Laser beams][]								|0.17.12	|					100%|false		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.12		|					100%|0.8.12		|none
 [Hovercrafts][]										|0.17.15	|					100%|0.0.8		|none
