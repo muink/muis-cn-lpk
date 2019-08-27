@@ -22,7 +22,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Bio Industries][]									|0.17.31	|					100%|2.7.0		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
 [Bullet Trails][]									|0.4.1		|Description only	100%|0.4.1		|none
-[Crafting Combinator][]								|0.13.1		|					100%|0.9.12		|none
+[Crafting Combinator][]								|0.13.4		|					100%|0.9.12		|none
 [Cement Shoes][]									|0.1.1		|					100%|0.1.1		|none
 [Cannon Turret][]									|1.5.2		|					100%|1.4.1		|none
 [Cheaper Landfill][]								|1.7.0		|					100%|1.7.0		|none
@@ -32,12 +32,12 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Controllinator][]									|0.4.2		|Hard-coded text	100%|0.4.2		|none
 [Copy & Paste Modules][]							|1.0.0		|Included CN		100%|1.0.0		|none
 [Creative World][]									|0.2.0		|Description only	100%|0.2.0		|none
-[Deadlock's Larger Lamps][]							|1.2.5		|					100%|false		|none
+[Deadlock's Larger Lamps][]							|1.2.6		|					100%|false		|none
 [Deadlock's Crating Machineg][]						|1.5.1		|					100%|false		|none
 [Deadlock's Compact Loaders][]						|1.7.3		|					100%|1.6.0		|none
 [Deadlock's Stacking Beltboxes][]					|1.7.3		|					100%|1.6.3		|none
-[Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.2.0		|					100%|1.7.3		|none
-[Deadlock Experimental Stacking][]					|0.17.6		|					100%|false		|none
+[Deadlock's Stacking Beltboxes & Compact Loaders][]	|2.2.1		|					100%|1.7.3		|none
+[Deadlock Experimental Stacking][]					|0.17.7		|					100%|false		|none
 [Deadlock-Mod Integrations][]						|2.0.11		|					100%|1.7.3		|none
 [Death Markers][]									|0.2.0		|					100%|false		|none
 [Deep core mining][]								|1.17.5		|Hard-coded text	100%|1.12.2		|none
@@ -49,7 +49,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Fire extinguisher][]								|0.17.0		|					100%|0.17.0		|none
 [FactorioLogo][]									|0.3.0		|					100%|0.3.0		|none
 [Unconnected Pipe Finder][]							|1.0.0		|					100%|1.0.0		|none
-[Factorissimo2][]									|2.3.6		|					100%|2.3.6		|none
+[Factorissimo2][]									|2.3.7		|					100%|2.3.7		|none
 [Fully Automated Rail Layer][]						|3.1.12		|					100%|2.1.2		|none
 [Far Reach][]										|0.0.11		|					100%|0.0.11		|none
 [Remove Tiles Quickly][]							|0.0.8		|Description only	100%|false		|none
@@ -59,7 +59,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Free circuit wires][]								|1.0.2		|Description only	100%|1.0.2		|none
 [Fish and Wildlife][]								|0.2.3		|					100%|0.1.11		|none
 [Geothermal][]										|1.17.12	|					100%|1.17.2		|none
-[Ghost Scanner][]									|1.4.4		|					100%|1.4.3		|none
+[Ghost Scanner][]									|1.4.5		|					100%|1.4.3		|none
 [Glowing Laser beams][]								|0.17.12	|					100%|false		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
 [Helmod: assistant for planning your base.][]		|0.8.12		|					100%|0.8.12		|none
@@ -80,7 +80,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Modular Buildings][]								|0.16.5		|Hard-coded text	100%|false		|none
 [More Minimap Autohide][]							|1.0.0		|					100%|1.0.0		|none
 [Muro automatic wall builder][]						|1.0.2		|					100%|1.0.2		|none
-[Mushroom Cloud][]									|1.0.8		|					100%|1.0.5		|none
+[Mushroom Cloud][]									|1.0.9		|					100%|1.0.5		|none
 [Mustard Artillery Shells][]						|1.0.6		|					100%|1.0.6		|none
 [My Tree Mod][]										|1.1.3		|					100%|1.1.3		|none
 [NapalmArtillery][]									|0.17.5		|					100%|0.17.5		|none
@@ -119,8 +119,8 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Realistic Ores][]									|5.17.5		|Hard-coded text	100%|4.17.3		|none
 [Realistic Reactor Glow][]							|1.17.3		|Description only	100%|1.17.3		|none
 [RealisticReactors][]								|2.0.2		|					100%|1.0.5		|none
-[Recipe Explorer][]									|0.17.02	|					100%|0.16.13	|none
-[Recursive Blueprints][]							|0.17.7		|					100%|0.17.7		|none
+[Recipe Explorer][]									|0.17.05	|					100%|0.16.13	|none
+[Recursive Blueprints][]							|0.17.9		|					100%|0.17.9		|none
 [Recycle Everything][]								|0.3.1		|					100%|0.3.1		|none
 [Research queue][]									|1.6.7		|Hard-coded text	100%|1.6.7		|none
 [Resource Labels][]									|0.16.10	|					100%|0.16.10	|none
@@ -136,7 +136,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Stone Water Well][]								|1.17.0		|					100%|1.17.0		|none
 [Test Site][]										|0.0.1		|					100%|0.0.1		|none
 [Text Plates][]										|0.4.6		|					100%|0.4.1		|none
-[The Fat Controller][]								|4.0.14		|					100%|4.0.14		|none
+[The Fat Controller][]								|4.0.15		|					100%|4.0.15		|none
 [Time Tools (+game speed +clock combinators)][]		|1.0.36		|					100%|1.0.31		|none
 [Tree Collision][]									|0.5.1		|Description only	100%|0.5.1		|none
 [Underground Indicators][]							|1.1.0		|					100%|1.1.0		|none
