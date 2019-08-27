@@ -16,8 +16,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Train Painter][]							|0.2.9		|					100%|false		|none
 [Belt Reverser][]									|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]								|1.0.0		|					100%|1.0.0		|none
-[Better Ore Icons][]								|0.17.2		|Description only	100%|0.17.2		|none
-[Blueprintable Trains][]							|0.16.20	|					100%|0.16.20	|none
 [Blueprint Alignment][]								|0.0.5		|Hard-coded text	100%|0.0.5		|none
 [Bio Industries][]									|0.17.31	|					100%|2.7.0		|none
 [Bottleneck][]										|0.10.4		|					100%|0.10.4		|none
@@ -163,8 +161,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Automatic Train Painter]: https://mods.factorio.com/mod/Automatic_Train_Painter
 [Belt Reverser]: https://mods.factorio.com/mod/belt-reverser
 [Better Inserters]: https://mods.factorio.com/mod/Better-Inserters
-[Better Ore Icons]: https://mods.factorio.com/mod/better_ore_icons
-[Blueprintable Trains]: https://mods.factorio.com/mod/blueprint-train
 [Blueprint Alignment]: https://mods.factorio.com/mod/BlueprintAlignment
 [Bio Industries]: https://mods.factorio.com/mod/Bio_Industries
 [Bottleneck]: https://mods.factorio.com/mod/Bottleneck
