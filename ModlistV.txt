@@ -116,7 +116,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [QuickBar Import/Export][]							|MIT			|[Github][ClaudeMetz/QuickBarImportExport]					|0.17.6		|					100%|false		|none		|
 [Quick Deconstruct][]								|MIT			|[Github][Jarcionek/Factorio-Quick-Deconstruct]				|1.0.0		|					100%|false		|none		|
 [Radar Grid Guide][]								|MIT			|[Github][jonatkins/RadarGridGuide]							|0.17.0		|Hard-coded text	100%|0.17.0		|none		|
-[Realistic Ores][]									|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]					|5.17.2		|Hard-coded text	100%|4.17.3		|none		|
+[Realistic Ores][]									|MIT			|[Github][ouk-ouk/Factorio-RealisticOres]					|5.17.5		|Hard-coded text	100%|4.17.3		|none		|
 [Realistic Reactor Glow][]							|MIT			|[Github][ouk-ouk/Factorio-RealisticReactorGlow]			|1.17.3		|Description only	100%|1.17.3		|none		|
 [RealisticReactors][]								|MIT			|[Github][IngoKnieto/factorio-realistic-reactors]			|2.0.2		|					100%|1.0.5		|none		|
 [Recipe Explorer][]									|MIT			|[Github][ElmarWueest/Recexplo]								|0.17.02	|					100%|0.16.13	|none		|
