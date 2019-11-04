@@ -13,7 +13,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Auto Research][]									|MIT			|[Github][canidae/factorio]									|5.0.2		|					100%|5.0.2		|none		|
 [Beautiful Bridge Railway][]						|MIT			|[Github][]													|0.17.3		|					100%|0.17.2		|none		|
 [Automatic Belt Planner][]							|MIT			|[Github][]													|0.12.0		|					100%|0.12.0		|none		|
-[Automatic Train Painter][]							|MIT			|[Github][]													|0.2.9		|					100%|false		|none		|
+[Automatic Train Painter][]							|MIT			|[Github][]													|0.3.2		|					100%|false		|none		|
 [Belt Reverser][]									|MIT			|[Github][Cogito/belt-reverser]								|0.0.5		|					100%|0.0.5		|none		|
 [Better Inserters][]								|Non-standard	|[Github][]													|1.0.0		|					100%|1.0.0		|none		|
 [Blueprint Alignment][]								|MIT			|[Github][steffen-kiess/factorio-BlueprintAlignment]		|0.0.5		|Hard-coded text	100%|0.0.5		|none		|

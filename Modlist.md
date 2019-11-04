@@ -13,7 +13,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Auto Research][]									|5.0.2		|					100%|5.0.2		|none
 [Beautiful Bridge Railway][]						|0.17.3		|					100%|0.17.2		|none
 [Automatic Belt Planner][]							|0.12.0		|					100%|0.12.0		|none
-[Automatic Train Painter][]							|0.2.9		|					100%|false		|none
+[Automatic Train Painter][]							|0.3.2		|					100%|false		|none
 [Belt Reverser][]									|0.0.5		|					100%|0.0.5		|none
 [Better Inserters][]								|1.0.0		|					100%|1.0.0		|none
 [Blueprint Alignment][]								|0.0.5		|Hard-coded text	100%|0.0.5		|none
