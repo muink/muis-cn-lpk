@@ -60,7 +60,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Ghost Scanner][]									|1.4.5		|					100%|1.4.3		|none
 [Glowing Laser beams][]								|0.17.12	|					100%|false		|none
 [Hand Crank][]										|0.1.0		|					100%|0.1.0		|none
-[Helmod: assistant for planning your base.][]		|0.9.2		|					100%|0.8.12		|none
+[Helmod: assistant for planning your base.][]		|0.9.11		|					100%|0.8.12		|none
 [Hovercrafts][]										|0.17.15	|					100%|0.0.8		|none
 [Inlaid Lamps Extended][]							|0.1.4		|					100%|0.1.1		|none
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
