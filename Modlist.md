@@ -2,7 +2,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 :---------------------------------------------------|:---------:|----------------------:|:---------:|------
 [Factorio Standard Library][]						|1.2.2		|Description only	100%|1.2.2		|none
 [A Better Start (Quick Start)][]					|0.3.0		|					100%|0.3.0		|none
-[Actual Craft Time][]								|0.3.9		|Hard-coded text	100%|0.3.9		|none
+[Actual Craft Time][]								|0.4.5		|Hard-coded text	100%|0.3.9		|none
 [Adequate Bot Start][]								|0.16.1		|Description only	100%|0.16.1		|none
 [Advanced Belt Laying][]							|0.16.0		|Description only	100%|0.16.0		|none
 [Alien Biomes][]									|0.4.15		|Hard-coded text	100%|0.3.10		|none
