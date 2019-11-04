@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.11
+Date: 04. 11. 2019
+  Changes:
+    - 更新 Helmod 到 0.9.11
+    - 更新 Automatic Train Painter 到 0.3.2
+    - 更新 Actual Craft Time 到 0.4.5
+    - 更新 NapalmArtillery 到 0.17.6
+    - 更新 Realistic Ores 到 5.17.8
+    - 更新 More Long Inserters 到 2.1.0
+    - 更新 Cannon Turret 到 1.7.0
+---------------------------------------------------------------------------------------------------
+Version: 2.1.10
+Date: 27. 08. 2019
+  Changes:
+    - 更新 Crafting Combinator 到 0.13.4
+    - 更新 Picker Inventory Tools 到 1.0.4
+    - 更新 Glowing Laser beams 到 0.17.12
+    - 更新 Wire Shortcuts 到 0.3.172
+    - 更新 Bio Industries 到 0.17.31
+    - 更新 Realistic Ores 到 5.17.5
+  Adds:
+    - 移除 Blueprintable Trains
+    - 移除 Better Ore Icons
+---------------------------------------------------------------------------------------------------
 Version: 2.1.10
 Date: 27. 08. 2019
   Changes:
