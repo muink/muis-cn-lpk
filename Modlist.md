@@ -65,7 +65,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Inlaid Lamps Extended][]							|0.1.4		|					100%|0.1.1		|none
 [Inventory Sensor][]								|1.7.3		|					100%|1.7.3		|none
 [Iron Man][]										|1.0.2		|					100%|1.0.2		|none
-[More Inserters + Menu Cleaner][]					|2.1.0		|					100%|1.0.3		|none
+[More Long Inserters][]			            		|2.1.0		|					100%|1.0.3		|none
 [Lamps on Map][]									|0.0.2		|Description only	100%|false		|none
 [LD Auto Circuit][]									|0.2.2		|					100%|false		|none
 [Light Cone][]										|0.1.5		|Description only	100%|0.0.1		|none
@@ -210,7 +210,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Inlaid Lamps Extended]: https://mods.factorio.com/mod/InlaidLampsExtended
 [Inventory Sensor]: https://mods.factorio.com/mod/Inventory%20Sensor
 [Iron Man]: https://mods.factorio.com/mod/IronMan
-[More Inserters + Menu Cleaner]: https://mods.factorio.com/mod/kry-inserters
+[More Long Inserters]: https://mods.factorio.com/mod/kry-inserters
 [Lamps on Map]: https://mods.factorio.com/mod/lampsonmap
 [LD Auto Circuit]: https://mods.factorio.com/mod/LD_AutoCircuit
 [Light Cone]: https://mods.factorio.com/mod/LightCone
