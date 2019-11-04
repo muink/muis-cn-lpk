@@ -65,7 +65,7 @@ Mod name											|License		|Source code												|ZH version	|Completion rat
 [Inlaid Lamps Extended][]							|MIT			|[Github][]													|0.1.4		|					100%|0.1.1		|none		|
 [Inventory Sensor][]								|Non-standard	|[Github][Yousei9/Inventory-Sensor]							|1.7.3		|					100%|1.7.3		|none		|
 [Iron Man][]										|MIT			|[Github][]													|1.0.2		|					100%|1.0.2		|none		|
-[More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.0.4		|					100%|1.0.3		|none		|
+[More Inserters + Menu Cleaner][]					|BY-NC 4.0		|[Github][]													|2.1.0		|					100%|1.0.3		|none		|
 [Lamps on Map][]									|MIT			|[Github][Godmave/lampsonmap]								|0.0.2		|Description only	100%|false		|none		|
 [LD Auto Circuit][]									|GPLv3			|[Github][Omnifarious/LD_AutoCircuit]						|0.2.2		|					100%|false		|none		|
 [Light Cone][]										|MIT			|[Github][]													|0.1.5		|Description only	100%|0.0.1		|none		|
