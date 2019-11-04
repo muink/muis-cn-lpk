@@ -81,7 +81,7 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Mushroom Cloud][]									|1.0.9		|					100%|1.0.5		|none
 [Mustard Artillery Shells][]						|1.0.6		|					100%|1.0.6		|none
 [My Tree Mod][]										|1.1.3		|					100%|1.1.3		|none
-[NapalmArtillery][]									|0.17.5		|					100%|0.17.5		|none
+[NapalmArtillery][]									|0.17.6		|					100%|0.17.5		|none
 [Natural Tree Expansion Reloaded][]					|0.17.0		|					100%|0.17.0		|none
 [NiceFill][]										|0.1.16		|					100%|0.1.16		|none
 [Noxys Deep Core Mining Tweak][]					|0.1.1		|					100%|0.1.1		|none
