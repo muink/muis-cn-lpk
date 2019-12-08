@@ -52,7 +52,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Far Reach][]										|0.0.11		|					100%|0.0.11		|none
 [Remove Tiles Quickly][]							|0.0.8		|Description only	100%|false		|none
 [Flare Stack][]										|2.2.3		|					100%|2.2.3		|none
-[Four toolbelts][]									|0.16.1		|Description only	100%|0.16.1		|none
 [Stop That, Silly Robot!][]							|0.1.4		|					100%|0.1.4		|none
 [Free circuit wires][]								|1.0.2		|Description only	100%|1.0.2		|none
 [Fish and Wildlife][]								|0.2.3		|					100%|0.1.11		|none
@@ -197,7 +196,6 @@ Mod name											|ZH version	|Completion rate		|Verified	|Pushed
 [Far Reach]: https://mods.factorio.com/mod/far-reach
 [Remove Tiles Quickly]: https://mods.factorio.com/mod/FastRemoveTiles
 [Flare Stack]: https://mods.factorio.com/mod/Flare%20Stack
-[Four toolbelts]: https://mods.factorio.com/mod/four-toolbelts
 [Stop That, Silly Robot!]: https://mods.factorio.com/mod/folk-stopthat
 [Free circuit wires]: https://mods.factorio.com/mod/free_circuit_wires
 [Fish and Wildlife]: https://mods.factorio.com/mod/fws
